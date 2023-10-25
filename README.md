@@ -7,4 +7,4 @@ The malware code is wtten by malcious actor, I do not take any responsabilty or 
 
 To take precaustions I will try to defang any malcious scripts or push malware in encrypted format.
 
-For those who don't knwo what is defang, converting http:// to hxxp:// so it won't reach out to internet if click my mistake or executed by mistake.
+For those who don't know what is defang, converting http:// to hxxp:// so it won't reach out to internet if accidently clicked.
