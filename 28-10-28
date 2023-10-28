@@ -1,0 +1,139 @@
+Top 5 malcious IP for the Date: 
+117.60.106.28
+38.29.176.98
+117.210.145.23
+49.89.164.191
+117.81.91.64
+
+Top command seen to be executed by these IPs are: (Almost all these commands found to be executing are part of sandbox detection activity, a good TTP for detection of spray and prey kind of attackers)
+
+echo 1 && cat /bin/echo
+root
+7ujMko0admin
+root
+alpine
+user
+user
+admin
+1234
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox PGGBA
+cd /dev/shm; cat s || cp /bin/echo s; /bin/busybox PGGBA
+tftp; wget; /bin/busybox PGGBA
+dd bs=52 count=1 if=s || cat s || while read i; do echo $i; done < s
+
+
+enable compgen
+enable complete
+enable continue
+enable declare
+enable dirs
+enable disown
+enable echo
+enable enable
+enable eval
+enable exec
+enable exit
+enable export
+enable false
+enable fc
+enable fg
+enable getopts
+enable hash
+enable help
+enable history
+enable jobs
+enable kill
+enable let
+enable local
+enable logout
+enable popd
+enable printf
+enable pushd
+enable pwd
+enable read
+enable readonly
+enable return
+enable set
+enable shift
+enable shopt
+enable source
+enable suspend
+enable test
+enable times
+enable trap
+enable true
+enable type
+enable typeset
+enable ulimit
+enable umask
+enable unalias
+enable unset
+enable wait
+system
+-bash: system: command not found
+ shell
+-bash: shell: command not found
+ sh
+cat /proc/mounts; /bin/busybox PGGBA
+rootfs / rootfs rw 0 0
+sysfs /sys sysfs rw,nosuid,nodev,noexec,relatime 0 0
+proc /proc proc rw,relatime 0 0
+udev /dev devtmpfs rw,relatime,size=10240k,nr_inodes=997843,mode=755 0 0
+devpts /dev/pts devpts rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000 0 0
+tmpfs /run tmpfs rw,nosuid,relatime,size=1613336k,mode=755 0 0
+/dev/dm-0 / ext3 rw,relatime,errors=remount-ro,data=ordered 0 0
+tmpfs /dev/shm tmpfs rw,nosuid,nodev 0 0
+tmpfs /run/lock tmpfs rw,nosuid,nodev,noexec,relatime,size=5120k 0 0
+systemd-1 /proc/sys/fs/binfmt_misc autofs rw,relatime,fd=22,pgrp=1,timeout=300,minproto=5,maxproto=5,direct 0 0
+fusectl /sys/fs/fuse/connections fusectl rw,relatime 0 0
+/dev/sda1 /boot ext2 rw,relaenable compgen
+enable complete
+enable continue
+enable declare
+enable dirs
+enable disown
+enable echo
+enable enable
+enable eval
+enable exec
+enable exit
+enable export
+enable false
+enable fc
+enable fg
+enable getopts
+enable hash
+enable help
+enable history
+enable jobs
+enable kill
+enable let
+enable local
+enable logout
+enable popd
+enable printf
+enable pushd
+enable pwd
+enable read
+enable readonly
+enable return
+enable set
+enable shift
+enable shopt
+enable source
+enable suspend
+enable test
+enable times
+enable trap
+enable true
+enable type
+enable typeset
+enable ulimit
+enable umask
+enable unalias
+enable unset
+enable wait
