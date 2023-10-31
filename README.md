@@ -6,3 +6,6 @@ If you don't know what you are doing then don't even try to execute code from th
 As precautionary step I will try to defang any malcious part.
 
 Feel free to reach out If you are interested in full and updated list of daily IOC's .
+
+
+PS: This is a personal project and not associated with my employer. 
