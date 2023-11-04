@@ -14,7 +14,7 @@ Executing code from this repository on any endpoint without a clear understandin
 
 ## Contribution and Contact
 
-For an updated list of daily IoCs or to contribute, feel free to reach out.
+For an updated list of daily IoCs or to contribute, feel free to reach out me[at]himanshuanand.com.
 
 ## Disclaimer
 
