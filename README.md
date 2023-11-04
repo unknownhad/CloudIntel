@@ -1,11 +1,29 @@
-# AWSAttacks
-This repo contains IOC, malware and malware analysis associated with AWS cloud
+# AWS Attacks Monitoring Project
 
-If you don't know what you are doing then don't even try to execute code from this repo on any endpoint.
+This repository hosts resources and findings from a project aimed at monitoring attacks on AWS infrastructure, particularly focusing on cloud-native and cloud-only threats.
 
-As precautionary step I will try to defang any malcious part.
+## Contents
 
-Feel free to reach out If you are interested in full and updated list of daily IOC's .
+- Indicators of Compromise (IoCs)
+- Malware Analysis
+- Malware Samples
 
+## Usage Warning
 
-PS: This is a personal project and not associated with my employer. 
+Executing code from this repository on any endpoint without a clear understanding could be harmful. Precautionary measures have been taken to defang malicious parts, yet caution is strongly advised.
+
+## Contribution and Contact
+
+For an updated list of daily IoCs or to contribute, feel free to reach out.
+
+## Disclaimer
+
+This is a personal project and not associated with any employer.
+
+## License
+
+[MIT License](LICENSE)
+
+---
+
+For more detailed insights, check out the accompanying [blog post](https://blog.himanshuanand.com/posts/announcingawsattacks/).
