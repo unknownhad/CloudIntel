@@ -44,7 +44,7 @@ For full details, visit our [Wiki](https://github.com/unknownhad/AWSAttacks/wiki
 For feature requests or contributions, open an [issue](https://github.com/unknownhad/AWSAttacks/issues).
 
 ## Acknowledgements
-Special thanks to @michelbamps(https://github.com/michelbamps) for his expertise and assistance in integrating Cloudflare Workers with R2, a crucial part of the AWSAttacks infrastructure.
+Special thanks to [Michel Bamps](https://github.com/michelbamps) for his expertise and assistance in integrating Cloudflare Workers with R2, a crucial part of the AWSAttacks infrastructure.
 
 Remember to use the IOCs within the bounds of the [MIT License](LICENSE) and understand that this is a personal project, not associated with any employer.
 
