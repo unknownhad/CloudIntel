@@ -1,0 +1,95 @@
+Top 5 IPs for 2023-11-30:
+223.8.196.18
+118.33.167.186
+116.55.179.27
+46.236.65.54
+172.31.88.137
+
+List of commands seen after bruteforce:
+login: ...Password: 
+Login incorrect
+login: ...Password: 
+Login incorrect
+login: ...Password: 
+Login incorrect
+login: ...Password: 
+Login incorrect
+login: ...Password: 
+enable\r
+enable .\r
+enable :\r
+enable [\r
+enable alias\r
+enable bg\r
+enable bind\r
+enable break\r
+enable builtin\r
+enable caller\r
+enable cd\r
+enable command\r
+enable compgen\r
+enable complete\r
+enable continue\r
+enable declare\r
+enable dirs\r
+enable disown\r
+enable echo\r
+enable enable\r
+enable eval\r
+enable exec\r
+enable exit\r
+enable export\r
+enable false\r
+enable fc\r
+enable fg\r
+enable getopts\r
+enable hash\r
+enable help\r
+enable history\r
+enable jobs\r
+enable kill\r
+enable let\r
+enable local\r
+enable logout\r
+enable popd\r
+enable printf\r
+enable pushd\r
+enable pwd\r
+enable read\r
+enable readonly\r
+enable return\r
+enable set\r
+enable shift\r
+enable shopt\r
+enable source\r
+enable suspend\r
+enable test\r
+enable times\r
+enable trap\r
+enable true\r
+enable type\r
+enable typeset\r
+enable ulimit\r
+enable umask\r
+enable unalias\r
+enable unset\r
+enable wait\r
+shell\r
+sh\r
+cat /proc/mounts; /bin/busybox KBYGB\r
+rootfs / rootfs rw 0 0\r
+sysfs /sys sysfs rw,nosuid,nodev,noexec,relatime 0 0\r
+proc /proc proc rw,relatime 0 0\r
+udev /dev devtmpfs rw,relatime,size=10240k,nr_inodes=997843,mode=755 0 0\r
+devpts /dev/pts devpts rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000 0 0\r
+tmpfs /run tmpfs rw,nosuid,relatime,size=1613336k,mode=755 0 0\r
+/dev/dm-0 / ext3 rw,relatime,errors=remount-ro,data=ordered 0 0\r
+tmpfs /dev/shm tmpfs rw,nosuid,nodev 0 0\r
+tmpfs /run/lock tmpfs rw,nosuid,nodev,noexec,relatime,size=5120k 0 0\r
+systemd-1 /proc/sys/fs/binfmt_misc autofs rw,relatime,fd=22,pgrp=1,timeout=300,minproto=5,maxproto=5,direct 0 0\r
+fusectl /sys/fs/fuse/connections fusectl rw,relatime 0 0\r
+/dev/sda1 /boot ext2 rw,relatime 0 0\r
+/dev/mapper/home /home ext3 rw,relatime,data=ordered 0 0\r
+binfmt_misc /proc/sys/fs/binfmt_misc binfmt_misc rw,relatime 0 0\r
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox KBYGB\r
+tftp; wget; /bin/busybox KBYGB\r
