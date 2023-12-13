@@ -38,7 +38,7 @@ Response format: JSON containing all observed malicious IP addresses.
 6. **Getting Support**: For questions or support, open an issue or reach out to [me[at]himanshuanand.com](mailto:me@himanshuanand.com).
 
 ## Documentation
-For full details, visit our [Wiki](https://github.com/unknownhad/AWSAttacks/wiki/Welcome-to-the-AWSAttacks-Wiki!).
+For full details, visit our [Wiki](https://github.com/unknownhad/AWSAttacks/wiki/Welcome-to-the-AWSAttacks-Wiki).
 
 ## Feature Requests and Contributions
 For feature requests or contributions, open an [issue](https://github.com/unknownhad/AWSAttacks/issues).
