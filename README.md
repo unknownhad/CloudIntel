@@ -16,14 +16,19 @@ This repository is structured to aid in the monitoring of AWS infrastructure att
 - Malware Samples
 
 ## Usage
-To use the AWSAttacks API, make requests as follows:
 
+To retrieve a comprehensive list of malicious IPs, which is about 30 times larger than the public list on GitHub, use the AWSAttacks API as follows:
+
+```bash
+curl -X GET \
+  'https://cloudintel.himanshuanand.com/v1/maliciousip?date=MM-DD-YYYY' \
+  -H 'x-api-key: [Your_API_Key]' \
+  -H 'x-email: [Your_Email]'
 ```
-curl -X GET
-'https://cloudintel.himanshuanand.com/v1/maliciousip?date=MM-DD-YYYY'
--H 'x-api-key: [Your_API_Key]'
--H 'x-email: [Your_Email]'
-```
+Note:
+
+Replace MM-DD-YYYY with the specific date for which you want to fetch IP addresses. For example, to fetch IPs for `December 25, 2023`, replace `MM-DD-YYYY` it with `12-25-2023`.
+Ensure to include your API key and email in the respective placeholders [Your_API_Key] and [Your_Email].
 
 Response format: JSON containing all observed malicious IP addresses.
 
