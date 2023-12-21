@@ -32,6 +32,10 @@ Ensure to include your API key and email in the respective placeholders [Your_AP
 
 Response format: JSON containing all observed malicious IP addresses.
 
+## Case Study/Suecess Stories
+1. I have doucmneted multiple new findings associated with the Intel data publish, it can be read over here : https://blog.himanshuanand.com/
+2. TBD (If you have any new findings then please do share it with us and we publish it here) 
+
 
 ### How to Use this Repository
 
