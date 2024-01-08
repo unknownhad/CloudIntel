@@ -19,6 +19,14 @@ This repository is structured to aid in the monitoring of AWS infrastructure att
 
 To retrieve a comprehensive list of malicious IPs, which is about 30 times larger than the public list on GitHub, use the AWSAttacks API as follows:
 
+## Demo credentials
+
+Feel free to use demo key and Email for testing (This key/Email can change without any notice for andy prod usage please ask for the key)
+The Email and key are enclosed between double "qoutes"
+
+Demo Email : "democloudintel@himanshuanand.com"
+Demo Key   : "key{democloudintel}"
+
 ## For your API key please[ Email](mailto:me@himanshuanand.com) OR fill this [form](https://forms.gle/Eo163CxUssNE1S7z7)
 
 ```bash
