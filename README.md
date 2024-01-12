@@ -1,5 +1,7 @@
 # CloudIntel Attacks Monitoring Project
 
+## Previous name of this project was AWSAttacks, renamed it to CloudIntel as this I am expangin this to other platforms (Currently working on Azure and GCP)
+
 This repository hosts resources and findings from a project aimed at monitoring attacks on Public Cloud infrastructure, particularly focusing on cloud-native and cloud-only threats.
 
 ## Features
