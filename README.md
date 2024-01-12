@@ -31,7 +31,7 @@ Demo Key   : "key{democloudintel}"
 
 ```bash
 curl -X GET \
-  'https://cloudintel.himanshuanand.com/v1/maliciousip?date=MM-DD-YYYY' \
+  'https://api.cloudintel.info/v1/maliciousip?date=MM-DD-YYYY' \
   -H 'x-api-key: [Your_API_Key]' \
   -H 'x-email: [Your_Email]'
 ```
