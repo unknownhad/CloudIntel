@@ -24,7 +24,7 @@ To retrieve a comprehensive list of malicious IPs, which is about 30 times large
 ## Demo credentials
 
 Feel free to use demo key and Email for testing (This key/Email can change without any notice for andy prod usage please ask for the key)
-The Email and key are enclosed between double "qoutes"
+The Email and key are enclosed between double "quotes"
 
 Demo Email : "democloudintel@himanshuanand.com"
 Demo Key   : "key{democloudintel}"
@@ -44,7 +44,7 @@ Ensure to include your API key and email in the respective placeholders [Your_AP
 
 Response format: JSON containing all observed malicious IP addresses.
 
-## Case Study/Sucess Stories
+## Case Study/Success Stories
 1. My findings are published over : https://blog.himanshuanand.com/
 2. TBD (If you have any new findings then please do share it with us, will link it here) 
 
