@@ -1,6 +1,5 @@
 # CloudIntel Attacks Monitoring Project
 ![Cloud Intel](https://github.com/unknownhad/CloudIntel/assets/441098/2fcefc5d-d707-49c0-acbc-5546c440745f)
-## Old name of this project was AWSAttacks
 
 This repository hosts resources and findings from a project aimed at monitoring attacks on Public Cloud infrastructure, particularly focusing on cloud-native and cloud-only threats.
 
@@ -60,6 +59,13 @@ Response format: JSON containing all observed malicious IP addresses.
 
 ## Documentation
 For full details, visit our [Wiki](https://github.com/unknownhad/CloudIntel/wiki/Welcome-to-the-AWSAttacks-Wiki).
+
+## Media Coverage
+
+Our project, CloudIntel, has been featured in various publications. Here's one of the articles discussing the impact and importance of CloudIntel in cloud security:
+
+- [Cloud Security with CloudIntel: A User-Friendly Approach to Safeguarding Public Cloud Infrastructure](https://eforensicsmag.com/cloud-security-with-cloudintel-a-user-friendly-approach-to-safeguarding-public-cloud-infrastructure/) - eForensics Magazine
+
 
 ## Feature Requests and Contributions
 For feature requests or contributions, open an [issue](https://github.com/unknownhad/CloudIntel/issues).
