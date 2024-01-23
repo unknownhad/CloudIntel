@@ -60,15 +60,14 @@ Response format: JSON containing all observed malicious IP addresses.
 ## Documentation
 For full details, visit our [Wiki](https://github.com/unknownhad/CloudIntel/wiki/Welcome-to-the-AWSAttacks-Wiki).
 
+## Feature Requests and Contributions
+For feature requests or contributions, open an [issue](https://github.com/unknownhad/CloudIntel/issues).
+
 ## Media Coverage
 
 Our project, CloudIntel, has been featured in various publications. Here's one of the articles discussing the impact and importance of CloudIntel in cloud security:
 
 - [Cloud Security with CloudIntel: A User-Friendly Approach to Safeguarding Public Cloud Infrastructure](https://eforensicsmag.com/cloud-security-with-cloudintel-a-user-friendly-approach-to-safeguarding-public-cloud-infrastructure/) - eForensics Magazine
-
-
-## Feature Requests and Contributions
-For feature requests or contributions, open an [issue](https://github.com/unknownhad/CloudIntel/issues).
 
 ## Acknowledgements
 Special thanks to [Michel Bamps](https://github.com/michelbamps) for his expertise and assistance in integrating Cloudflare Workers with R2, a crucial part of the AWSAttacks infrastructure.
