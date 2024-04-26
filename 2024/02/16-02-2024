@@ -6,7 +6,7 @@ Top 5 IPs for 2024-02-16:
 101.178.0.17
 124.44.33.232
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 POST /goform/set_LimitClient_cfg HTTP/1.1
 Cookie: user=admin

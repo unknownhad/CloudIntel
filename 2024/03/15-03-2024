@@ -10,7 +10,7 @@ Malware Download:
 94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
 https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 v2,TERM=xterm-256color,raw:uname -a
 

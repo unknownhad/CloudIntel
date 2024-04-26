@@ -16,7 +16,7 @@ https://www.virustotal.com/gui/file/d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e
 d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 POST /goform/set_LimitClient_cfg HTTP/1.1
 Cookie: user=admin

