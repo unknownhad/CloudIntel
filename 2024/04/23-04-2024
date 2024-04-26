@@ -13,7 +13,7 @@ fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
 https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
 
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 GET /users/sign_up/users/sign_in HTTP/1.1
 Host: HOST-IP
