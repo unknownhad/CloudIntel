@@ -11,7 +11,7 @@ Malware Download:
 https://www.virustotal.com/gui/file/18e0f574bf11bc5e7de8c95b83c187649b2d87d74651e59d9c2aad53ac7bb7f1
 
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 POST /soap.cgi?service=WANIPConn1 HTTP/1.1
 Host: <HOST-IP>
