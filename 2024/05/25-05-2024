@@ -1,0 +1,103 @@
+Top 5 IPs for 2024-05-25 :
+
+136.33.48.118
+111.67.201.69
+210.64.72.56
+117.245.46.128
+2.185.140.219
+
+Malware Observed:
+
+File name: eyshcjdmzg
+ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+https://www.virustotal.com/gui/file/ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+File name: xinetd
+b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+https://www.virustotal.com/gui/file/b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+26effa31802c553121193f073309559db47a7ab2fdcb13955a369b357259c56f
+https://www.virustotal.com/gui/file/26effa31802c553121193f073309559db47a7ab2fdcb13955a369b357259c56f
+340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+https://www.virustotal.com/gui/file/340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+
+
+Commands/exploits observed:
+
+enable :
+enable [
+enable alias
+enable bg
+enable bind
+enable break
+enable builtin
+enable caller
+enable cd
+enable command
+enable compgen
+enable complete
+enable continue
+enable declare
+enable dirs
+enable disown
+enable echo
+enable enable
+enable eval
+enable exec
+enable exit
+enable export
+enable false
+enable fc
+enable fg
+enable getopts
+enable hash
+enable help
+enable history
+enable jobs
+enable kill
+enable let
+enable local
+enable logout
+enable popd
+enable printf
+enable pushd
+enable pwd
+enable read
+enable readonly
+enable return
+enable set
+enable shift
+enable shopt
+enable source
+enable suspend
+enable test
+enable times
+enable trap
+enable true
+enable type
+enable typeset
+enable ulimit
+enable umask
+enable unalias
+enable unset
+enable wait
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox OXQGD
+rootfs / rootfs rw 0 0
+sysfs /sys sysfs rw,nosuid,nodev,noexec,relatime 0 0
+proc /proc proc rw,relatime 0 0
+udev /dev devtmpfs rw,relatime,size=10240k,nr_inodes=997843,mode=755 0 0
+devpts /dev/pts devpts rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000 0 0
+tmpfs /run tmpfs rw,nosuid,relatime,size=1613336k,mode=755 0 0
+/dev/dm-0 / ext3 rw,relatime,errors=remount-ro,data=ordered 0 0
+tmpfs /dev/shm tmpfs rw,nosuid,nodev 0 0
+tmpfs /run/lock tmpfs rw,nosuid,nodev,noexec,relatime,size=5120k 0 0
+systemd-1 /proc/sys/fs/binfmt_misc autofs rw,relatime,fd=22,pgrp=1,timeout=300,minproto=5,maxproto=5,direct 0 0
+fusectl /sys/fs/fuse/connections fusectl rw,relatime 0 0
+/dev/sda1 /boot ext2 rw,relatime 0 0
+/dev/mapper/home /home ext3 rw,relatime,data=ordered 0 0
+binfmt_misc /proc/sys/fs/binfmt_misc binfmt_misc rw,relatime 0 0
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox OXQGD
+tftp; wget; /bin/busybox OXQGD
+
+
