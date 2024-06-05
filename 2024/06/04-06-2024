@@ -1,0 +1,35 @@
+Top 5 IPs for 2024-06-04 :
+
+173.255.245.138
+117.206.128.63
+123.132.181.213
+59.91.94.93
+59.89.195.94
+
+
+Malware Observed:
+
+File name : redtail.arm7
+a843ac9c087f399fbf8ef10fec872a732c9cf97c2cd249566a6133a2cebdc0c1
+https://www.virustotal.com/gui/file/a843ac9c087f399fbf8ef10fec872a732c9cf97c2cd249566a6133a2cebdc0c1
+File name : redtail.arm8
+88dc89bf303026c3ea273d879148e308a503cb211538f4cc47b667cf9f43bebb
+https://www.virustotal.com/gui/file/88dc89bf303026c3ea273d879148e308a503cb211538f4cc47b667cf9f43bebb
+File name : redtail.i686
+8fc5d13238daba3a4986d674ad885f81850c67000c7f4f57df707f5d810ad241
+https://www.virustotal.com/gui/file/8fc5d13238daba3a4986d674ad885f81850c67000c7f4f57df707f5d810ad241
+File name : redtail.x86_64
+19a06de9a8b66196fa6cc9e86824dee577e462cbeaf36d715c8fea5bcb08b54d
+https://www.virustotal.com/gui/file/19a06de9a8b66196fa6cc9e86824dee577e462cbeaf36d715c8fea5bcb08b54d
+File name : setup.sh
+5ffdf7536899526ec78197a286399f011f4723f814412d097aa65d76072f1b65
+https://www.virustotal.com/gui/file/5ffdf7536899526ec78197a286399f011f4723f814412d097aa65d76072f1b65
+File downloaded from: tftp://27.139.148.136/.i
+a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+https://www.virustotal.com/gui/file/a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3
+
+
+
+
+Commands/exploits observed:
+
