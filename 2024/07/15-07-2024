@@ -1,0 +1,33 @@
+Top 5 IPs for 15-07-2024 :
+
+34.22.86.243
+34.22.92.48
+96.78.175.38
+92.118.39.239
+104.168.101.176
+
+Malware Observed:
+
+File name: sshd
+27d3699d590c4e6ce8a904a507157d54cc387f59632c40ba1d85b90a84bc6818
+https://www.virustotal.com/gui/file/27d3699d590c4e6ce8a904a507157d54cc387f59632c40ba1d85b90a84bc6818
+
+Commands/exploits observed:
+
+admin
+...meinsm
+user
+...user
+root
+...system
+root
+...
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox TJVTJ
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox TJVTJ
+tftp; wget; /bin/busybox TJVTJ
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
+/bin/busybox TJVTJ
