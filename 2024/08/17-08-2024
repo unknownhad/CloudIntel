@@ -1,0 +1,31 @@
+Top 5 IPs for 17-08-2024 :
+
+116.124.133.159
+221.207.5.19
+50.46.60.50
+106.53.8.249
+143.110.220.40
+
+
+Malware Observed:
+
+None observed
+
+
+Commands/exploits observed
+
+
+root
+...juantech
+root
+...xmhdipc
+admin
+...54321
+enable
+system
+shell
+sh
+cat /proc/mounts; /bin/busybox VWONI
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox VWONI
+tftp; wget; /bin/busybox VWONI
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
