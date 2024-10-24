@@ -1,0 +1,37 @@
+Top 5 IPs for 23-10-2024 :
+
+185.213.27.94
+143.244.167.116
+51.158.254.87
+201.247.64.26
+101.91.181.235
+
+Malware Observed:
+
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+ 
+File name : sshd
+ab31ea17ea415efd30a19fdb7a68b92146692b76584007cbbb94f55b9761b8dc
+https://www.virustotal.com/gui/file/ab31ea17ea415efd30a19fdb7a68b92146692b76584007cbbb94f55b9761b8dc
+
+File name : sshd
+ad6ac51f93e430d63af3f823727b62b7aa7835ec5b9ec628f9f4b998874ff7b1
+https://www.virustotal.com/gui/file/ad6ac51f93e430d63af3f823727b62b7aa7835ec5b9ec628f9f4b998874ff7b1
+
+File name : sshd
+e948036f1c3b3024a6864fa1c49332c80e1fd28484cf487233a50154ffe104f8
+https://www.virustotal.com/gui/file/e948036f1c3b3024a6864fa1c49332c80e1fd28484cf487233a50154ffe104f8
+
+File name : jUmdYrgd
+6d1fe6ab3cd04ca5d1ab790339ee2b6577553bc042af3b7587ece0c195267c9b
+https://www.virustotal.com/gui/file/6d1fe6ab3cd04ca5d1ab790339ee2b6577553bc042af3b7587ece0c195267c9b 
+ 
+Commands/exploits observed :
+
+GET /level/15/exec/-/sh/dial-peer/voice/CR HTTP/1.1
+User-Agent: Wget/1.14 (linux-gnu)
+Accept: */*
+Host: <Host IP>
+Connection: Keep-Alive
